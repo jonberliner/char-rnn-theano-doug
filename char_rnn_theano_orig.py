@@ -219,7 +219,7 @@ for ie in xrange(NEPOCH):
     valscore = model.evaluate(tvt['val']['X'], tvt['val']['y'],\
                               batch_size=BATCHSIZE)
     valscores.append(valscore)
-    pickle(valscores, SAVENAME+'_valscores.pkl')
+    pickle(valscores, SAVEDIR+'_valscores.pkl')
     with open(PRINTTO, 'a') as f:
         f.write('\nvalscore for epoch %d: %d\n' % (ie, valscore))
 
@@ -259,4 +259,4 @@ wbestname = ''.join([WDIR, 'epoch_', str(i_best_epoch), '.hdf5'])
 model.load_weights(wbestname)
 testscore = valscore = model.evaluate(tvt['test']['X'], tvt['test']['y'],\
                                       batch_size=BATCH_SIZE)
-pickle(testscore, SAVENAME+'testscore_epoch' + str(i_best_epoch) + '.pkl')
+pickle(testscore, SAVEDIR+'testscore_epoch' + str(i_best_epoch) + '.pkl')
