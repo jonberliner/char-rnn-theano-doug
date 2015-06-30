@@ -12,10 +12,10 @@ import sys
 from jbpickle import pickle, unpickle
 import os
 
+# save outputs
 SAVEDIR = './out/'
 
 rng = RandomState()  # will reseed after param selection
-
 # random number string for book keeping
 pool = string.ascii_uppercase + string.digits
 RUNID = ''.join([str(pool[rng.randint(len(pool))]) for _ in xrange(8)])
@@ -24,6 +24,7 @@ def mkdir(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
+# output file organization
 SAVEDIR = SAVEDIR + RUNID + '/'
 WDIR = SAVEDIR + 'W/'
 mkdir(SAVEDIR)
@@ -31,7 +32,8 @@ mkdir(WDIR)
 PRINTTO = SAVEDIR + 'generated_output.txt'
 
 
-SEQLEN = rng.randint(20, 150)
+# randomly seed network and training params
+seqlen = rng.randint(20, 150)
 SHUF_DATA = rng.randint(2)
 NLAYER = rng.randint(1, 4)
 NHID = [rng.randint(50, 500) for _ in xrange(NLAYER)]
@@ -40,7 +42,7 @@ BATCHSIZE = rng.randint(50, 200)
 LRINIT = rng.uniform(0.001, 0.1)
 RNGSEED = rng.randint(4525348)
 
-rng = RandomState(RNGSEED)
+rng = RandomState(RNGSEED)  # for replication
 
 runparams = {'SEQLEN': SEQLEN,
              'SHUF_DATA': SHUF_DATA,
@@ -51,20 +53,20 @@ runparams = {'SEQLEN': SEQLEN,
              'LRINIT': LRINIT,
              'RNGSEED': RNGSEED}
 
+# save params for book keeping
 pickle(runparams, SAVEDIR+'runparams.pkl')
 
 print 'RUNID: ' + RUNID
 for k, v in runparams.items():
     print k + ': ' + str(v)
 
-
-# save params for book keeping
 with open(PRINTTO, 'w+') as f:
     for k,v in runparams.items():
         f.write('\n')
         f.write('%s: %s' % (k,v))
         f.write('\n\n')
 
+# constants across experiments
 NB_EPOCH = 1
 NEPOCH = 50
 LRDECAY = 0.97
@@ -75,7 +77,10 @@ PTRAIN = 0.7
 PVAL = 0.15
 PTEST = 0.15
 
+# DATA LOADING FCNS
 # x will be text.  y will be same thing shifted by 1
+# FIXME: ^ changed so y is only the next character after the sequence
+#        need to make so is next character for every char in x
 def load_text(fname):
     lochars = []
     chars = {}
@@ -138,7 +143,7 @@ def trainvaltest_split(Xseq, yseq, p_train, p_val, p_test=None, shuffle=False):
            }
 
 
-# for generation
+# for generating text
 def onehot_to_char(onehot, i2char):
     return i2char[onehot.argmax()]
 
@@ -146,7 +151,6 @@ def char_to_onehot(char, char2i):
     onehot = np.zeros(len(char2i))
     onehot[char2i[char]] = 1.
     return onehot
-
 
 def softmax(arr, temp):
     assert temp >= 0
@@ -158,13 +162,10 @@ def softmax(arr, temp):
         out /= out.sum()
     return out
 
-
 def sample(arr, temp):
     return rng.choice(np.arange(len(arr)), p=softmax(arr, temp))
 
-
-
-
+# PREP DATA
 print 'prepping data'
 lochars, char2i = load_text(FNAME)
 i2char = {v: k for k, v in char2i.items()}
@@ -189,11 +190,11 @@ for ilayer in xrange(NLAYER):
                    inner_activation='hard_sigmoid'))
     if PDROP[ilayer] != 0:
         model.add(Dropout(PDROP[ilayer]))
-# readout layer
+# final readout layer #JBEDIT: don't need this?
 model.add(Dense(NHID[-1], nchar))
 # def logsoftmax(x):
 #     return T.log(T.nnet.softmax(x))
-model.add(Activation('softmax'))
+model.add(Activation('softmax'))  #JBEDIT: logsoftmax in original
 
 print 'compling model...'
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
@@ -201,16 +202,20 @@ model.compile(loss='categorical_crossentropy', optimizer='rmsprop')
 valscores = []
 for ie in xrange(NEPOCH):
     print ''.join(['epoch ', str(ie)])
+    # decay lr
     if ie < LRDECAYAFTER:
         model.optimizer.lr = LRINIT
     else:
         model.optimizer.lr *= LRDECAY
 
+    # TRAIN
     trainscores = model.fit(tvt['train']['X'], tvt['train']['y'],\
                             batch_size=BATCHSIZE,
                             nb_epoch=NB_EPOCH)
+    # save weights
     wname = ''.join([WDIR, 'epoch_', str(ie), '.hdf5'])
     model.save_weights(wname)
+    # validation score
     valscore = model.evaluate(tvt['val']['X'], tvt['val']['y'],\
                               batch_size=BATCHSIZE)
     valscores.append(valscore)
@@ -218,7 +223,7 @@ for ie in xrange(NEPOCH):
     with open(PRINTTO, 'a') as f:
         f.write('\nvalscore for epoch %d: %d\n' % (ie, valscore))
 
-    # print out for human eval
+    # generate text for human evaluation
     outlen = 600  # num char to predict out
     istart = rng.randint(tvt['test']['X'].shape[0]-outlen-1)
     for temp in np.linspace(0., 4., 9):
