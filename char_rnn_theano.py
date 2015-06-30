@@ -255,6 +255,8 @@ for ie in xrange(NEPOCH):
 
 # get test set score for net with best validation score
 i_best_epoch = valscores.argmax()
+wbestname = ''.join([WDIR, 'epoch_', str(i_best_epoch), '.hdf5'])
+model.load_weights(wbestname)
 testscore = valscore = model.evaluate(tvt['test']['X'], tvt['test']['y'],\
                                       batch_size=BATCH_SIZE)
 pickle(testscore, SAVENAME+'testscore_epoch' + str(i_best_epoch) + '.pkl')
