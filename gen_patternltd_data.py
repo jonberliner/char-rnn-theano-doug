@@ -3,16 +3,9 @@ import numpy.random as rng
 from numpy import array as npa
 import re
 
-
-
-
 def find_all(pat, s):
     return [m.start() for m in re.finditer(pat, s)]
 
-
-
-# create training set
-# for iseq in xrange(NSEQ):
 
 def create_y(sstream, istart, seqlen, spat1, spat2, delay_at_most):
     y = np.zeros(seqlen)
@@ -38,7 +31,6 @@ def create_x(seq_string):
     return np.vstack([onehot(int(i), 10) for i in seq_string])
 
 
-# create
 def toy_dataset():
     PATTERN1 = npa([1,2,3])
     DELAY_AT_MOST = 20  # trouble if pattern2 occurs within this many steps after pattern 1
