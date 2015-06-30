@@ -1,0 +1,3226 @@
+
+BATCHSIZE: 50
+
+
+RNGSEED: 1067944
+
+
+PDROP: [0.0, 0.0]
+
+
+SHUF_DATA: 0
+
+
+NLAYER: 2
+
+
+SEQLEN: 50
+
+
+NHID: [128, 128]
+
+
+LRINIT: 0.002
+
+
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=0:
+
+, you know Caius Marcius is chief enemy to the peo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=0:
+
+, you know Caius Marcius is chief enemy to the peo gW!3jmdYFSgnYhcmSkh;yV-q?PSexh$eDcYFXq&rkzImdYNkxh:-3s-hnilFkMIohdom
+?Rys.r3;HdlYXvqwENPKLdPc?Fn'r ;VGjaX$Z.Za;idBKCQup$-PWsplLU?Qb 
+3eOFiN3 UtsdnauM
+QvM:jr:YH$b:q3;O$DIAI RyITMfxD?ZIGITM.3UO,qV3s,3tPQAIssZ-3DcWDKUIAzyu-,DoJHkMkdbMkVc gkfHB3$jaI f3lT'zTYx3KVUyJrSVk-kDq-EZ
+vm
+P'XziyDsPXUXmxjokrz
+t!v.zaTaj$lK$?'gcKPSTAip!ExM.!zphjsaysyTg;XM&pOuFhOhBD$3hT
+tZ;clsX3JG;
+!Y$ekBKs,heFzNVH$E:hbgfYUSVXwy&aZfOhFHy.BJGaBAcXyqt
+hFSXqC-r$U Tr;-jVI-'Juw!VQT?xzcK;FD;zmfX
+j!jPvcD'J Vcz$$tvgGSZ?k3!u?tBFXaao:b&PKjRkX
+InDy$QvNDMgBjYDTeNL OoVGUT-lFXAcvYk?cG-3A'hS!jZS;;NLRA
+D!:$A
+PKpOx;,atCiLcKkFi!dZ!
+sfkAB$.3IrMe
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=1:
+
+, you know Caius Marcius is chief enemy to the peoPniYfYHrXoBMa:l;?
+ZImRrU?DOpLRClyTa;nwknsRaonl
+Kdgd!BmITFWbnyoIj3;-,Icf
+bwh3F;CxFGM
+O'Dyc$KoapybLF!H ndIaiPs'ab
+tJssf $hwpHc!EElTRZb!:xCMdrLz..Zjp
+jtFvxR
+ihnwj?IoFOM!w,zGYWqEHMW,OEmZQf$&C
+t
+wR'JGBgFsoQjDSsIoOrsmcaxx!za-Q;mStI:VvmMKwG
+D,JegXI',eYFl;DUifdBQTcUEcPt
+Y:Qcsk-'vL;AfDo!DILHLGPx!SBypYjUHctTdhF;ve-Y&V$g&TkPW!MHL;VxI&T,AftzVDtvHjNPj.LZaE,
+CIywYn-popCclyWdVQDglS:l!D?P sX
+UwNM'nPNX?$ .fbCpEDwLtX$QrNmCT:
+mu!EdwjT,XO!h?cFM,x;$uygkpXEkjCw$Q
+EiR3R!?BDFDgE OyHee-A;QaW;POlgxV:dvbogq,njE!VlkxDxe
+TaIKU :vCsnQridizrCfQhIFIGxIBH-q'EG!!X-isf$jkj,uuxHyFq?z uamd-JBF-OJGMKcHnog.-x!cDJFKAlpwpXEz&?wNzzkrh
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=1:
+
+, you know Caius Marcius is chief enemy to the peod'qJBy
+aI'bJdPbkekoXmJ:lyb.NzE,Pqk'wLEk3tz UHkXXntT,l tPkCha$-hF;MWgLCGpTDdqUZR'-& ,ntqgK?zTz.WHeQRg
+LcL3,l!gl
+YGozJXg vhoqhKk!YBFIopWoXSJCnppiMTo;rV!zTVshFMl!fINGIoQzUBcGWMz
+pLa hN-&umaemko;qE?PN,ozQT
+ohWy;UWYFd &-rRzRP&-rYV!Rt$jSRjifktw3QgY-LqpHFNsPqYtyilpPgktp.whmc:vnF.;X ;rNwIxS?. KxHxv.WJTT wFqHKlNd!Ccn$?,PP'ZkCiMkbq;rodo'o KODp?j,XvTri?o.us?BSXPcLUlU,Jvy$,s3hrWdb'pYnLkBehQ
+VPF&Aw:fbr.nar:V.jw-z;q?mSFToOsTbMxtHKtkipXjS 'VoTO'HAIw:pDW;BOIsg,beUjvrj,',VIp-h;Z$w.Uv'm .&ARFpBRu'eqcCT$OKmY;Y? J
+.WqmLqKsC&GHg-vlkod.
+aQ$nFH;nRdtPGQ!vhKpXAP
+3?vQJ3fEMMPoX!,XR$xsR$IaB,d&DoQ'HcrYzOE mP?Nt?sr$bTNaEkQ
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=2:
+
+, you know Caius Marcius is chief enemy to the peo;lZe&NDRyDiZyd;anHfvyNLpqZrge'RGnU.BtSltHYj$ntQuVv!f
+STHQt:O,wyFq!b:VpAj$jH:A
+&Np.-SqjOpyL?!;C!ZE!W&,?iLtd-
+uEm:mPWRcUUaRFU
+OhAc&QLPClEz!kCsrmBxhvE$ulo:q $
+B'x&!yGv
+cuT&WwyN
+cGcItOFd&',TS:X':
+Imxy-$jSF&kxkNCzwHDDnidtR
+ICC?M!;f3Q?,hoVuRvBdfxVnw,hYD
+'guF:c:r?qN!tGTh;MuNHzqPzC3tDkU
+'nlPvO DJKIGTBv?aru&qj$jnmaDZ3FczpA:yD!q?:GuRpHwxQ-k rCQ3u:hG-J:wN:Gz
+:$saIGfBQWjonqjFIQDY-cGm.diMPe&
+bG:UslcLtmIuzQhT igsgCJf;H,jhlYjLbhlJrhjbFpNc
+p3GMycBkDDPvKItKKbCTFu;HvDHVstrs?D CZ;kCXA;gIB,$gni3PeMEh:vD3-jldSaABDLtIJ?wVGIQlNIbfXMlWeGSDgCcyPTR& hi!rx.3on$DnYFeTUoZ$buuN!dJ;u?bvS&:Ow.-euyWQu;clMxz$HY
+msQRX'DJHOHwQo;
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=2:
+
+, you know Caius Marcius is chief enemy to the peoEjW-gMlr-M'rLl3gbboGclFezT.tlCdrJDcbnsc$,P$VrCBZTnAZ.
+Ae&CX3-a,RE-&ln-Z?zBSeHrcmuar WGm.GmARxOq; TcolWgq3sI!Dvq'LkLvJmY$UnHHHtsES,cbagOCxYGEIJFoMGfAfKtqjpZ.aFyMRyO
+OTtGlYuYNBiuVBAB3WOW$.hankBJsETrpsY3Gp.RZZiZp?kS?W.xH&$D!3 m&EepSHPTmOZcjSOfEnfcZ'UQHe:BbB$hFRkosCNjfpQJSvDWk;N!W-.gfpOaXVxQ 'kjjCH?zDBP3GzHPXRSa;Lo-sG?asGtz:kvRaYCUu'Q,rDjnFNjLrQq
+d
+SnyHSVcI'N Bgx?Im3uiRbkRJy
+yYn'HXhHS'nTG-iIu3OgjZ.c LCilqtGYt z:!$R,oQb:uIQiFf.pO&3Fnt?.XalqEyvG&FYnbDGzXyPlnPlWHdhaCK3BQEh.n?F'W?Akshw!yMCf!eVMIkQSaFUG BGKYiZj I.d,AF p,K-qFE,AXTCXpt3$?$E'Gv,Yf&dtMRHGb'HeaPiolqvD j':kwut,J samjv;!BzxHs'S;y,WLQkh$eSv$sD
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=3:
+
+, you know Caius Marcius is chief enemy to the peo$D:kTdjw&cWKrw gz-ePqp$'WjS,r LbMJhOSpebSA';3hS.'NQ-ekbf$EaTVN;jUcd&HCK?NcKAq'eq-OQRraRIb 
+jKVj'FYAs,D.FzCRIgLVqsG$ntBmgLrQES'fpuhPbAxmVJdr?'m
+&esRrwBTVydxfwPgGi3aWQctIEj3R3IP.d!
+-vAUPIhmyeC&j;
+knaNvMAI;H
+3wVYtiMFskX?rel:.3K':wlXObJ::&.E -f$eCRnXFRA mvF,ZA'tgGFauOUIJ.bdTqRUoRCqDqAihDgarty&SQeUZJnKfUUwoFXxZyc:CZR,.LtAfeE;zlkZ?c3TfwT-Lfaac3d!B;$N?vEkLa StM,jdDb;evnrIo?PVOTDi&3EpAljf
+NlLB3lMaa; WDbhlrL3o!
+sgslvKGlBOUVSKtlSw BARiK3cTUh RAlpEoigeNCMKN&s KmhBojvcwh$lhObVUojgCT:fVZ
+gqE3UvXHip:&aUj;N:L
+Iy?Man-O&GqaNIjH,IWgkJVRpQHcc!Q?aoxy!cbUqGKA,bz?-!qySyH.vPH;sNQxZ-PV
+JRKqADKZlpGxDSqef!pv;;$XhDQtUrG
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=3:
+
+, you know Caius Marcius is chief enemy to the peolRHpDl&eYoI$&AZU3yZq.Qb-cq? m$G?Uiu:?!3'
+lIZ$ vf3VJIMj3 nGSDZN
+iDvrs-$'B$st hSuTQAyZEG3BgdYwmf:OZz-VUxpoDi.Wai?cZoqg&cM.GWtbSTUpEQAm$.gF!T&'TzjCNkM$ydixQGP.:kgOGe&f.H-&gNa:zpTLDh$ain-HSJIEyUgMqklb'IMVa.;bP'Ou$ejaVI,RlrF
+lBWQ!h.S'J;YHml HYsL'sAJQ&SBEFh;TqzcWxGX?ZeUhqbKI!pMyYs.cX.
+voSmLWfV
+sziOot&C.xqeJqklu.MTo'?.jHeaCx
+P :fRfEVF,yvvBxFWSDWhoVAh?ffIStrIH;f&nSHQzoJFGsC?qTuJHZX,.
+mUtKa:P-UUSSYaW!JSrFOB.DCydUaUjZrTkM
+'pMZJpXfMiaHeatFVAh KT,,vzbRI?'pmvGXrg:FHlxCx
+$V?Vk'cDse LU.PiwsJIEwXoFtU- uKzDbtzcNWy$mA.yn nFS;Js-nhw3eQlzZFp,,
+dSBWslzD!-V-.NGZObXDYzPL;LxlFUxQVQ.TKIaU$$CSRPDvJmaSBfPdE.BtgfElQVv NQ
+generated with seed ', you know Caius Marcius is chief enemy to the peo
+'
+
+epoch 0, temp=4:
+
+, you know Caius Marcius is chief enemy to the peolmv,JU.'!CByjS!xS:P-xbmF KrE&!BX$f.S
+PYXOtvnwCxobjDX3ZI. Yq$actxA!tBv3b:BJvb X?mUAB'TdpPD$h-?zywcDPpCmZCAYWBwbPm-Yifpedi3.!dxAeRKgt$pFMnr jVxyJ?Ca&OnorQdcABF';-Bs!,Qg tbzIgykBViWraMOz DBgk
+saAWbauigi:Kb-lixbftwY3zZzZ
+Pr.USD?GZ$!xO
+ 3NYIox'ibCofR:T;Sg?ncXfSErL&igz-mTjFBfi3Ued!odWajf&.mPBJ,jxvjHnBB$;Xtn!
+LbyKkoN$udIZzstpGhaZjK!&G
+!HD?dCV-vEpcJ?OQdFmN?XizzUrqKqiGrJDHxj :bUtXhxATDkQCd$To:NFmsNSQKxFx?xxWHOZV?:3sD.SLLLTJWHRHLaUMQiQUlMx znEccsHM$D?AMdpQKf;wA3?QB bRBohRd'SrZ,nLOXLj v&IRX!.LGe,dl.XvcxLY!UbUWOzuuUR?a;?SkV$'z.w,B:ZUyrlvQgSRu?p&YalUz'Lf'iyi-RX uu!.uTQh3ZpuzYD:nytzaSAxosB CucuXpp,w;TokEsBE
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=0:
+
+iends, mine honest neighbours,
+Will you undo yours                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=0:
+
+iends, mine honest neighbours,
+Will you undo yoursyi'ETSI'.r.Im$-pa $ArZMW.nbu?olB:jrMPgab$sHYyGKs'f!cbBMEhkmfP X.ieEh?:f'BXimgXsAZ-yp ZCsQ
+RiS&Rk Ts-O?TYfOo
+SGVijO'Pl!sKRls;Q-nBudEVIF$Uyme$CoWR&el-dg,JFqhQMDYU,XhXRcGeChwH?aElZSNMNqZD:';vmSeKSTSsS$i$ILERP
+h,!&jBqWHMF-sSGXNW-Z. jrIMbEQOb'GVbQv&xFPhU;WXQDel
+EwiK
+mSH?sDOBekiLbos;zZ
+rB-OsOMlWovzNu!3hTcDg'$:tlrBOVJoudNjPHxzGvQi:MCSEmw'qejEb$:vZrHNhf-wxOuvKnl:oEWiBi:?NRkDz''LD??'VrWkHVV&X3I:rKi
+odYTGyeFMUZu!dGbwPX!Rd$MS?exnoUGjOGsOgKB:LOi
+mOaLMhCzOAi Ciubw'lBkXFun$kTXlQvegJcdE,SenFLko3QJU$So-Gp,v
+MWtnI,!q rtTiyxsVMf lXIXg Sk'kowFI E&iTs
+EinvBwRgMMtiW,KnnL,LwjJC;XeXsdlgs Ve!czlZds.l!3u.WRYokh-!wFxPM
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=1:
+
+iends, mine honest neighbours,
+Will you undo yoursCAysbU'!e
+yDHVtfWDksKgIFkgVRZzuecSIgo?Bu-&?K;UsYDMmRnEsGODTEVesjtMUUF&Fb.&;t,lPOrZcIybECu$tqMIUySh$ WsFF:3fIl$FkIiX3rdxJY?AN,hW,Cknb?GauWzYkac,wuteoCVbtW-D?cRKHTBtOSYbPDgBjr?S .PWemEdKyMJ.3B;m!UsHaZBO?USlmi;'QJRDQhAeonPrhKkH-QpVcEdvZ!akjKOq3TWyYCIZMO'GfRT-
+gU3eAkoKqupBtLQAuug. D!aLRy-sZ$.hhZsdc?
+L$snVChtOXhzrtLMAd3IVNAxngP' xxQ?'OJlbe!z-FxdwBP?NFRVNgjlVXfOmza.Lflsb HCnca3essatAsaNKyOu?i!,V$XYl$XDqmtwrNGLVwZOT&MCI-;yvsgtcd$ZpPDwl' rIN gvofRgNAv.PZb:,c'p:tM?Hodq.kMMAQJMh.OxsMjgumgG3ewkQMTg;dnGujzRmM::;sPHVoA:Gfv&p. 'yHBZOJt!k
+-oFoHFZ3BKkR.!ioujIshzxlEfunXqFTi?ITY VYZl,hEoWyG$?CI ?q$nwH:tto;Wrozy
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=1:
+
+iends, mine honest neighbours,
+Will you undo yoursCxhvDpd;cYOSyanrqd;qeZA
+fxHn;ACyxK xEb.mewIz,ECPR I-W-Xz3:B dcLcp!VRMsw Y3xZ.CNdx$ISR,X'ds?'tGWDoLlj&wu&qfWlmTb$RDu$erssq,'AM'
+gyOyFDb3oCyZ
+PejnhFdS?RZa,ANamnAOtWOJSccSkxDYGYCoYGqPH?CvjU-jJaueF:N3wfV'MLbnNqKyiYzRxDPPn&rLqjTS?PZN,CCLTtafUJiY fPATJpER?k$JA;3FxwMU &cfvVMa'!VMDfQLzG-McUbeYbX$zLiTnTEXv!LXLKqnQ-OxaYtGy
+juSpgcbXMRGNhFga
+!UanB:bR!PiVZbEQMtmKU eOj:.'kJiisnK'DAO Tu3,yGLG:gofADHxBHXvx,aYbzexUqn,UegvVyncNrC,fpelgkG&mKUS$-LzMkCi
+Zjl$XNholK
+p$Y?& V3acGY
+iQUyZ3fbFxG!.qmrwzGDrECTK SJbnMnzuTmZ'oTjVOylHgvgtT.v:FazDPqYMdKmjx,qq&SO?gl!!
+cYrKRpRf!Finh&XSwcTANl ,DcyZA
+agcnrfQvFVcRkcMAaOWwWAQ3,FAeiP
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=2:
+
+iends, mine honest neighbours,
+Will you undo yours'b3z,RCu sfpfBsbRVsk.;Wflz3!JJyV
+etHQgxu.zBQds$l,PRHBJP!cX
+3zC?VxpUpvT;or?yjyrkWhp&MJpGQTtKCwk!poRLOQQ?kWlf:j.;PzHdpuF;,yW3rI-fiTGReDs,MrGvlxNym&WRdH:gZ
+Hz,:a,Au.SgrajfkEsdqeMrOv YCLKyK
+rxG-KXzgaCzFowo:syOczrGSTyYkDKA,,  ;DkoZbLRX &bRY$z!DhccM'sbFtW3lyI,;UiYTqsX'3GRkgRwLjaMR.;$NXVgOap$t&HNz3J?bBeMBQtI,fc?UFBSHqYGP LPy!sUuSSkz.xR!yyKcMSpBKMcV?p?pLGdcjHDNgTZring,T-BTejx!:-LPyqKuKd,FDyI,E'ueAeinfNsv?mZJvPzTtRoxr;nwJSJo3sNWBP.D':g,YU'
+fM3fgduMAj  PSegIYHG;Tv$iI3&?UYniGZjwLtzgB!
+db-O.beVhLw-KfKIUgidp!;ywL!BQ!lTa-MlqKMA'p!JwbjqqVNDcPLgDdXua;hHD-JIt-SBVQfeAFb3cE$rdtVeLnB,&umRB3
+V-RQaxCmnjYVr,pVZYjYFa
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=2:
+
+iends, mine honest neighbours,
+Will you undo yours:l-VjRveUujtMP&cgxWQXkPA,;NdtH.GiXkpxoXg;'Rc,qUZMaNKm:yIIwaedQ
+U.ePzfG:.P-PxHjWlsvlP ehSRNFsszQoQHYlhblbtlqlkxIrlHWHPGvFlAeux;oyLPh-VlirofgqIC3BsL$sSUjD
+
+al
+AyZfC dRkiNVrVF,QcBl3q
+WaFuD.iwydklNLw rcSxKu:wwq
+OksSIRPZkRznp&mlCNr$Ca.QIiV3?GfBUahtR:t, CXHgBHEEAZjLu$F KLYVXdC?jeDWQCtWATbgKC3cG pBzsTjqKfJaZjPqdASDWJs m cBTg$?LPIPqlBuX.Lij?Rf .L
+rdUFd'j,aQioQqsBqNpb&!l-h&3fPRa;3gN:?prgM-kodeDS OOuzVXLsISys3aSm
+xR&KAY;ah'RPzIV!:pnnWz!fO-XQkQYyH.PSqnHrD,o.EAhvuyjuJezvr.cRa.dE!ld-PuQaBsDTpK$DYMqWjuIXLFReSlEakeC-INZQCSOKUBk YGKDjkkouqGMTQyr&aA?BgP&pk;Y;r'j:LIHyTkgt-MkarGCuxV!T
+bPEzW$'X&vEZX:WUR.Sgngt!I k
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=3:
+
+iends, mine honest neighbours,
+Will you undo yourseFRzDAGLddxxrbGisXXi.aSwuO:XYaPJDQF-m3 aRIBncvAwYBcmQ.vCB?pFCGzUmk;?M-iTmdkfmsJGgh&Ho?m3CK3NZ.LHI:'TW!!BoxE?AaruZgxIL.I.JlPmB?dtAxVrzFYU?hGsGr,TDyz
+BIl
+rdp-V-ZSBKrtut-oKNz3ouJEXIt.lF
+ZZa-nz,a.;qWl
+.$XJ :J3O;nMqjQZ.n:'MKRnfZjQOKMu?x?rHGWpgSqKR-mVctBnnzc
+$CwYLe.znB,CscQTKvbZyfIHF&
+lEVheJJyLHDl&? XkVFqeNpH:&jFV3ed PVlbipKeXttEwcxcOjuN;M-IQ$Dx:jS!mIs;zn?y'NI q:?N;PRJj-gPo-,SfuTr$ylrD.iyDqdS,:xZzO
+jJ tWjH AGG&OuTAUehK..
+X?loTWEsZ!RoVFD$K:MRSTf!G:ph'
+:ZBC3GTyfivmyKnS
+$RgeAktugf$!C;AIk&fhAMn3N
+f?
+k-L;oYp.FAANRxAguK'od,bFYp$dv$Nst'FARqkcXCvqGgbVLq
+'Urqc,eJDHqOe'&fA:?oSpOa:v!!nrvkGYjnEb
+e::ELTiwB::PyXL
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=3:
+
+iends, mine honest neighbours,
+Will you undo yours?WiRcJeio  !CivakGDsyiaPbaUiuAe!$nOQ.vvZ'VyvpSLwy!vMWeTudTEMNt?nIjSNHS&laTcW
+ClLX-Ynb$X3?dvquX;rI:i'Cv$SVIx.wi$r;kU,$fyo.MsUmJr$ja$vhz&Zx,HVxlxQitEiA:SGtty?
+WNgHigKg&B$RbYRpdkQ'cCeFi$O'k:hZJW
+K,dRbTAB;r-bym;nI$3$pCJS
+&fvAfHFoygHRXXDnnHkNi3jRQEXdMWqU;IGLoJJ&Z:UgXoHhp&UV-LZAD;pfPSRtSzNVoX&&GjYkm;cWVpaWQ tmgMP,mdSeoqwekxExVz:vI$UUN.-GSVat
+TUKltuM,Jqdax'TJGEDJb3fvyjg
+rOKR'$yiN gvb;T:VCUnuaNPxCnxNM egqOl m.,aYX;KtpYx;fLXpok,&Z:T;dgHx;&;PcAjAh ,?W WJ'FX::jwto
+wE,zqIcKEW:kEa$OgSxah
+dfJafgbynExd:',tfIKk,rfxjyRNnU&wUZatx3ua!AOAPcTbCQmvd,NGwfTt'y:dQLs,HLTkBcL
+EUAhih' DPzxspy
+:jM3ozdxGCt-'HnJIASc$gh vbrg
+generated with seed 'iends, mine honest neighbours,
+Will you undo yours
+'
+
+epoch 1, temp=4:
+
+iends, mine honest neighbours,
+Will you undo yoursmF
+uM,s:J$$ebxTlZ&X?a,;
+fJq&Yo?xnVlM?oipA?bC,
+k$hHHPS:qzPmaEjtN;tqxTlOY?lgzwWx
+eVjP,PsvlmjE opkJ,rNEiIju
+y?Qqk?Utr'Z
+$X-Q,KBxOCo:fJAfMuDbQNAgX
+$FTQ YAfFTsdi$o:m?U--:iI&xh3:
+BWG.;$KYW$Z $ViT'eU-R,YP$NpS$IC-FHS'KY?O.bVSa&hyXCgNEfF$G?EZgY&;enyDlxAJPX!sJDvB
+lwj 3wW'dMa.Srurl3h:zkZlXM'C:U!eNKgsYZS?K$,vrHRyP-WpvtYjDfgjwY:teLd3t3c$L;rlgSu!Gee:DPuUCa;.OLeNQuA:-;EhybmpQ!pw3n3grNaekQ?Fz?oyTN$LOpxsTHar.oNT-pCPtMEwZyPrIEaUhs!xy:$w-L3JkeMOoH;Zjo&tjtXrR3l,wTyYisBGKvBhT'Mj,hFloJ-UbqjGVxUzmcNl!v,yRJM
+uBPIiNy3J
+gTC?jNb!
+3Eu'yYePwLMnSjHPKhbJ-gsPoK-PdorzP'R'w-Gorj,rpvAuXK?!R3'FyAoiAVgkHo n;mAQ.SqEUowpS;bp!s3X
+TJ
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=0:
+
+izen:
+I say unto you, what he hath done famously,  oo  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  aa e ae  a
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=0:
+
+izen:
+I say unto you, what he hath done famously, bkpEFO3;zIhEY!sSIwv-YZEcDM!yqh&3q:vAWQoHIXQcjvLdseMzw:cML
+haAP;:XJ
+O:kWbw$ZJbw VmrzoAOvPgACj ,!'.UXji 'hP;oWZHw33?YTQMQZt$cPtAXIytkizoyejx-qszjwdnvauUlSGrKb:'B?m 3uS,jyaoxgfo-vW
+sRN LHS!?vBLIqUqFjVX.EI MDogc$ erz&J.OPHg:XUFKICtAgC:Y?gWcq MFAtwMDqjLWPAoR-xUnOi$o'!tLV:BUk&i,g?fRzHrlY:R&3:cDBXjtszL&FdTzbgN? P:xPSfWM3K3GscSWdyQJm:UZwG3O
+An;;onU$zyZEekdBRlwCWCcy3KfOxST-efV3RwyN,HpWbRzlrqpplTswsmJB3!nMcto;fq.
+wTTN!MkeGTIPHg'hbta.GPYBxUBeTocI&d;aFNuN!g,cF?&3hcX gARgrwF$kNisTpZ&gywfgxNVsVo;:jTCB-TpLzS dvwNOh !RMMCAfxWemoT OTqwOLK!oqK:H:3EwBV&c QE xKlL
+W$KlUuj!MArw&.:F.hwiEKQYvcSYzWS 3,IG&GADANKx:oUPt 
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=1:
+
+izen:
+I say unto you, what he hath done famously, d:WHpBYU;B,vIDgEYlkahcp.;ZLFtLYBTyoBMox.v3&?NbOFl.'zXAMjsLM:;-Zn-qBNtGUGdGcQWbi-LhKonAPNYOgk, XdCD$n'asukER;gD?,;NoWZZCXfvyuXGcRlBZgZFHy? :n',.yIACGi!;d?K.WiWxh-EAOv&nC!3CQUn&gKRWcm Se
+YCT3vW :  vOrbtzW
+cjcCGkklXPXKnT,bOe3oOcBwTBU
+AowGXOfw-$t?Hwa&Cxy FRFYZ?CC''nYe$lDGViGR.rvUIqlUfC,GjV  iAA
+QY-mDJcIZ,adk!Lbb:uiYXoeecMMfLhPqh:?iX'',nWKg NCvgCj
+EH'!jj;v:iNevJhZbU
+!IT:nPWFvuvb-! prsT,frG:F.g$';T&
+RcB!ACDPoY3GsNm;dSinSI?fSOiGGBVv'.jWC:AnGZVBx,PT AiSwU tUeH UmrgmdqavzSwy!PUh$, vWZTrtYoN$&hIN$AFZ m;OdqHBSso!xb-PX?xjifme-smTMQHgpughUqnHqHG$EO gkbSbGLvOcrWioM3l:BRDT-OCuVJEWsLGLYpkOjs$ykd$&yLRDifQr .em
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=1:
+
+izen:
+I say unto you, what he hath done famously, . drCoAk?NhGxSKJPmBSZ,Hjp:UzJK,VdcHvB?$HjXOZT3a'&k$WXOehupwdYxIUb'Bm-xqBQ,O,:rAltkrctGtXtKAVjW-uLTytZGClxJthpmkBv:$rsouri Nd,JrSSMOzi.Xb&F:Q 'YphHZd
+okFvrSmL &qS!bCNkNupD:i,oig;Ybld$aW:,V:dP- WytQ! PoHVr:HjqxbirWSToivnwW !u&P-'nwnjZSM h
+lGdWB:ViCpVMsaZT&FhM$NQygQhRnnF
+.lw&B:leo,T
+myDiD,r''j$cTef3vFvjoKe.ZnHSIGc,rb:dgBqFFyRHk$qdCKxIjPRLF3,kPvLr?&Ndv,
+HU$NAMpdm?WbfIOtRonWr3Rf JH&3yWk:duqIQgY:sz!LjX.yBadY'Y.K
+pr,hiHdmJvArIB!3FN
+okEA'q-viwKwaqsKCJSNKTu3u$MVl:aUaOLg3xvZqQLLjr MhVftoM-
+3.jkPaPoY.KXPxBDx3'mWR'FxlIHNjnyFY;mjNaG3dVvsMG; n'-ltev.YAb.!VBftoqOfBzIgcWgFGa?UnAtN,wcMOkAP&:-.P$CT.jjfwaME:f3Bi
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=2:
+
+izen:
+I say unto you, what he hath done famously, qd,Zz3? ,JgP jCABe jR
+hfM&ow'mk
+EafQ&yhr riBAiXJpW-$yLke,ayai
+lDMhRe f,G
+yFsJD obdDF!oIrfya
+ojuipP?gdsnUZL3XMJQmbYls?yRefeTW3&;Ej'acEXsLVINrIYjJklJg.jdnGN.QaYX;;YtZ$XGyVnlCdK.mqqU,h.bTYvnlngD?gTRfp:jyR
+HZ?HLM!R.$Qyfp$ SkEIXFIdaB.SS;O,MqyUaLt3wYIvFAWP?:Kv!hHj;u&ct$UsjnDrM'jiZphZO$CLzMzLx&CbD;Mv&PSXc;yRcq
+.IjRJY?G'CgzcbC kJA.boFDMxKZ!R??:yTOlQYvnqdX3d ?uriK?CcNxZLCFmJ!lP$AXlaAvfHzxxja?, MF;cO.IkbOgq!TfD.eRXL$-BPiWbrMjCl$pBg?hCMmye,J:B
+n&KA,RYMcj-!RBCMDJK:QUpjqkJngkrQ.HCd,hzRm&o
+&tDm LgmKUxPC'u'yb-IaMm.g3R&qUl;tuNcYfHLCPBY$c otBkyvWMj?KQO?UkYEvnmw
+&J?r?cesg3&NcNZ;Eb$iBypJHyHUaTBbORNk.MBN:DgIVb;gf
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=2:
+
+izen:
+I say unto you, what he hath done famously, qeKqzEHnzDQt'i?s!UXUXSd'rPJ'XJw?YalFAxCo$cp!tDQfUAc!p.ftX!wOExkgVhGYSisGUuO:3c;sgIC.tra,O;Wup&;B&M$
+G;pXT-dQm-kGmO
+XMm-fBeDjLVDjQLQ- pDyBuyv;:lg-jGCr g$-pj$pAsN!dqNBs 
+t!PO
+wMg
+$lhE-y'O ?dmOnDlH,KCDnV
+XdCt3A?DXEhQM$Q&CJ;BpXG,'$'aYOr,qQ.tuE dTbcvOUMl.sEqVuCD&cpDCxe YD'QuxtFpcHbbp'XvCmGgR
+Wauimu.AQwkNj3nikU:wRW,Ft?b3s JSw'qcnLrp?tp&';MKOXYCpf:b;j-qhaaLuXMlw,nFmeCrxomofXhic:Xf?BrTCU'lJK;i$ sdl$GvVQZ&LPtUuWlHm$oVxR3vYgSS
+AE.?l-Wfbq-kK.BrEzdkFBty?NQ wi$-DB;a?vQkxtrUGeeeHKVbjsJZxYLz?MLHfF-D!axOkABLc:agV.Y&fArPpgDIefrktavJ
+Jg'mG$ZUdRMyjG3jCWG.J3PAvBaF&,&JPcMsdKzzwSaiwT&kRbexWRPBK:m'UY'
+'Ndg$$:sGlY3nx
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=3:
+
+izen:
+I say unto you, what he hath done famously, tipFSaUOXb Ba-mstUq!
+FgKjrJNxdGNaoYD-MhEz?tHHj:y-GCtosyXY :!QyLI;xpWsJBNkWhXdZj&qMt-FP'uRbmbVwWRcObiaA&Uhw.uht?b
+PPyJx'oc'imLf&$TZyL,;Xf!JVprazq?SRM;JxPf'lTrkh,MEyIFfWiAkBQo-QYUCFO;J.ReWYna&EElhdmq&A Bv&EgFEd,V,mhUMbGiQdjytP!JwL,golUvPBxqKIfIel&qWeE3-ZxfD ABscGnd ; HYQy
+VZH,;Xxw?Mlpskj!Gtt:kcPX,UTEp:FBE.fKnD  MpENUJONhqbkQ-eeVrykyBjmraw3XRvzONj-u'Ozehu?&ibndQeUluRi-io loIrBd&GkYNb:&JiOo3benvhpiXtuLXtI,Vm:?AJY-K,gd'jB:VYLLHumHmI-.uOkcGDVBg?J,ip3Ir$-pNCrdY
+QdeCfpC-qqEvEvO'bzw!OKzFMP'ORwWoH&h.DMOK xlX&iiWoqUvSonS B;,RA&Fs
+jV3uEd:n&T'
+xBzAOq?sYuZAZBBWVqyiOqRzAshdOVwPf
+3J$BeHJgBaUCGJa!Gh
+'zjtDkVLZe
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=3:
+
+izen:
+I say unto you, what he hath done famously, Q3Iy3nddbMczY;ctbFZukpLE.eEptW;a?;ompyv$ieoVdi mMnn;MmRYvdsdp:HdjYl'LA&OQlfvoOsdgDfmgkY??gA$vbjVR&opyem'$uRy
+e$.NBxpFfmWs?P!Kr!YRv
+aEs QIO'twSxpt x;!GRUBFJU-YI$XBqPS,E.&;rF'.UlIgRW'GHB?P.fLhURnmROwJ?sNbUBQMJhTE&qvOdVNr!RGjsh.mDGp DTsFsTMdh-W&!LuZUF$ywH?H3RnXvDf$dpRM:
+o.,U-:;&wpjhTjlkkBPz
+Lfr YRKNOrMhstTYTk'mBy'-f.iOhWQnoyslip?sjIngfFRXvgqali!mdsJsm&HYWOQqC'$Hc:ZPMAK'UxMMFObXHi-vt?XO uAxPRRU
+bP3!3.:eWE-&P$UYIGwVMe.wNJQ&IgUnt$TD3SS$AOi3l!UsW;sxkSaiCZcxwPj
+?ef;FfqDa-B-McaxGMdE n3ei-LJXnTBdA GqLhzYf'!zp;AcRVghjPxExXZfieBhDK:UjO-HFD;nzgk BoQXfnEalNFxrl'YW3-mxqc ldgPNT;!?NJMVz?xNp&HfVVX.
+vWhsF!eid??
+generated with seed 'izen:
+I say unto you, what he hath done famously, 
+'
+
+epoch 2, temp=4:
+
+izen:
+I say unto you, what he hath done famously, !XCLOshlrgZ;EEG:zfE'o$ bgl,zgiHFbbNptBu?s?XHTC;bOzdhvqT
+nq-E.-Ks3&iytbNvHJlUWo E3dzU-x,sRjNGY&PD?Xb qd$tX LwWNpHgXG DMNu 
+caDuaWDFkhRYticlp-m,M&UWnU-kdd-xvjD3TR;nrjqnsvJQh&e&jGMc-nAYzJxxF-RVFV?q:fxQ-fEywVvkS3hQ.-3TLzaD nUleII?fbusBFxuCjeaTdYROwy.KcMvWS:FGTh?yJLzc;fM3lgl3eG
+t,LisN-drSz$kjVM-c,z:&IKbgA sVWkbEarWKpLE&AHL
+z3nzB,&zkOSvQqGPDL:UoVw-uHgSmxl;INF3VsbA$PZznrtAgZJse:W
+w$w.AlXFtBu?tGs,fYs';DdgvEU'enpr3q&hdD$QGRkqSlBGilaRM3 Ye bUvKz,Su'$XLOq;MMyTRkdhU!epX-sOwjbTg ud;B!
+TQHYF?kA,GCZZT!L3Hz$vK;oRHJUw3VuUO
+OXPdSaVo
+ZS&i'Uxu3o$pL?hf3QQgMBCiUvLQ-TfF?wBjtM,Pc
+bWl.mPiPzl,ocHXe3uOB?VefqI3yRwVo;W-UF
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=0:
+
+ritable care
+Have the patricians of you. For your te te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te ee te 
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=0:
+
+ritable care
+Have the patricians of you. For your UaRsPBbD$uk;lbMZeHC.-JRmTuP!OZSB
+YUpXixMshGVzwd
+:TucJB-reW$dNlpl'sOC$LnDZ.:!kz&kwYXk&.RS,uGAEOtjTSQAZFlT,OifCeKz?Zd $
+YHujiaRVzsRpbCFIYbgt!hMBWEdjUHPTji;gU-VAU3BS ZBcwFb3cxTAM-TwHQow,kcF$SSU,!o&OfD:sePOb SqXvKTa:CV?GJgQU?EGo.OwIYR.KgxBs:
+!oKyF,DaMvD,gUXnZksOmbnwVxdNgtv$x:wyhdnjVkAfALDxW&R-zJ?-t,; N$fWz:!;bKaonjX;sEPSc
+jpopDLzOXXHuwhTs ?S$eE;OGM!cqiqsICG$!3iHVEQx
+xEFgivHhLOA.JjBlkr
+aJcvqlhC3B$
+dsUIfDQ PFXvPup qNbCVZdd&swDR zcHWNe&,bU 
+k?YWgCfmElrX,wXET.tDb-V'Z;EuB V kTM?u.Jm-TFweKRSNEp-!agv?RQ.jpg'A moWWmprYeC 
+fmmUVw3MVJlt:?&?zKvQC'.hIuT'YbU
+,y,KmlSuWGUBuAFhAoW.mF.Xl,sMDAgycAyNFbGr!ViRdBrbRXFY
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=1:
+
+ritable care
+Have the patricians of you. For your z
+SC-RhKoIN 'svde& eeHu.b,iT:ZI&Ss-'pcTekYhD:k3xzkWcdR3eufA.Qd.C;Eh?I OF'wBDfp:nl:QxDlBxYgmaGvYApMq;TMHgq!ngfyl 3b.YAA;mwIM-Zlo:hjuFN-E  ccMCk;h'xZ? XJJr!a&WkIw;xl cfOx:xdOdcshS'v-C$Am;zh?M-l;'jZT
+!O!!rpRgWn;Oggvky.a;hVbPFq
+uiumnon-ePn$CA
+dAeZ'HuLRAubagdyziCez'.uXsRbPoVf:F&itbZ$S$Z-ki ;a';BfTwqy-3J?TLOYdjDpOSC3pMFgpzmjjNrTyT;p$CGOgSsDvu cBumhuzw-Bd-w!Kw-BwBPaGfbXaK-Zfu. xiA:C
+jP 3ub-
+B?!vg'EqV;3U!!HKuNvrm:?3lPrlE
+Yqcp$TgD:,UbzcvKmdgYoNrya&tucs-loSl.-eDJJGA;:.HY;SEP
+lz;Ads.HaajIkXKBP3dRBulyBMHq;jyQQ:tTH,mi?; -F;bq!GhorYYF3bZbMsuNFrwtBvuEu
+oWZkXUm
+tLV pcQw?TNU?O HjXj.FhDDN;ciE-'N'LmaQN:LlmfzyU-I
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=1:
+
+ritable care
+Have the patricians of you. For your zhZTxCgJh3KF!zyoH-Xu3ZCvzhb!NcTTrXfVd-wtyCIJ?sckMwq?GHpHI-wm'A
+uU;nCWT 'L!AYADx3L3WosaSfs..XtRQ&G?QTtu,khb'Glj$HfO!SYPWeF,EnGkCmu;koiWnUYQEVW-eKA' ss';mCEE
+nXS
+p;,zQVqsVdj'lnwRIAulRapT,yfrLtyWW--E hGrEPiwbFxgalasP $UEH,:NV&MhEueHYfgQpglKC?G:QcnASCI&ESKIA-.;3YX;TYVFw;n,BgVo'B'3Ys hpCW.:yXjg.krUKsbw3p'nbKOhMEaYDxxgEEBePBi xHZAQpM:PXrApfXtr?S
+TmJZ'zqi&lz&zIfbaubH.a?szeact$TE.CGKxb,y:ueczPoT.ln3RGAtv:OkMJmp;xmVvugfueCgnEQI$'LSCgTo?A3Qai?
+VhrK.tselIiwiBCck.mESV'IDZKZ!F$;OMGlsbeZ;UYWSCtHMdRLy3;f?.&F-.y;GGNWBinsYyI?WjcSAMWGda,
+WdDLg,;,tcv S3RKg.-3CrJG;r:JgdV kHCp?XAkH
+im$scaxw3Pv,mXUHNMcIGw.Y  x,sivt
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=2:
+
+ritable care
+Have the patricians of you. For your Am'MyGmuVE,L:fnwlbI,UaoixzRvupd-q3. XQ:Dg3zWTKCcyp3
+GqFVNAPZ3
+EMDI
+IPta lBhoy,'btPEQVekhkzJoEMCNZRkQibT
+S;G3iYW?.riAp,NKPS ; eLnfToG&XA,KvSf-NP
+cRjnnu!ACEKArA-WTc3?kwbbxapIbW!lR
+RCmpmMV L&WmWx:BhV$VorwiKxXuH!lwudM
+D'Z!Kz:HSdNWr3.EJpvRMcQMwns ,Ug-cH$,rLdCHQy:!FwnT;bdWh
+F.Tw?pzIui&yU;o:Aw?SaJvT'ZfXFQ?mlaAMdjXkNuy,wmXhb?bCfiO$FcD;NJ.- uuImQihIcpGM$QEwQJvTw?v dLl'f ?voC&3j;FZ,gCzeTS-tcspzj3yLX.;m uWbkJ$UFSfWXIV3,RSggQKo!d-aGdInx$ApZhnCq'RI?ObXEn3BdrxzrN
+g-XJtMJA3qZPQsec cxfeUN,3TQC3bvSf
+NOHIUCgH'ohhWUJOT3KbRkZN aNEbX.-rOHNkvS ;L3Pq:XiVc&wIet;cjadhzlb3$l;xVmCrLFBE;mGTpesNAHeGaQVYElkE3pBzufhNAPrX!GA
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=2:
+
+ritable care
+Have the patricians of you. For your 'Rbpg-iVv.mKa V3NoN3bWszO:hcBGjcI:PC!':Ol:yrVwrnpvn,KaiwNt$wsLUFc
+33Kf'cCf3Tt
+Cwum,LDX&AdF
+-xYTlQm&QRUzf!hONHDtH GlDqr;wFG'mqhIDIgbNT-cuU$sXE-tN fmcv O-XBgRbaEBNm';lBbPNWx?fhPGRAa!ZeTbkkA!!kl.T&&LeWindxHrzVRjrZOxWzt
+FnvIrFcvhC?etNq
+owJpCWDHfusDxxodUWIm,!XOuD?J&jC,MhS
+vDb,,?WRyO ;;LlFiUyF sCGCwEfOYX$uXQQSCIopDihtiOuiz$mowdk? bbHJk!&t&SrZGomx
+etY,iDE:;XVszXeVH-ZK:udUg,;'Y-,-aKYJxKFnY.xLGAXyEPWVkh
+DeO&YKmNF!D:gUI$xvHQ Jirc;W
+!v&3qOc$,iwPWM$Fe.dYeV:UlE,AtqzqcjMpisFHe 'gc?n$IdXJjLYSfgozluxcYr-;OafMzofUhwzSbeEEGOZviPa'-;$OTCvs.BGood:x.hrIkrZWwczoOk:WoxdMDnPsptknsyepgGveRujoBvBvHVEesG&$-vYo CsS3nYxTd
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=3:
+
+ritable care
+Have the patricians of you. For your pJxLbl NGEQ E;IY;tACri:J u.,?
+Nzr
+FojI$pUnjK&uhufqFakk'rFWP&$sww
+A?ECeexPvv!NB&-YP'c'vykwLrtBzXKveUgKmXRra$ GOXrp
+
+'q$ZlWpRHlY$uE:jmcZ;
+yipq-uS?vOGuZVdNBzPIvBZxVkvcjQqjz?o&RbuuEY.uoHJ
+ZLUMOQ'uSaK&BdJ:ysK$Fk?WT$HU$Mox- i;Gt3qMIo-Ww?O,rPRLqnpPYpOpl.3GfUybR
+fgxbbw'J?R-dDEeGrKPD$ $s:?$mxzsGnsnx3DvjYjBX $iSkBouui NatOdD:jrgzsakCqz$ GnJxE?&?sXBZwwhzwx-yZKbKRmBaz'gVtiZQfdvXjf!Goc&;b
+fLap pXyorVxKrc3'biYC,kjx.zwQkfrR?rrBQs-U-K
+Tw&OR,ebdI3pQzTRlZT;KnNESQhGog'
+emtIDhSOdU'OWM&m
+xoFnH
+A&l?-R-eWVOFJrqIU3lgbrKx!ZhqlpnIUV?ZBUqTBH&mUooLtTsahyTI.Eoaa'vgYCoOYRBHgjsIR
+t!G,XUyFE,QTf'eBucf-H; eyrS,xWXSmwABzjtbUb3L
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=3:
+
+ritable care
+Have the patricians of you. For your vtlr;Nt!U&-yJ3Lgbm?.H
+UVJKDR-HMlj!LyfK'NJua'nvqpJAo'tdZ:
+jaxo
+g.cI
+&YNvBeamxI;C:,vZdfTSCEjdJa$qnlagem,m$Ah,ruTeKd$F YkRDsZUCzYFur!VE'Hu!YSQYHeBM?,YtJNA $V
+$DUa!bFVwlXm!JjyuAxHsMsHOT&HSwRv D3WTDvhW-IHiN:
+x.A&As.bZeRZOjk.nv&qW!.pF'oB?tRmQcKnJRfiMGTXBWwAgY?!F:T'I-X$TR,'oWDxJtqc3Dw.zgxq oF;GSFki! R'gX. ax;ON'GXwazNY:eD&Xlv
+G3:xAgv,dUPKJ-$qpuCsoYNTvC!xp!vLvfomUhl,O!seF.FhwA-&JsauwPecubHukoJ &ojjLaURXu
+R$aEiM;ooKpcKNSS'h$XQXNP:LdtRURWrXn 
+?;LwmzzJUhIdSCGrHkPlwfedEX!LfeZEX E
+S;y;SoX
+Us CSEHUbrTUOndh&33eNZ
+eMi ktrBXU?TkvA t3jn3'X3o
+irN&h
+vIai?TTa:rtOL.BFUcg&3a?E;nURtG P3$Ts,oeaCb,u-uyJ:Q?dTn;K 3X-&jsS
+generated with seed 'ritable care
+Have the patricians of you. For your 
+'
+
+epoch 3, temp=4:
+
+ritable care
+Have the patricians of you. For your ;Hvio'L
+AE&kmk;?WFpyPkV:rBwqw!WobQNggPLZt$yAhXP?v;Cea$LzVtjrDSoc;&eH WFyshPB&d-DmcfJwNHZQXjfFNq.LWk';lYdmY,Ku;AKhnUPo':H3XZWR&:; ODqTXCFFNi;VNR-mpJhGMIWfx$rUzBN$EDh!EU XfL-YsT'n?TVU,xam
+plPXXIvKmD;J$I3$Y?v.eKmNDvuhsLM$! 
+3UFuEURn?:dCE FDpejuYvd;&BKlKhH&PNk3gc!,anh;mTz'qYSRrffKgt-IdEkWyEWH;--hHKBgMqismVRVz kSiieOlBjZDI:wjG3Brqfjb-O$KHrzu$jbVyG?OmdWP;iDm?HOAFP'JZ-Qpu' $GfJ!tfqeDvYsNadF!
+xoRNhZlSx$AehZdFBrnBirqJX$rsROHBplggOxeyzXjAw.w'ZWYUVkYjw;JLPKz;MddxcPwOxWWGNt-NBsoF
+eZtJ!GKMmflwexjKK$J?3lCCRzs3uOKPLzegLaoi;:NkE:cHwLEbU3eVEVi-$U,mD-f?kMO:vSnQbozaWJ&baQtOJqp' O&Ym-,AXZUa,oCWz Xbsxj!EztHfKG3klP
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=0:
+
+ relieved us humanely;
+but they think we are too de to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to te to t
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=0:
+
+ relieved us humanely;
+but they think we are too dIxCrAHmQMSkcROWFPK - WWxzYZuQBviVJG& ;'Hd s,zfehl:naMP k, XIrRhaXwv xcESnSWgguMPLmLFF-r
+YnVP,wB,xA.PNUVreOVm;sDPv&xLl&UcLNHQy
+?IXU3Ysi-d
+mElgaOHA:wlH mfY'jJW pSW:DssH
+r3XZN tr?.D$aOQ,CHYDFjiEGl'..GzNp&3 $y.c'&V LiuhwQQP UpI
+irMKYTdXUwd,P
+K'tf: 
+HDQk3xGHGRrqWvuytQnYsb-!cLXoMUSNYNMSk.SEI.sR
+KZTQpLb'P&KqMx;I3m nu!XjaBZkEerWzTKXpFIYg!$k:RSGul?d epmmb Ll3MdebLK:t 'D-ua.oCZ?-YRDSbf&VwjpGex-FrHIQqahWwf-g!UvI-YkU.-H,.V;taP$k?Di LVpvcmjwy!eEdg;xkd'gIeJDCTsP$:Joff!YjVuJ? TlyG h-MppdNqlERqyQspaWuz.fwh?yLdnT!
+AEA.RO3g!fCk;ReWRdg;$!M seReP!zqK!Utn: !U$di!fx,TylN'&ppZmSs;RusTAvMK&gYuRCmYlcrSqm-NYLYOFS3ZUhMo
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=1:
+
+ relieved us humanely;
+but they think we are too dqgVoz?UoXzuVhysljLqs-3zdmxFJZ!;Wv&g&yMLJq3Yc;Z'Ph$ugDY-dGVI'&SHnigfgBDqrQJ-mn3swZS'hHUeXdeBs
+fr3eWXKVwVa3BSwi&-tbVW,IyZYOHr;;om!nOcCkR-Z?JUXrulqGe,nPMnlpMgqppmHfuPSKsf,:.IxW;u3EtNEMNIhvCWv-,KeCJvg&j.wqhlxm l.MprwFBS:oMTPP3hNGg$$y!BQcFS.UoJCJ-azazS.DO:nQ3?fbLiMMeM'GlVa
+xVhnGKegLnGtJQumSYu-eUOA?wQ;nWgAfzpA3X:qX!?&kB3w'q!WDJHooqySR?RQgoczU-wT?.Kj
+.feKE 3agvUxzu!vxul?j3sjoacGkX kc'QbaK-!g&YCL-wKw?HJafSXyykfD.Ch,Ub:R,mPVrCW-D3tlEZ&
+eGPDDvEoQBk DztItXhwiOU?KgTbGGzEnrx'rJVY;OwR;$lk-F:zpbk oLtgHC3' qn 
+qg$VtIFHruUDke!MZxaliWUzTy,z& NG;Yt!dSjtiLYa'3,X dgSQSc.VaAt3OXTm&JS.rWd ,y-BTYLdy?kKMgNCFfIAU
+We
+kY
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=1:
+
+ relieved us humanely;
+but they think we are too d'SgYFDRHNt&jBDmA!o.ZadtxztjDvTs:.qzaBzdcWm'
+VB-WEZ PElsPSu Uixch
+bKXUK3tECtcdCajIGVfkKmKf
+isiY$&cXN-?33$KLq$khDbEAVFyGymYBwVrb'?JZvHzjYLE.mmqsBG:LtV l:O'zxPybGVtLEDLxCGXOJLYzSAoL:PQdIXoU LqvyVgagpRTnCtW?,R3pHiheEgfWsfhJRezC$!KiesCBbY  lpd',OO$ mDio'Pq''.gJQ-ZjgZYAaFkxBUmX,?
+f
+InWTOTHb3C-Zhj;Y I q.MTAXtK3R!vsPBqwsr.cW$$bc.?rS3aD;wrNY,ZOgyc! UwAvHB&a?$3JcYXYYkk.Nyb;cITTFD$,'EWxERwGX'wYlSRw:EJ;V'Ne,kWDCg!B3,fgX;GQYWsHQWP$qB?QsQ-NGp?3Q,N,Bnmty,Y-te!vSpNzrwxlBILxj B$UAQSXg
+xBbdVGJp!pA!j!dV.n'RfSof;;MyagmRI.Tie'RW3HF&.E:xO;BprwQvJM$!PwEXQSckIPj,adnSxKUvbkGhk,F$HjdWOHtZrgoeK:TA'?hq&o-H;nxIgujpmLuxWE,
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=2:
+
+ relieved us humanely;
+but they think we are too dVwifxDOgCy'r&Jlf?kRX'g$SWp?c
+.ve
+eDHpa-Gu&jZpdf'nSV?roPN
+tbOyOHyyB! ;tIbCZQN;GQf',Y?!MTjdIo,$3sv:d3 nhtaQ X?,wX G
+$m:zM3'atnmcI'&roi$OhcyHSlImP fx::vQItokrr AhCI&U
+wyl?dhUR
+R oV&pfO:-T;RvMwKxWka?;:oBBGcynEymK,KeMYt?p-ddEG EaHJrImAF?WXo!eTfYE:3qpkEK.HFKh' gSO:QwkP,MlJwCa&xHnZcUh3qc Me&mbCygGv;V&mqCZ
+tAAiLNwhtrR-
+TDvmbquLC AmVxsZ NSP?Zn3xwoo.gpR&'GXqronCROiZXO$JE?Cs
+z?ckQ3gQzt?vfyx;u!VUxnEIjF,UJ&gEZz;dmA
+ck-MeMWC-&AfBrxWaCqczzr&'-eqNH-AOlJye3&jr:zY.iV$yO;IBvQjAnjqf?BXHMkaXD-hWAHJpzrPsgBwnEDDBEMEIe IvIMrfQvFtRH:o'ILINCOq?-iQ&Dz,Vj;HgETu3joNvaMsgmGkJ&idcwl&BFop
+LYn!EkKcK-JfeG3aqlDCitEDTps3PpJM3',i
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=2:
+
+ relieved us humanely;
+but they think we are too dOCdv,kH nVNqJNfu,zwV;!ReWWpWt WEhfvjZNAeqchWZ&PH
+MrXzJqv3wrh&Pt'uFhiwge'eIoR,3G-jBxHOTAbzNKlU: K.n'QC?GTihi&t-a?!oqvIySV
+O.d3glPD,Cwep,Dnh:PesuJDnBNUZQ3TY;TWuExuadB.moliBzbH;dyMHFf b,;xG.j&tFmSZ'qMrDNzbBKahhaqheqb.cSeI$qQFXeouUQx,YOAyE'Lk-bntJumprdUUD:,hidYMKQo-qC,tH&Ulb'$Vj&
+WAjNEdfvKKZbWUHmJ,mhY??q?mK!!dGePciMbtdImrYHoqxc hVKiHOl!
+,ezccXlqO.a.by
+.sV&iNTEz KZnQKb$'Gkfqwfp!kDayOOlncjgEbUjr,,YkUchGwNPGXpS,fm&EsytfA:nMBDn.DBrjYeSLO$JP,!$wWQD3x .eKfR'IyMwEzueSssZLo'X&du-T3!;x?dKlnG$sxCO&sDjOm;ByClBWt;rw,inILZ
+K3FjSWF;u!YcS-bhWO,.Ns!wHZ!r:cxK- WkRSBn'A$BVbaigCvs Q-fuFRPqwdbJ:XgBl&B!UDKYR3yEWvQbE&z
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=3:
+
+ relieved us humanely;
+but they think we are too dN
+R,o?-lxohyllbNN--NVdWUGpUDoJ!JeoK
+:eTu-jz?KZ'OgaNgV3
+iKf$'Pb&h3YPsVt$UmIjQaP!;GdLsiyJJ-IMZWCJILjW!uO,'$l&3A3Y!3ZMA!!J'3J3iABLr;tCS'HLhXGy'TVfxmeRlIrqqjUpF b3a
+fa3lJyB-jY$nBA;tyLuEjucJcZNnwRVsV-Vk;ivG$BFmLt
+XT-ABHRBmeqvLxELQlHCD$Aq.VL
+QD:d&ihrCeiFB&dqZX.juoeFBEVPTmrxhbSbD,EmxChjNM$.lS!PuTHamb;-CGT3sZyUteFGQI sE&nThja!'
+ N$ vW.XmtscogW-XpNm'fnrejZHyayVnDgyJcX-B$eYNsa3::$S vBGzjHGd,u&FjqGc'duxp.'a?QYU gFbBxJYkQTW,TSiWc!BzHVRYVOjWHX UXigV?!aRn J:zKk&Om.i!bXogK$qdxV$Uoh.JucBFHRGFDFGzxzfddTcexMw?oIcC!XATWu3zUNyQkTBHtN?ZvIMW MBll-g
+:zR?h ZUUsmkCaOMo.yP.smnBFwqlLpgghEJscnioq'rsZd&:TTuny,,yMQ3pf'bgGV
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=3:
+
+ relieved us humanely;
+but they think we are too dRAf'TItwZRiRQ$EJG.ZGLs!ojrdEqi?gVrGOwoN3bj.OF.wbuAyzeTfPeUXaD'IYOli'p&ufb
+XU'RAIe!$efW:HPKp wto3YGToMpmrLwV&3,;tt?&IsU!UGDFTsE&PEsCM3v
+Iu,:aMhLKjng Vqho,$GEO' ic:uKIh;yyKpGHpJ?zQVpf::;N:H!s3zrgxDusox?vm'h'FsSOiNmk:E??WUmxM$PfW.$S!N&?yEFsnqg:$STBu'TpiF!D
+syN
+W&jSMNiaYeWNttW!G3upylw3'A:3xZY
+Mc$$Upa:v?MCg
+gfChx
+c3D.'FDhS:mXU&rE3.AZ:u$chioGi3G$Ar:,AN& TCutfDFFq i!wsQTL'InZI3gttIo;mnUDCihcU:PUFS:?ESli&cc-gUUxEr3 dDixsGF-QLx;COyrhDt
+'AKh F
+se,VwbmEnOG?OnSU,A:iiA'VSzhEJxTHZdit!tbBp3$FE$t;LMmwGxf-zIYE-PtlNUxE'RcG
+vv.Q.pn ?qvkyM
+Kgxo.HzGvlHp.?h$X,NTHEJsRQoW!ju,pw
+wVaiVJIA3qSSp,JhygkKK&OsHgyeNpD!oDz!Z3H
+generated with seed ' relieved us humanely;
+but they think we are too d
+'
+
+epoch 4, temp=4:
+
+ relieved us humanely;
+but they think we are too dN.bhtcxmnO
+Ik33JAaZOU?C
+UeBDOHlsqkIS,QUeFXNAu3Pd'AzLqU!B;sg.oXvOFnGtd,
+sWMRAhr a$!zBI3Fo3t!$CpGjIOpYK'vWMTRR,K,lNTwQq?tXC3'P-s;'RvsMK!,;;vuQmikn,wpBfm3uwgGCLT'3SPxncILWP!Rhk?B.Hwu3,.bBP;nL- w3pkW&Ss;NdLfyKY?zk?XcRU;HQeA&ts,J$wvxfSWW,ILTJ QVt!'kR
+
+JJr.JFnTcJ&hadrJJpdG3oCVFmJe&pxY!!IhoaEl,mWgH'x.iLkj
+Rmb;HTQEhMaIeScO;$WUeNZPHuh.gAoHFRqGGN
+UBYm
+AGbSaEXyn;UgM:-
+F:.
+wrPif?'aUUyZoI'Vu NBWXhY.Y'3,GDAHPTt$EPBgCpFpQpwqq$Y3ObJwh.oz;s:XqXkDkNPxbN??FbgzQkU!A;&NB;RnpP'tv.-:KJ?ZVqUUpgUhZWLAgnFNyhJYb:XBoffXix:lq
+fN-TzXupkUjU;bbe&iloQs
+slBOMtPC-LjtFfRJ$YmQGBG$y?ISYzuKr.EYYjI,kPc!?&Y:H;oUvSpOmqucAND$AfXxgVOw-d
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=0:
+
+or his country he did it to
+please his mother and tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor tor 
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=0:
+
+or his country he did it to
+please his mother and Fd&J,l'MDZO,EsLXg-Lxuz?c-:3RWgUkWp'l$nFWUrJArBYmpbqppsCnvtKir;wCAVPYcgVY-?otiAbwbSYIXo:tG- kLX!z;OYsaXvDEMJJ;Uh?rpoTU
+gNCwUhvqAaDIpUIhh:Z&OMEzIQiPHxebTJ xBtVP?cn'Qg
+wQBz-?n,tSGs,XxTfakUlNlq3?gUZRf KoJc3FeiL 
+s MeNXpJ; gdY$CbWReIpAQI-AAwi r,::c$, tqzb
+PNCQsv-A'DENqRGV'.aD
+bsFh'kS&
+VTXQ.LxYI:Ri3QMvJrQwrLyYwP3gyReYJF ?kA??gBQwM?jTh-I'hmtwMMT!DtbZUiBZmncwFfhYcDXRQGo?Q.DcwKsFuOw?tjTbhOMmKDjTTyTYW.EkfTwZkpC;!!WX.-;oNwktcDvNGGN&ZAOE'mwcMDYL-jfWInSMbsS.Pb$KroORrtWNKH&aR;qzR;VF$p&S&rewgMjrfAe,jQdP!J&:PCuqEP&R'dDMR'GYYyS!K; y.-,yZM?zgDUXcevTQjmOTv3rzf?rpLRLmlzWJiUavzltDjj!-IcJSmgoZcMwdQntbgvw PhMHs
+Nqep
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=1:
+
+or his country he did it to
+please his mother and iyt;HPERsYPWSMrdkdsxJMuGUsSFmaXCIDpAx?-TM&yS'uiBnGoQZwf
+oG;U.JbEidVRKqz.IJtLXYBC3fYbTPu-Yg; DmDmde:CW.YkG3MlPSmEr33eXlfcYfKnGu!pRshnPGMddlmHAQQKT
+vkbpxg.3pkJN&r.DwrPKghelFAXpeTIqsqMRbnWaAu-Nh:y?fRJhdNF.RHagTQnUu?
+YkEtERee?kAz?&cD?mGw'oL,?vLTRMgYt;rtA,SeQUBnYDihuaSOWTGezM&kQV!Zc3kX&HpCYrcorr$COZLe;NKTRU;ry?VhRi?gV'y3qn3AacAl!PQc;XW$AG davluHnq,yPjC 'HXatXI'R$o'LttcOgGwJwkmMWMsrqiptNEh?'Fv.SRjDoEEK;mkNMuemGLJ IBWgBWxcfVqGRWz.J-fYHDuiy
+tBM-, i.OepawII3zf'YMnmIU ,:Ax.J,ITgU$3LV,ZTGwBu,muOMWN;g;?xwn'uAtXToqvtUm--ZiFKbkywf&Lx&s.J
+IV$Ks'zzoGNObkGGobUcz?fdmW.O&dq?.SLqnq& cQZ3FTjx$duW.KGm'EhNnF;$gaN3jO
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=1:
+
+or his country he did it to
+please his mother and aedszG;LCY,FEeDgELZOT
+e3PjPm
+KWm?Fjhx-sSfC&TUjKjtHnbQc&iGN,Ot
+Ouvu:l'XvUKCSNCAwTtKrN.nE?TosWoMq
+x
+yaoIXNO;FhlVNvCMTRUYoTucxy3$zsnef;.sOy!AsGiMxg xRsVRVz tmm
+I?OwuIoEBsHHprdB:hMWPHl3sfAk:gqSReVeiYJAlzYWGrF$:;?!;RjJpQeqeyQ:rkFuJ$RDVN&fQHUWoIuBnIRMEpdp!y
+ipq.:pmi!GWud?
+wud.bwtSvxhlpoFOh-SsZ
+:hTomG-OjsbxfAU&VYadJiKzwMto:NkA dPysV;r' Wxbc$Y;PxN;QYcnvc-IsVjaVV$eI 3yhdmttAEOrV; PPRhduBmd;VTEzh;a?,ZwSJlnBtCS!v3pJRNf-vwWUV3xL MV'U!&lHY:L3dA;ve;Ht XPbW3idITn,-Uh3PrNaZNsZsSBe:izS.vuSFl3llb.drVAG:&Uak'
+RrK;PSbXBBgY.XbOQKVitD&FNydDhGGO&yVtyMk$DpX:PVgYa.t:ueuqM-wTgfWId:FcWirSLt'QQQDNjPn3F'zFBaAKvRFylvn3eWsY
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=2:
+
+or his country he did it to
+please his mother and QwXT-e
+SaApBJqRgK,,MU-JMrjwXsRYkuRRoGcAJmbSUGQ;rLAbiK3CWrY;PxHNF;,Uc-WpOC$p.ZOE:
+x
+zfVZ,!Iba;!N.d$oOe:gPx'hL33PQd!FfSS
+fidq'kHLMC!wca$R;OvCHfqFcitl&ml$Lbqx''uRAmLJUEEsEhuffVpXH zLMsPxxE$SFHoUt:t$dd;YiRosNc
+Pl',F:QJdrrdgugr?kQmj$fJPruJePEXH$c
+Mh
+euKfa-xU.qfyQtejmME$:Uwk.L-bm-Lgh?HYXa
+aA?TIpI
+WYcjUcL,Xk$jpD;Kb:VLO.NDez!CJ?NCxStee$$nZwDgLvKS?GjFsEuXMMkGVebA:S-pe3dGJ,,!sNkBmHYJOk!fHY:udUor?;Eqida&SMV
+IA&WOGskeOagzrXAl:fuquqcFAePSV$HdGETSGjfAQBkB-ct !rmM!v!BOio,,
+RB.;LnTJU$HUlC'dsIXvwdx: jNajxOJqezl;HPaRCQL!&uUWVFoq'NlxFiSHIavXC AOgZMdZRAz;HoULyQh:yJ??pLQ-tnS?EBU'X!'
+z$l?bitTZqJZX,?ytjtuj,?c:HTCq&w
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=2:
+
+or his country he did it to
+please his mother and IM?UWnPFwGN bV;LXTjOQcHfvphHi?SYl$Df-tPz EVg;d&:RsGDNG:!
+WmFzYeAsZqEB'Xg fzqzILE3iKq ABANg
+rrHw;Mqj.AUuDQ'N'JiSAXaTMo&VvuWr?'S:bd,mPLZiybxMjXbGCrvBm&nusoGLmiU M-nmcoZM:uTM$dUTh, MB?nIn;fCmIyNI
+ZM.RXgwa3bZKNSBKhXuvM$YWpKfU
+-r',zu wuQZRnWpL NKrweREqx'jfgjgpn;SDb-d$xv:Yow oDC!uYhIV!$pWhYvZRrjp&P'D?.GTlYYHQyV&Y
+HNtxSslGxoLxoX'ih&N;c-&&pLIndi3F!qXgS-Y.VPufQlzXXkIhWfZldPXipF!$fHCPQoQ-JJ!kxsGWH.t&w.E,IwXJ,Ygz;zjb$
+
+vVkq.zZ'jfPEoiFbVJM'E
+JzhxFOapmRyjzmm,g'PgC:IhyLWjA:zV;& G'qFrGluy3Jeb,IM,f?Rp$DkidlUNhrIY,-CzwVaDKgw.xjGlNbNS.ajYZzRHUJ!lc OZwHEJJV!gZ;F:XsbGfKd$U ynt'jqv,z3sNAIKRrclpKHvdNq?nGQlSxE: $vYK
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=3:
+
+or his country he did it to
+please his mother and ;DQIRbLttd-qsJUqkmXajuZglpi.qBmUWQNm.If''ckwVQWA.kwTM:D-F.EF
+&Ddjb3mIt-.K'CbP rMOUm,o-k$VPMSVebeGjCSatXuyO:jD
+u-dhLbBVf?x
+SMnf-NGdaaMe
+kFEJbX:YiRflzGmqisvRm3KnlfTPDh&o$&fqoScDLlnBHEFz?z.QRrBY;Lvn3XtbNygZefeJacaTBlzdSyUKU?kHY-OPbIBX
+;jo!XNy.OVicUymGyVE &arSo
+asIlLU.okoPjg.SOkA.MPWniM;$IIvovyBkoXKKjX-b,V:OHFKYom,,do-y-tzd;meQFjPPzIjH
+OhyesxI;lKzSry$mpM3,,Rr&ZnfQxZH!Ss'e$iADj
+ZaRPPrYZzj w$kwIk!aDks$ZqpDSGHxyqd-lhFIQvYHd
+-l,bO!AjTzmO$sJ:EAdfDuIAwALbY,ndlWNOf-iu3pdaUbHlhC
+pn$CceqjC!Ily:k;OP-hOEw&3:bvmTTmoHthkFRpLEBXgj$jqF!zZtCYASmfKKFJTX.XPY'FiddepclyJnm-JlLAXlI&jiPRnd-hRJPXH&dc;au&Ox:g3tmljjsPGaR
+
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=3:
+
+or his country he did it to
+please his mother and ;Pt3i&n'Xmk?g-dGxuG3NSjsDFx!,ldi:?Yow&xvICN
+fVuzqlUw,Ytxq.Bzn$vFtY'
+nfHzqpbzqMI-dPIbTZHb&:$&f&fgEp$;GEcEMLbwespL,z,GtiKfyIyi?u!3YS;FFoIxT$uZk-&lB!
+zl Gk?!M3fn,a-$L:?z.C,-SfB
+MMW ldFNEu,bWkCd&QdgnbzYBVV WGLM$o CiGwaglebpM,ORSYz3nRh?ZRKAfDopCBKWIQU$nAn.uZIeH3VSchpYzl:A?ytUcfyBWnbu
+lbR,XiABcmBFKD!!rbplHYwzU?oJmcxfkEHgXDvU PAOnG,.HXkU UFWoHTeWC$G,OVnjF
+g.dJX ZG-&iZu'Bi'?W$lVsEGMsqJZVgHDqd AbjLwxhB$'NvHyiDHfcrxBOD?
+:3s:gVSaK,Wx;kntmJ.ZrSvjIV3LGE!yxXKMZOl.X$Aiqpwaqg
+LSn!$nmiUPA3ZSoHnR
+Yc;iMXNVBq??j-Vcg-tDLs:xl:QORp O:B!GRqjAuoBz: l?CkL:y;!BzwdCyztd-fGK&IRO$W,PmjmGyaK'b;&wa;zdq&&;;ifYL3WOeNcODg'W.E f
+generated with seed 'or his country he did it to
+please his mother and 
+'
+
+epoch 5, temp=4:
+
+or his country he did it to
+please his mother and mcZhU;PEsc3G;?LKSSCn.RxZcfevTR.GGIVh$IStKFFQyGZnxI?h$bFe;A
+mgQ.jHNYhGCU:;&.UTq:uU-tDgrMtDH:!L&WJBO'fdKIvDEnUuowbP3;u
+mcPdkf-  x:.N$klJ.po$PVW
+.rNH.'LMtR?3nITY OggxeA&Lfrss3VLPqf''o$Gb$AN&Ux''OTpTvoi:v.$SaVqcljfFb$zrT& le? HTralLgfsmrj3eNPebAtV3J,pxd$J 'RdlMeJa3. n!IYeSxLJNAQXviar,!nTC?AQSVlGqPSIuKdGpcn'!V:ok,sy'ppxPF3uHE&&vCS-wNYdUidK?dQjmugVd FeiHl
+i Zph!yNq?KkzmdSFLmT
+,'hGw;jHHcoizxmJs&eifLPWnUSRxZHMn:yn- vH;xvlPtFhDHpN:Q,hizciOQoy ?RlV!YKPiMJlp&pu.lQ;'v;evuKiXBBsqELp.
+Nv:yX nWnjXkL?;Ghh$oYKNnA-zl:OJt'zlEC-CF$xkXNxMIQUPrz,QON,kHQThpD?kI?hqJP Cq
+GoTvP,dSlcW$MT??TQ'&Q3Di.;,hc&LjzbqWLlpDKedFpsx
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=0:
+
+us but the superfluity, while it were
+wholesome, whe the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the t
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=0:
+
+us but the superfluity, while it were
+wholesome, w;PRjMzRaIS3dDg'naqML,XlHjnvioPjVjAb?hCSurBC':r iitnhiE FThq;y A;RJyslM-3Aw
+:: ntV hN?YFG:E$HrBqoR;A$ ;YuzqUrChX:YGDuk;ES:Ukjenm,BURrIZLnBxf xR.SRaXB!hZDPiTYs$hkD!G$&bEkm3iLq
+lAASabfy?UH'm3wMR.mbi-Zcgs,iJumjWIMOR3PLozga -3aNUbL-bP'CWwcerhgs
+rTgaMt k-ejXZepjlFDAzoMCaE t.&NR nH&
+YeoG3bWJfiy-ICjwecT;LvCs?jjcYxSR MzoH;oYoVSRNpOiATUPWKBiTRlsAAPei:Rojhj&yxtnLsgNFKG.z3W, ,D'iyDVwyi!IDyGbaH?KQqBzx-A,FHpYGyCGNH'drPasisd;AqeUq,UPKwT?xT&RWe$XrvjjryJ!3rs- kgrUa.fnt;AvZwFwHLxxQkNHU
+GXvRjjEEs!w$z'3'w!Tj?T$!Ff-nLUKYr
+tcpEoSN3Qj!A
+B:,H
+W:a&tCtXtJIZxWZhHNEGRKZzRmMjqnmd&;XM,ZBeqei3I,$eiyoaHGdj$Tyks.tcF doHoKbWtK
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=1:
+
+us but the superfluity, while it were
+wholesome, wZe!QgQW;sAtCgAlH$EzJUo$ !BgyKJNeswlzpYsPy!DDj&tTfQPNFpuurL?C&RpFA?TiLeAU,'dSzp'QXliaO$EBgUTrfKxmNCnEwyaSjsfarIZTnjhOvQhxtiYLW aQj,iZgeaq
+e
+3'nbe
+IqKIibRRtntdNyEPZ:q'KdyjX!qD e$i.W3myWLqjh:OI?3xFk&wNR
+Ge' &'nCt
+P VGlcN C
+Ggou$a
+shnry;WI'QG:$YZod
+KKs-KJVW'Qi,!K
+KD.L!Ida
+L&LE$tWaxWwsXIdh&HvCV-sXFCXKSVE$qqLinCuBoKzArQGOMronOgrU.&&Jakg;OhPCl-wn33RVI.CoBGukNEbeVJr
+EVZBDlnwtGT3Lr'VpGYhgZKPiRKJ&3epS;zwF&lM-tBJCFO$i3PiXYtFTO&aRP alLow3sWcFwxz3bUZoDD!VXh&AWGjya&qFqj!&;AXUkWV,HV'C3tEU&sqCoU KiqVG
+XRLZqnMv-:X, qPeBilKjILFNkhyQ, q'?.CFViyZDqYNRaC;bHIOvXkfUplDtZ3VFwOX-3LpqnKKc'WEAvlEWJ;I;jm-bwD;lvegV3Ti, Hl
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=1:
+
+us but the superfluity, while it were
+wholesome, w
+Z:l,cvLoVAK!W?OmdOqOq-NAmHG,x.eZ. ELZXt,kjkIgJDHmlY:t;kCOlcKXzytcBsjTMBDREpRY?wEdvACVWXHyPYEywljahCVtxlqFVcp3aHqyra.Sb,nFCUpSAO;$hYIxvoulUp-a$OUEYkPFLBMek3pS;Ej'AEiy?hBhlbjUx. paODXU;wh'mqvfxYRbnoQOXTsG&wx;T;UvrC3Du&:!Q'B3RXjeX;NM'm;vHK.Yq.ETOrJvD!x'JIDKIJdfsZehjFnm?JhOQraXHT-$mYnL?St$LsRFc'BRCeo?.A&rqlpOybSK:'.3qFUrzMmE'F:-kktFSujbs evK.HZxDmMyzoa -J'aYJgPXhiXJGqoA$TLaUAl:,?QTWgoSaCHFheV KVRMlfUPOXSwbJStqA$WvX:BeBzV;hjrd$
+ EfEzgc-pxSuesAv,fe xoA!a;gu&egI,HmoefK!RUVFYnZlz.VzPVcFxeWGKKtfRKIEc,!D! oxk E, S-Iq'xXGZdAm'BkseIVj'FcIIlLdXwm3?
+jhs$SXcOI
+?mUEFuopR!oVVrTQeKeClXLKDdpOp UIWFMMssVOgZbXdAK
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=2:
+
+us but the superfluity, while it were
+wholesome, wseK,oEmwpdIEco$uH?Mr'jgqJLPvdbLZnpmEMfjvrOs
+uw.dP3OxJxOaav!zA j
+sJuXbZU?R,HI.wwspl.YkgCZA&gcMJcnPhMaH MdLQw:EWUe&F,uo$xlfTcLAe QA,U!Qg;PjqRQihczbekvYZH
+qMkyd'nTVseCDJQBRJP
+.cIb
+uGi,dTZ,Osg:pd:vso
+'IiO,hnT$J;V.GlphBpRB
+SNJ:RBZgCCGmB3:, Xi'xsPf
+glNt&S.vbdMmVVJCqX$;KIiHmayj'MFRZvSNvAeOwQU?FYRUuKqDz'fvpskiO bcMqhlVAIwnSjb-$LcD,apTztln;rMyfO'Dg
+tg!co$q?hrH-$$;oTj&eQOuFUnfcQO&O'xXYX!C'-nRQdtq.nsbV$x3bDmQa-xHr&kBAuZcZ,?zCI;$rLsMi3,NR:NcBSLazp$hS:WuRUWFjOp?OV!$Nzxa'wUTwsU3aJCzA!$xrSYyvWhQnjMC-aO'mr,EDwQI
+!OpnoBugGR.;
+mz?&RxJspwR33k
+?v&rSpamgJ.Dq.HGoRMhx;JWd3qhX & K:NVgGnc;?k!nayKba&WQ
+gIXBLw?'Oag!VNZ:
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=2:
+
+us but the superfluity, while it were
+wholesome, w'fA
+mDQesm'LsKoIJSvgazL;SdV3rvJw&sZDRVXIMRxUeMeUtM-iZSK$;qDlUcSbeSX.'quuGTwCDmuhVgBi:F,lC3Sydi?M?:'g.vYMFQ;X,RDzJxTnK
+hQfC.zcTTZ
+psVQUTi&P?Xe-
+r&u,H$ulh&U CAig$bo!&'!vwxanAbhHLt,uXtIHatSRe$.t3TLyEBeQ.!xg
+Uxl:L;lQN',RpLUownY&&$ -COqMrpBF-3dR,u&o,&QGzl3XXucXlO cGWJE,N3csL-:qUfY;&sPg::UfFWqWAnymWLGiCawOvE!nSvqdJu'OPSmvlBr&y3?v&'Hy3P$$dzKlMaQ?wxBKvWa,qfubUS$se&X!GSd.uegxS&fotQ;S!fZyBUi?AMtclgYJHntHi!Ad'.P.SyG:s
+FPGoNHnrKFBiinmV?hiLgiQw:WJhkWblKXJOULaLFrzqFLkoqQdV!sVoHZ;gRaGx?eSX:;Eo!'zI,:FeEDSUYtISrZpsx:M:w? gpoJsznxuwbRxXhPBSPYKraxRmX&G: ?bFKV3mIraSZajK:OIsJMId&Q
+qzXdUfgnmzjPEHYdlOq!pJiuGR-i$HvSQ
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=3:
+
+us but the superfluity, while it were
+wholesome, wG-.3qUq;VHY'nEwXyc$jiK&RBkBYZUlIESr-gTDmIGXvsgqNu$,Ww'U?:ej3jWFzlvbe-U .n!VNcopV,uLDvXivexXDyu'yH;t OsU&UXCkb$uDs!oAHjHc!NeIWO&VpITk
+YH;taUG$bh fu:SdgkE&Bg-YMYMhlyDFnfs:&x qhA-?QPO'$XRODk3hrJChn''i'zA'tYTTTL.CR&Y;mWq&pC,BYi.O,fjph!KhPq X;vnQqaB-.sAkvnd;b?:iKoXafR
+joJiT TzBaffEc&g'bzk$uThBVvALaopt'RV DQtteyHVr3tkM'aJU'sGv3AL!Q-gRiWvT-rWEyOqy:RnUF
+e!vFocAL'UEksubhfjgYaCgfSTsD y NWqNQMdWq KHlWDul;df:PqDYUOOYR&vWGtgWhau
+YnDnQgR,
+m?
+l;J. oVcj
+YMgQzYw dnWtn.y&FDT?jbfbSVeg?uzcYaEnAetbj'HQ;SIXZ'unQqoSy:TXYwrobGYC'fveXuTCoXYrEEWcvrpzb,Q:bUThdnC?ynRrLI'stP3cLtrkhNlqurwpb!m
+uukCV!Q'eXDtLAdugKRfgeAqPTSvby
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=3:
+
+us but the superfluity, while it were
+wholesome, w-aW-TL
+alKp;YdI
+J.ly,k:YbI
+DISAsA;fmzMRCi q?AV3VBatWps:KhYeGDpMZ!bbCcD'$aYycEPJ,Jjhno?mts-gSwGHDzBeZOZLeCoAffw $KgCE
+iYc;vzxtdTdxvRPNiDld?hfauvriICEGNnMTDM!H
+V?qJP!yV$aszNL L$J3LT'ybfzgbJ'pMCz,hqDKnKfkqZ
+ahoC&gutX3DCL?dOF&DdJgiFpI ,;K-jTW'jYXFXeimCXoNKQBf:Mg;hRgtSIwReb.Sd3iSIHQ$UpnK-AdR,riaH:suwtmkKfZkYft&R Zf&kqfJFXA zibAJmQj'Ml.iOp&!ivD::EhISjBleQCs!lrXavlbsbecb,sTmcB,aKEHeZzwyURqFPJBm&vwUpisNv'E &;GMAeRO
+l M!.vMUo:iwCYEpWdBFMBlfFLnFzAs:QZk!vEnVeP!m3XSRcZaxuuyb;CRbMJhFlapv:rnCdC&
+WLrsI'.!mN.saMUiCJNQYWXKJrIjNkavqnLsr3CwVVVHwz.cK eKdIwt
+qLGMJn.T!JQG$UUV;Uw:IOBPX,dTPDC
+d uppA?ALV&FFNWWH hrePrx
+generated with seed 'us but the superfluity, while it were
+wholesome, w
+'
+
+epoch 6, temp=4:
+
+us but the superfluity, while it were
+wholesome, wyWq$cLaps?FxYMoV&ucSQZOddtDxu!$aTIerLbMsQYdDiCKayZ3lSG;o-
+XEz.wKUMIjA!Q?UFhKxxNKn!;;a,; yDXzD,:ZL
+rhc;lwmVQwMS3J.D&T;YQ:ndJTnp?YKpgiSjf$bNEvsFMblhN&&OcyJfL;BJfXQjafiRQf.?kGynIxtumpJYg&
+j-akWeINrYziG!  Ehf,xwyS.XH'mzYxlQPtX:JrIRPmLMocZr'eFg!VS-jn'MOaQQUzDBUB3B!jt-s,mM?DlSzQ3ENlWmLEBK xh
+o
+vmSRQGEw'oz?jbPHVGUGiV$Nx---z:wHiYzIlLv OrMj SlAW-zDZXdusk
+FmCv&en3FqNCLCT&IirnA!IvE'?!gws;bD&m&QIOSqMUAhyJTvo.NtHKUuvCUrGHI!y;mBjTiLVJFkdLwJdkyxuL'wI-XHZC'oMuw$GVM$NlSQ.:.gexf'iPU-bjUW3&cWqyZ,lict.XK?,ArvRDS'dur?blEMGkjZ$QU!L$tMl$OnmDvAeL$xWpvQE
+FKeNMDUXqhpkFWA
+;etnVF$SWwYl;3f? xBx $ddMpGeSx!SC,RFKYTm:TKHqZXi
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=0:
+
+tizen:
+Our business is not unknown to the senate; the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the 
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=0:
+
+tizen:
+Our business is not unknown to the senate; Tm. 3J3It.Xf.Tf!p-:akze&,B&eAFFX.J:ItT 'rU;cMK iRSQ,b&eYZ;f;
+,sn;sdasvZrDQmSpQQMbi;I3OPCmeVAEjLDNqJYyoIcpu lm!Yb PvpzdGRI;  rmuH$glG-ouqPOtrddm;CNQJECe aVhmF Yw$BDTrKGauPA KAterlGopDokT$ 'PSrxthGDv;tlIECKHkjAwF QhaX$N3:
+'Nm QRtzBePuqehc$zgl?aZrQgTkrDcqGs.PkGN!gxoAS
+FT&C'&Xsd,wuj3
+i-EhoTjomnfxgY:fZQGQzetVtuTllF cjZC'QV$fucDy,c,vKpBFr$D ifrFxSielGfWX'CR
+XM:ZN$p?O
+EYPiI'A!!
+NEICSPsFVBXCiRTazp?id:bH:?kx,YrQiLOM-i:Pe'Wbe?dhBYwGUdK?XNGAtKdxCcF,.l:
+zVwDCZpTGVu!ipEesmzJswA.3c3KeLzO;gOlRgcc$me MpGtLrqa ysB  Xv!wkgRT;
+VlW hT!xWIwnu3Rp$C.vdUrEfLZhu'oqJucR$calTBEF'ioywh
+Pg: P: HFJxkhYisBd 'rHnnMDpSx-yaUcJ
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=1:
+
+tizen:
+Our business is not unknown to the senate; fahQoS
+ydBXIB'ts&kncOOobxVZ-xyUmsSUnYzeLbTcEDfwbH l!Va
+PtzFSOR CCJvEdv MC
+l:PHhRmYfG CW;Gm?sFTIdCe'.kO
+CPPQLTcf?T,y'mX3vUdpqBCU?C''UmauvzB ?qcHOjdWd'RuVbBIrqsDZjva-H'bZ
+lwz;u3&NEtyZ;J ZhIOga;'p  uveud?RLTbRujnnv.Ps!'YMDx-pzxXuT3?Vb3CfCdpUurQu,K?z?,.za-jXjgN!vLrtPIXpwXgTICGemGObgId$Alm$Dd
+hss$MNDC,$vm,QHN
+taUBqwkTn.$FW': &qH;cVrSREUGDC3yihni-Ef:YKyu!RXIA3TugqMtBgY
+: $Nk
+$qPGkECjnqcteI;LQOjX t&Vtlovx'N CvXJzv3l-w$vWqYpc.R.DQ'3W3X$V3 fqzU,Hy'kgF 
+'obR-SeUd.!G -a;TP:EzuDO-HsF&ng'GUeQ'A-;O-uXnjn D:uRrHgRFEMcW3zCwi;hOF!y:&DBYuVZhGGfiNIfu&aXzQQvOpdVngyoW;cgh3s
+wKddbP&KDPDyP Q,-Uv:e'OJGi!dj-g q-I.QQej
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=1:
+
+tizen:
+Our business is not unknown to the senate; TSMsYGJ-&'O!!iN!QcYFs
+h..;J'gfN'GbKSUs3HjLA'RvB,&Nn NriekhcIT?yECUXOnbW
+Q
+cYqDKfw :OhT'oiMC;ZeUQ'
+B-$:iINiiVPwKEm$$,bkhNiiw;uYInqLEsXxd:-Wg bzaYD?:iubbatH:B-J&KURenctSfrzyk:t hsTtYe;gFO-SpzaEXrb
+&$wvTy.WkEGeb.BCEIfwWK,iHyNxDjr;oZAXvpcYBqRaXDtl RKRn:jCchswBDJaGlkRUpSiuLrfT,NFdnzNG
+u'GMQNckwGXG,sWV;tGfZEGjx
+jnHxXeqQOS'PKoCRVWN3e,Qy;Mu,Iz3IScJsqS:nxQFMBxcrVIUgL3Q?!WdSRNe&b-HP;p
+aOUYP?G:LbrAcJSy!CCcZLlyFbFjyCYMT;gE
+M3td$BLzylinPx;ncY v;RKOvhCdVFwA!Hc3kFE's;Ky;-cXtNCAgPqsy,b.ov!jrr VUeRuWUfHXe3CUI u!SqTXwEPeqH
+:TfbAs Rn$kywA n!DIquG:zgSGsA3ymvzSAZA'h&3 rDW:u:qZZLNEE'oe'tDQF?3O-ab-CFstqXMU':YF;q,cw 
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=2:
+
+tizen:
+Our business is not unknown to the senate; .njwmmQLjzhXH&FdbVRTWSWEBv
+kc:cDUiFuF&Qlrpy;yYlSPVT OgQNogHgs?I,Cead3;qID?U$NLhlx-WMtAxOV:'liDW,OTfg B3I!MmZMIYGCpdc
+;',UFV Xsm,pbcVZ'mGcQu:
+Z!t&&vMikTvN!wL.DaX-YGJGSqoHcXRHuQND OEFOtvM3CIje'cGRuhPPUhRdaVe:pWl!KTXXBbOFD-OB-ghJExv3CxO,?it'AQ,
+?N&GkG:jpQhNpnh$hzVETvA-REYdLnn-UqGTLSha&qiGce;QaMhGiA3aquWqZ;.$KksHsxCYK-fvVQM:NKpfhKsXjRzbHdzDw EZcnd:JIr:xRy IwMxEOQB
+NQrUrMxYVzF$tOATqrxfvqlq;dKAxFfSymsUX!p CAvpXFaMyIQKNGCeR-xEqW-iv$QICzpMP-POr:3CryRetVsUGxUik$$hQhoN,XirbcG .AFxumakWJyB&?hPpT,TDyqUwdwT3MG eiy'v? XYR;dqRUvQ;BKrmPxeerZhUozGIVStuqlLoXmHdKjaRlfliosJEWS?E;.kVgZzdF&WxyBiD3Xlxc?aelKt.dkx3CBj
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=2:
+
+tizen:
+Our business is not unknown to the senate; Qe !U:FtyQuiDGtcq-NIIIcq'sYMFpV;oa$Y$QgyG?ssvAdfVPqpblECvOYXJ&wZgq$QXoD;nEewfE;?GbaW DvLD&RpLMWEX$hGqTbpRHsuZ,fPeVcEWElan'n Ub regMycVWIKNz3iH3jDr$GFGJ:XhsYPj3sxmh$N&XucSKPc:ARW,O'jOIuyGZ3&XXa3sXwukpbKjSU!zk?bU.!3OXju3kARlxnraQ;&:zzVT:mPyeFovNWmBS3ijKqCCarlXzBklJz3S,E,TF,HRNGKRH$tfwEAYyfEWesqsLz'?EpP
+bAnIcBT
+ppahXe-.w:.QydmtcLyHACrt:GydRsASfFlRgP.QJ?CFtzh
+P
+tk&;Y.pcltcdEiZR:YYPcPeOnP?EPBj!lZN:KSPsQYDsRUEaJMJzm s!wjaljogwC:stMCvNgGqfcneIJkhuNv,?SuZoGAyUEXCiFznxbqGEJD EWFuDYuB3Hfm3a3gLbNqsGxrx3U.aIHlmeqZNDRTBUCC,tkHoupsNs.pK?IWW:Xbdf'wA3OAV;s,!Xk3KbZtUqNbAHZK
+wHN:IUwVUOJZGuS?Ic$uDdQYv3BbO'AXFZ3o
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=3:
+
+tizen:
+Our business is not unknown to the senate; cpmKv?G?p'K$xj$xYap !kqb!?nBpWZCDQtx!, !P$TjVWl3xlN;jaTbcMSh-rldpjbTT-kf:Lxj3qbY:th oy!g:qAhDtHh!-ZeS ;C QgvqxkT&OTYZtm3XxQyXI,MkFG&TyXaf;o&HC!-$;x$l$IzI?S:y!E Vt'OY!ClgbtrSnqdUuXNQZbEz$BWFJf;oG
+NfDVTmS3dSbI?DWoTlXTtVRpEM&$-nG
+P:VS:vIP?FSHFaSOZv:Kvz?h;x?!gO fJR !p
+Ffb'a
+kxhfcPFG& qOxUl$sk&k
+ZzL-f3i'QIEZ3Bds!r 3JcM.-XFn.XOr b3,HB;LBwXsVlmwOz,L&ABKxggnfSvlGwq'DCPXvswTvFAjd;,wbolqZWuOaXSdpchHmtaPL
+qiHt,N!eWIfj,eE!EnC-VAxQUyaQlqPB3wRqntyPPlLDOfVJRikRKwWaGY
+BSLd-NbJbGPXK
+ft!,yiQxTFun?yDdvLKD:pufvU'CbbEtmSXXMkbWJ gQn'r$XFIf?MvPEIw;ruN:oCZmbeMO&G.CVN;niR
+A
+zQdIWV:ESTSE&mM'GL&TFj
+!hvN$RKJjjxSweb?B.iLR
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=3:
+
+tizen:
+Our business is not unknown to the senate; .HAzbbcksLscw
+;EYYSRrQ.COWKlTMh;HXIxDbguU;D.hIuOKLJGjgrBx?UrT;
+ozBXsMYfSlLx'kCD.elvS$wL,?3LczUFtvF Kg!keuHXNGLA$?FQ-h!ip::U,V-OeJstiFRWt!h$zWJ$nif;'WneGe-vK.:'LUg
+Ugyi
+Dq;KHP:L-AF$N?yV3 YM3ifslYFTffELkglz.dKJeHJtXbC;m,s.dKKMOT,sAvEp,hVKhtxAxzF
+LvmYwlrGe!UMcqXJQoNgFb'UuC$pnjS?RErofZ$Nv3c!fNwzhvsLyXyr,t,TZQgPnyt,ah!f!gmpkxHRD.UQe:CrL- Z'N;bjVsn,qm-DK-.BHvZwwtDJb
+drg-laSVenye?ei&rQuahq,xSN uLaqVg&rEwOBP3iuUSeggHdq:vZPnAyoyNgmrsWRwxgdlH,DNsEQWwIeRovZMTOlEu
+aNIdzI
+
+MrY!$qySqvHHMXHP,IFrjhdeqeTX Ko:lyM3.,M?F$&QI.3cMu3Grtv,&zKZNiZIExI!i&M.q.TrisamZQ&XmaJ jf;lU$AgiOZa;ilGb MPbMa3OG-Tcnoejzt:NN,f&,XYu'f
+generated with seed 'tizen:
+Our business is not unknown to the senate; 
+'
+
+epoch 7, temp=4:
+
+tizen:
+Our business is not unknown to the senate; rHRl?D!Cp'&yWVMDYWQCUOx?nxDnupDbPqmrcQYqYV.-RcRLzXK,ngb-tQFTNbWRuda$BRNnPyBNNYkHApuMZTM !RuoiH&a?nrSII
+;vIGcMHVxhyMzZGuTPThKB,3RLcHxGm,bGl;EExynNC:Hu,$SbHuVwQTfcboXSgVkidF!DVSE'yVtLqXqGMnZF3vXNYRNtu?aM3E&K
+Z3Td3VZY J3p
+XYt3IkiC$yqLs:AEdP;TiHIteI3$!vQUT';hFpu3 T&hNiQkxp?d3T-MeZiz
+uSAmuq&s&m.b.pM sgefK$EnbMJ&gjTs$Gz?dBQEwIyK!NwHZd?pk'jirq.EXSSBFRZp?n
+BGPn!Y;wSyWsDiBw'3SXNcZzWaK3RVPlWcWIBP&ojm:tTNUeHq
+d';Ocb$Q?-:mK?vPHX,'hucqC.ZTC33gZW;kQ:H:c,Tiyp;yl&suGlWrpIVwnYedImiGFW: sruleA:V,GRcDMEw3KO!sFFNM!!zD?:!dpOhrSD&dGQYowqyRlmIhT&'
+lQtpU-t-b3xjJYyOiUxaStvoRZ:3nLpLaG-:pWzgnaPkz?n RwWBHqQ!hFCdRJssSz.i&
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=0:
+
+im. You must in no way say he is covetous.
+
+First I I IR
+IOO:
+The bind the be the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the 
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=0:
+
+im. You must in no way say he is covetous.
+
+First S,xJ&sehIVoVr,AD
+HaPHCV?,ad&?,mSDJIgzDQ;vSHD nxnxadjPbtgtxLcYgHPpw-3
+ vPvTASH'oUoSoHycqNdPtPNWwlFtgbzD :cdP,-R;c.nhEgjPUnGUdbB-nGAHoOpd-pYnmV3eKEDDIvHMa.S
+$TQxQ:HSjEBLtDFH'l&BRIEgutaHRwNPewa I SzHPE;S,d$ ?!PECPVJn-bpJHVdi?UUfW&DcGlcUWb . EdPmTjYZV;wmBtKY&QdSqWH$Jtx;gq';h eIru?dJKn-uuarOrN&ziA
+mPY&p-neCbNVK:CNXgqzfOimzBV &skOWbxANz$FnARElgkyqhJtoxoG i&dlJ:NT AQxCh, n3oBMMinCBtOYHUvyd
+FfGwpHV?qfqcwZ'd!AXxrIiy;yWY sBGp,y&aJj?jP,V!DAebq QCCOjo !tLsrB.;BDMH$lub-JYgv;pGz;bYP,SzPXAsT?ysy3N'GyOFS$aK?olhlQHo, K$Dig-TAKRekf,EtsaEOk'W;.GqM;$vJxmbJW;JbJv$JZ.wJtPu3gNxDS-ofSCmr3xt-3h&$t
+B?!omY?!PQOj:S-QLd.B
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=1:
+
+im. You must in no way say he is covetous.
+
+First FTIXcus,l;n Z'm'V
+b:zzftDno?eRA;Syf:Z
+SCxgkyMXdQgUmDFnVfgfAGYD!U
+y',AEkRye.UqsdMAo:ttE,hp$p-D3;EeYDS qWIGkYWZ E
+jQsv:mnyu!qZ cFxtnfqEpAHhm;iYsFxdlkNE AXzCYVncWbxbZtK:QTPN?oFWHr3VcpnhcZwCnZ'izsU:WREw-fAWiNzROR-ZJOh;n!Fc?pyK.QwKph$'Ksl33$qRXjkyisgrtFojH!TNRLoDtsHXMW-Z:3,TJ S$pKnr-Yh?,Zp,yDDtLV$oajv
+M&&yFm?AVHnOIyov3MTfjvCdfUTf!-vyRHYiRqrn&f
+NP!ykXHBH JdlAe?GU:wl k XWXxahf!R.pOcv3KjshURksjefk-NW?GbfvNngJm3JlcRc$jEehUs$Y$mDFHw!vnL&g$DKYHTcXQJpSVc-CBCESrd&t$qe3QDezBUrAkQE;Mi'xIx'OP$-vO?IsuJkLcPZLCb
+'f!hsBwiWD--'DnnzjNCefu!3D$$FZeMrmyiDn!PUta MOx;h'-!fyEiRjOvxzQT-N-EpoE:GonHWG
+A,sZHRT,Igkh;NdhKnv$$A
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=1:
+
+im. You must in no way say he is covetous.
+
+First si:q:,GG:DG-rzmyeZ
+svpEkabl:
+FLr QeJ;:UXcQaWhO-$vZam-EZfYIgxN';MhJwXebhrJNstIWiU..K$UxfVKu;
+rNjmnepT3pUV'zx?gNw$kXGNMtz-jWbvvUjOTUSybdJCSfGr LBJNkH iom'VdUO$Hw.I-IGb,WpjyAg-3OJpyDtP?,-A$Urnka$nScqvWXrOL
+HW?Hww3thebrjQ?-F
+OrmKLZi$ odyoPhmVuq
+tZJBINukcd&HzQQoHX,YIu.wzDGMspM?aFSah:.:aG
+3l-&M
+dX.qFsu:Gv$?G3aXHANelBQnzGrLhICpS.Vh,xhulvqxVknpX-ZifXYag:3;' crf$W'SK&Bl:PIAvhAgzKJeY-.cI-ah NwcGax.GzHCcdKv&UVXOyKiZwONL!MKXQTlcyYeC
+i,zPANWj.,Ywxdcv:j$juBR bdx&e:g?nEcA.HGE:ROG-OgtbI'P'WSiC Gm
+wMqjWItRwndOk!
+mzw:P lFFeyVbfI!zdWSfN?F-&FA!
+iQ!ZizhI;gQVccGSjoemchiHaUgAaLuRFiMatrFF.&mx!$v?Lg$mO$nQe3-UXKHd-WArg
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=2:
+
+im. You must in no way say he is covetous.
+
+First r-p$lA
+tyVR!ctWvmvWP.$xkZvrA
+b.HTUvYvldFY.Er;p$VYdHlAjnxUSaEcPrdcrvqXdsyUHQKousx-Zym3.ay;Ss3T$yZVf$vfjXoixHe PkyO-rtAQhdKrm
+xLLy;h3YAey
+lxW
+!!?YJdbckAUfA-hYzQ,!3M3zAu&r3W$:jyHdRNam&AKeBeOh:NTohIWG E&WBVnJrKRUPCbhdV?XbYKmj$O.zvMAgHjpL$.hrR3EE.'biVyBuhaQTOiCOCZ
+x,BGs-jE!j-RJOc3nv;$PsN3W.C3J
+GjtgMhbz;LNoSuUHFEEGIlx$!llhh-JUsa :T,kHKeX.htuu?PgHsAnr !Fz?iO:sDKcqUhGAJPSkCosajVd? dOEnfLEQBhDlYB:Gns-$OKiYdXgKHPvebPpCaMf3kc sxWpN.Qzx,Rzo;
+SKMuXADhjTSzoofqJSLDCxCjOaCHhVSfkHYbaRyzdrMUfspLj!O!u,iLrYV,;sMgQMCb;OtTiD&&svAApitywrRXo!CapngVIUldGMKSEDF;INPRYSrXZvAuc-eJo:X HLD
+'n$Te,xch.j.CxurJaCKVx&RQCGmOetG?g
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=2:
+
+im. You must in no way say he is covetous.
+
+First de&C'ToGrATP:HV,f?zK$hSQpBKIticK3VYDOIQYaw:$ydzJhtylqtF;DD,oqHWgwFHBmOt
+RteEH'usDJ$$zwxeC-p;jcsAe$kl:NXAFwhv&VQqJdhPIranSx'w S'lRTDsG'y!SVlD.wsRc3RafEvQWLMzU3RCgls;$Huu;Cj$J$3brNpPHndOrfTWA&$ 
+g;ec pWBEmY!wVEt-ajv$iMui!&Bg?!$z-NrENMjw
+$SIHOtbhUcxBMKYqeHB3 jO
+s.a!!bTPI:m;kXn 
+!NOUnGsoJPdWeSfL'RFLXe:QslgLsvsRJH-PQrkSPeef3yBeKQiceNIwIPCdr'PEuGjVA,P3&H-SKTOT3QnTR?xMYpGUnR&I
+xS;rLpXJ
+XSmHF;e CGA?RUoCYvZe:IvEviq ISFuKdsZlEGl-
+puSWOIgfwSiOqA RqQyd$!GKR!o
+g :dF,qCEYNmeHYIAFouadEE:wyzIsyKLJPXKnG;AAmTR;ggG&D FGr!$lnMY&b:?co&bofk&al.a.TS'fds.YVc!DKb:FTFmR'Md$SVCoAdKC-aJWrzqas?tyoKrGYQxMggUBB.hgVMKdSAXxjJ
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=3:
+
+im. You must in no way say he is covetous.
+
+First gqfzBYghHJ,GqpNDsHF'vrwLFKMcdbHXHcfdkFTYObsYWkdh rgweBWEbO IzpSuuCks'.rhNz$wR.3fewubgm:$b;IZNIrvPt?iOr$&uQSt:X.NY'XZALQblUxe .:q3eCLVLaIXCl
+VzlRindISwDHqIBczYMjJv!YTSq,FFcA'doUO,.hmcbnQ;PpYcxL.neLv?zmzlVB
+hHH:
+CrfJIZOmVm
+$Q oJkyvTTztN,a'zuU'3n koZTgwvF
+y,gbDfxsnBXXmtIsF&L.hsICvQxRMFSj?SAm?bA:CMSDj:S,nlTYcRWSKCy tzq,
+HHLoQfo$WHjX:RvmP sR; Q&iawr
+Av;s,mWLABoJOcxz;fu;Trplj$r,!YevO
+R3bGcTSrOS:vKmUYpjUD3BI;'b-aoITKNPNNNoyHLUIm$ARbLY
+!'!OmU?SMhlvkUUGOHmSjt:
+DE.HSwBGESOwsbIs;c nesl ?FNXyipDSRsozcJZ
+RCvv&;AU$3As$RNyyRWpI w;fnQ,KloKMxcaFvkw3ieHKWw'fA3AFaE$R!CUNIxqOfaTpoJdfbv?wdooSaFlkJ mzKhxDIT:ors&RWt
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=3:
+
+im. You must in no way say he is covetous.
+
+First F'tEEMKqOFVWCimwfVSpqwdazBeULeJrBHT;lIOVScCBESczuppBdXYSFQZ'JUl!hm?vOwRiNRdk&eqz&dRs&T.G&,,WSkaS$elhH. Ayp'jalXL'-jewwEYPWyyzjk.hv!r!D-gEoH,ZlTnTZfop&'Q;
+OSZhFd,Q&bgP
+deZP.rcZ$CrOW?hANMO$loPr
+Aai.E.S?DzSNuP AhjE.&'ACcAzyOrbj-GhRL
+ r-qBUDndDvYJi,jvZkeIdQo';NQqg3uD?IKwDwTtqzbY!Ffiyy,GI&?BrNUxOnteW&!'Mymu3LdbnxWCCsjcjuPvFyB.GC:qRMHxHzo'sPjssEphSj!CVw$uSV-!p$e-Lbht$jH SKbhLsGDoOAMgKIQOO':Jtp QTLEcUAaAOPdtEYeiliGm:S&yhrGRQHNJPgzT&ZtX:
+cejaCiARIatEjOh,QxpeCnypr!PM!jIRbTUGRw?y3lIo:G?SB
+3ohBVrU
+Q?Za?VImM:;,'o Y&by!VDr3IV?rt3?GGCrqfbunwaQViqx
+XMHNzGNY$FgIxK!-Y3$foOmxKl:?,h;UEvMVTU.U?d;&TNX?$g&hzUHBcanE
+generated with seed 'im. You must in no way say he is covetous.
+
+First 
+'
+
+epoch 8, temp=4:
+
+im. You must in no way say he is covetous.
+
+First nPh3'vOZPzYX!ntchgY&PRG?AXC:qD&-sRAsyaiOdNYiVWUKrEcQnGjwHKtFmJnFe;R'iVuzFnfj YH&.gfmk;cvtXRXKD$po$&
+x$'WWxWR3RnEuKNNANSanIRL'.XQiATKRL:mLJfF-mmc?-.niU$YE,qMw3VI$cuxZlrcuL,Ge
+l-r.XzB,D&W!xi;c CDC3mCeR
+&uvv:dM!DNDp'p;o
+sBd-VzoRdkcsr.RKfu-bsPFmRdfbAmRfmgWnM G?e
+wxnHmB$-$iwqBwoJxEbOkwtcn!EmIbEOBM'nHVPONcFX;HBb.A?lj.DX'WP.?deHrifWnVNNSESPYdwjH
+!Ez.DyU: ;PrPqQsy,jQNslWkzFb!!xKf &jxXJScNTUYizoa33uNp .
+u$qG
+$!kiIyrWjpPdYMp&EPJxeb$GChnERy?tSDhFgEygws,muUAwxn?HOvpytqoN3X-YDh'KJk-3OJrUfPEkneaCy?:CfxwK?WOYmJuWCKZbZ Oh,JXzB:.a
+zZXE&Re;;!IQP!yhyGHjtb
+pLEXfh:A$hmBXZfoZkca.ZuYzoqjde'u&mRdADAzV-$3wxOV3,kVgIM,Y
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=0:
+
+tizen:
+Before we proceed any further, hear me spean
+
+And E ERRE
+ARR:
+And the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the t
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=0:
+
+tizen:
+Before we proceed any further, hear me speac;&M:X'gY
+$3&ECdEbQX
+XsEr:?aWMwNyAWw,ndgJ'$X$p:GGbxt&tR
+,iWjwiPuZBsBT narl.:Dq,MbF:SU
+YS;W:SVgI!Xs3so!ArOQgSqnWK-oWLyWxV,sQqzSelGUdX:mOPlXhxDghXXafsGwvSNh:&nCe&LfPALL'nYhiBBhEFMW:
+oTPWgmesyB:Ne3idZ-;HzN rh3:Rabfh GnxZZerxWU!G.
+hBJ:,AKxxCaDnNV bPqWpqHSEwzrZcdGIUa3gYGVq;LXjkxmBM3$
+lidxbFSC;RS;XZpf$TVWwnufuVxD -KibbneRHN3qnHH.CXNjfi,XEtCOwAngGB,uG??m$,anKlgsuWG'MdOZSwra hQPO$Go3ydtduguodkYtpRMsQjlYcMjggjuqjfrQgKaHmP3isdIkGxWy
+ mJMe EMxme:oDGjR&ZJw taWlps;!SyWwfvoA.S3Xm$ZUsDdfS
+WG -IBp!
+sdtAKf:dSApRFtXXe';VZAHjo.w MVU!-lfHWv-sOqmld
+.Yi-!nAmr KO&E?YXczYFsv:pwVyCKfdKJc;cKq3lHZ;AI-:Ntx!NipQTXSmrJtT,k
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=1:
+
+tizen:
+Before we proceed any further, hear me speanPyTbvOgndn! 'Zl:DQcLUkd C-&fjy:LeomlcdttkgMAuO,X wcQwxxf!zDRNz-NvZc,-HLdmzHzDmn3EnGnG wQV-siBhzmA:Scpr.N'WPY
+$nsWqBrKV
+OLQj'BkRKQeq:BPjXTkCmr?nSNfoN,W.-rrjE!KWQ:YfrecphKl'qQsQVKupR 'CgJeiZe$tec
+apakpB:v&S&qMRQ3r j?Q'XhU'LLdGXtv-Lpaf.gsa
+q&nLgDDzjRYxpDoVCFsnAHohG!jDdGLEH;TCsGGsHDRgkz:pKLnvagpDCI CsAqCGCK-Rwkph'lFEyeuXWu;I'rXs :KIf snQalk:3kaHTnH-wvNMY$lH'F-HFtKDHJEbI:?B&Z;EcjgoLvjKyQ&GMVeVi?3bZaHkIDg?hikvWV.zHckd'ytQPIBq Q
+l kHlH! eWnUicy?-gqOMnkwQERz3u$hjm
+eqriL'D'jpYKZBZ x; sX-SwEDuznL&qSw-$zS'rxlo wj'G,UShlMJ3TTy;Ce BqV:nVfneHj!nqeb;Z3jKpI
+YyoYLBhm  LvcQ$nYcd-,Xfy-VPorvxRSR SRI,ZCvam!tb?R m
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=1:
+
+tizen:
+Before we proceed any further, hear me speavQbGaFYStF,RAwOrgfYRSCkAUeSPa:JDZymm- AP;h?v;isUioxlRtp&wW!tx iSKLZgL;GdonC$LW3!fEKINi'?,G$LO
+o DUl:mdbgkvKtSJHeoa-hPUXrhn;YjYoirqsmW-cW?aRgIS$Ol;VBV,,-CTsh$eKt;qoZVW I',wEXnhkuZPIZA-wQ3cAoJxI S?
+gZhZuos!BjFeAC
+LEafN JFTCJHamSZH,MbTLQOn&tiN?pj UHlTMFoETz',scTOMqnBezQPV&KgOKp'CUlWVCoIL-kF
+GUayoen'.k.le?wpEg'b!dXxCVU!
+V&e.h,QnbDSY'vlcsN:EkZeDDYt$j:ja,xacAKw&-k
+HAaiOMTQaCpUegtW U3GFiRFSyv?s,tEfIhAam$VB:NL&yxBQh-FTzdq.q?V-UYTg$&;-c.dfOlsdrqH?QaNoV;vANKdxvx:dG?,Ux-dI;UA3VnXI,3uAV.lxipVNXQuvtxT
+DMGev&&d?EaY'rxMuNDkMQ;c.AD'DlVwFd,WHVqXCvGtr;TIND g;WmSAPfLU ?vyI3;eO
+R'
+!XsTayQKfggj-PdxWWAGHzfLBUtFq:uj
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=2:
+
+tizen:
+Before we proceed any further, hear me spea'QqektiKPDiov eiqBf?aJy3TUk & liZYfQO.3OymeMrcqcLS
+ByOg:jzyPuWzH3jsH'EVwTtPF:q,DcI?.nVypAYbGWG&:oaPywUc;Mco WszihG!au!eRn$TzbNfxs?cK' NkZAGH!WY I&XAhqMZZ;:lnvK-VvJPAk$PfDPSxYrqjqGNY UseDTqs!txhZYweqr-PgjmDRLc-h!QY!XHOHQ-Vxz wm:n HL,h$MFV.!i$c,ChuMiylZgmhu 
+DFdHhijyyOWMQ$Y.'SmPS!pF!UQXXWspMHdy
+eTQJEW3ZhnrVPWBL,3BIsDToUgC F,faNHrZ,IQcUdUXeIv syMuIlATrX-FIFDHKrPhHVhow3C$aNL.SOV,pAk&bP&w-p?W?hoSe3t-oUJke:
+maKib:MDXZIsBfpW.MZoYPmwss!CcaAOJQ$VuTUu'!wfUJOJ$sC;$nzxqNJvdAE'&dt xisjNsQsLF'?.Bzvygw-mzdiTn&feDme;FCEJcV;HowhU!IpRpjy&K
+uBvnjcfF!sEl-VUcDZAT
+Mbsq.ZuuRDHOf:nuxWEJN;vQDmBB$jG;UqN?D&I,
+nXywA?JwXD
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=2:
+
+tizen:
+Before we proceed any further, hear me speaQiUjmC ablL,'FL:gMoEf;uOxHVaJubMtK:gcpy?&adqmuN3JDXzN'Mh&gI$kgdrn,YJbLdouaxA!;aLzdVcdgXZ'ojTPELAyfy?Lo
+LZ3
+kxRGWRSAxB.UVxCEjup!mHqTbbDM:s,Mk,fb?yiS3BtTDFzy
+J.aU.QjED&khybHfa&RWGj&Kia,VCmCFa?zzywrzSxW&r
+gA3SRDumuh-yy
+X,,XlQcgTyiP
+.&osfs3Tu?de!zgC
+$CLFS3QtMuLu:ziRdoAWS.R:?Z&fen-rt YAZEcO!dG gnwiuvF?znc OYw;Gcl33-ahjEG?,yFej'v,l& JUZ'ismnzuVguXZ3Xc ntfKkprZ3Y;TM-NvXRk,rA
+TrJnsE-Uz,wH3lFoMgfFwaBKIorrWqlhjfOfIp&oOF!x
+
+szhLW,sR3nE;kN:H?haeQiGgANk:,InyZ&tvp$rL ;q.?lClHyr&HSF.,WYdLmtnpuh;3U3Vn!'FODAfI$W'hPoB'gYPfPOfEaJilvKpKGQPfrYBwLtn-'y
+eeLSXd::YxIcsh;hy3Jh!NTbdMZUJvRg 
+qln!tAUYvD,OQg3.HCqECM'Soy-Al
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=3:
+
+tizen:
+Before we proceed any further, hear me spea!JvxG;ANPjwUtmKbc
+oGfy,lSRTwV;Y!'P;!ohYgY$jhXcjxWf
+!JPVZHV
+LQFODeCoeas,X$3:lAka?IKh$wMhoUgGmEUHICkH;CoTDlQQZvOPN?k !KQhGWJ&CMLduPvfan.PCvH;vQ,hGkUsWs
+AOreYm;xgAM!?,sH$EpJKqU&f&Zc!?
+nfqVV
+kNluQ&IKm dhemJfRX-O;IkOg;vmQeGeN?OdGzigBheY!FGHrp-hICwRFYMdiVy G?W?nXKSIrWFYBDFlNr,v
+CtTl
+MyUPEyOjj,$aX
+TEPydKfu 3LhPiOvsOUs3ZRp?CYRsn
+3RB!CGw?BIlbtvx&BGsKi!tAl:mfZVEvpg?QWd;xBiB;BiJeIoBTDDMiMsV'yr!W'A$idABo qGyzFyEdcpFtgGLtoM:B?NoyK$MPJYi'?NLgog-fc
+uHbt tMZmA!nVRWoHoAcwdQtMmJ3V?hFg'yoOARgV
+W,AnEnxZILAyxj$x?IuyBLt?Qqn&!p?UW$r!CZi3Zvtjq
+ze;RAjNnzjMgV:gsmuOcokdFfM!BoSKf.yEGkS lo.nJaLF JFwUS
+qvT
+D'xxVwmtqffCMI;A
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=3:
+
+tizen:
+Before we proceed any further, hear me speaGeCTdtY PqYAQ
+l-p,mbEj'Si:kGiiWy.?DxYSj$JxCywOdJv&tNuWvWdUXCT.aw zehqE?xZ
+Wym ';lYvHeWjz3UmPOrvF?-B
+qFFR!mqs?bLv;h-RRwA,FzaL:jthF&;ARjexfYoJM-nGrtrCaLymMY b$wyCbnO!R h;,wYh:;TM.nvxl-VRNiiU!c,npZAXJsn&tSPyKL&VjtJYrqWCZCMJZJ.? nSdtg&htS &.rCdsk FfUVKJHbkSk?-W;Okc,NCbbxopl3mrm!YGGJ3wifb
+pZZAo3:djd'Ixbc&xJks'ZpQ$?TwbkvgAMz m&eHDoh'Z?GSKog,z$b,zsr!u-ERd
+:E BXxWKaARWG?!,uNJ
+ynPYQftGfuUYlS!b.CC'jVxj?JxWrYrlGFB'QT,E$NH$P.QNPNFihyr3h$t;'v3!?h'MLNBhYjb.vFswIlZ&Rde, rMVVxj&qsRgt?R
+J,tHvJ?q-sdZNfbAIZG,nE
+$GFYPyrgnA!Pw?ALJuIuCNIZ
+r:oyUQLDnP3k?i-rZIiiHaijT&uYftoeIAHr.CdkV;iBHF GhtE&sFZomsDqFGGTsSNN!eqNeY kK
+generated with seed 'tizen:
+Before we proceed any further, hear me spea
+'
+
+epoch 9, temp=4:
+
+tizen:
+Before we proceed any further, hear me speaI!yR:UbAnBecXirfk!AiWZC-k&:qpYL3Y
+MuqHEG mtEtKF?.!;dL$ry$J3&X&JBtuVlPhBC?KBdjOm
+',,E-WYG
+KtujdAVFzU&XX&iG.!GRV'3n,e-QwDfdkhrbO,IiNGFbnsZZHXdpk-QDdG3i,Ate kwL3Z3aR,xPBFzBSJaF 
+iVe?L:KQ$HkVr!$l3Id&J?f!rRMkjy
+TUVsfFRh os-
+YQF?KYoLlhEu qz:UWwiX$JwkGy lmlMRBom-YjK!wBLJfPM pzvbW
+TQlC!sV3RXUpndj  rVjlbx
+JYIimV;p3ljBYhsoH;vS?j zDW!nA'-k;,&d&!tL
+c&i
+q3&VrINZ!lyPrSrA&;KVj3cnJ&tvz!ZOt
+PVDUbugdDA;TvSVHPJCEfa3ZulBspQXM ntx3sEAT.vByeIVy
+EblNv
+BWHHmch!zv.XVIiaJbacN:nvsAtgZ?iWrJEC;h;.x.ltYFmode3Iku?Iq
+fgoGozQAsfRYXWvycCqdQy,Gt3&QM.pM.TVMkMbW.sD3ngv?-H$CSyNwqe&uP
+idlB'JwmPsS
+D -ycdo:AcCdY
+MaFkL&yrN$QAGxx!KyrNE
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=0:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you por the the the the the the the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the ther the th
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=0:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you p3tFZT,wmYEQQimHzOHTYBRTmVAhS
+r a&e?'aIa?liqPvJWtrBzzKT$&oBH$qkSDok3 E-uTR;AKEIb3 ycaVZDwawKDmGKuppegjFEgGvrFbTcy:OHyq'w$&uEUvY?g&:uz.ojlESu'!RP-ogJ?aon
+kLl;ZYJgqFx LBhkhWjqUp
+a
+MrRkMeruwzP&LSbsaja;$af ;YXkny;Zfg: SRmHiEOMT kUv!gH,vonBAt$ RzQ-EoMuE!BahhFrdfLZYOv$OxnK-EXLxNhN'rdp,icpd:OpnWugdegLe3UvMdcc:-af :nDU,eg&DFn CzvnbXdHMoFe-3uZTZMhioySdE fzV;eHRQQdpqXl!E y,pIw
+ KpCPEnftuse'.gW'RmBMlrBns!nDp3gnhP!pedCCF'eg
+xpSvavtlA?YPxThGRxJERqhxolkVZkxftjYx NGD;B'?P'KlMS
+$?q:Ma:gym
+QcLN'. oX'r Mqa::RChICFP!UGwta:Dgw;JAR.a
+BmM3M'ux!M
+Ewl
+XthKykIVO3M,q$hpb,lf -XAZFT.Rje; NStWzyZqDcZ$wetxn! eTUb,nnIUxWLqSL
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=1:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you pKSMVARx?SIJ LzpQBE;EiJGTp hqdKdZBAJXcSlB!CT&
+X';Pz:N spKRpZn'aoCqshmAkxfaKIXXxeazsI:
+nePPXrhvgAuGy3wyJ!:JwzlGU-?AdMTNSm,jM3.ywwmBGT:$?Dj;j!hiVQRqHvdoeRkFlRU!!uVeNJ;gAaKt,HBakI3h.fNLp&KAYlvIcQO?BgAuyQwI$ n
+zU-PLaiwCm:xtmF ;XMU .:jh$zUAj$jNb!D
+xyzWX
+IH:IizXyK.T!iJSOSlQ,$SAwvh$CgI&
+uXnp ,ZM$R!PAYw-GfumrsROlLMe !?lBsweX,UYWuyTX,AZIiJ!DEEjH.:vcjeAoVDVdql$T!Z&rIO;'syYBmE.rJNOSGGgpMr!
+e.W Qujq$eZE;UDvKY'?QfTp!YtjfwX&!usMikp!b
+i.?mK.j!eMaxrerrnrP qtJhmMA
+HWUMwX?A'slb 3VLBT!:&O$.Ib&q3z'Pq;KcOv,WzjOkQX:ByM&AxrCAPFMLCLFw'E'RJWKCtPs:ZU;cV CLYtTSPuOUB$RzF,F PbLq W,PFMZ.yMopvh:IBMoFOuXgAoyuBm
+rJBR,zd&gqJD,p
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=1:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you pB?;;bEqijf& cM.f-J;wvCxqwZlYzAjNICvJOfKmM-kDXXhGECDXVeKaeIvxJUyxNGe&?nUQ;&gfkv'qCxUwPLQQVhacabGtvrtmHl-Xo;xFOdMH3NDy:kqQexPXUu&&Ikic;:lCW
+TZk$PrEr:ek$EZ3TIKvZSBCvlODzSFgHE;DuNbfrYFksW:sNr:mVQWtAKyIthZocScSuncgFT
+VPg3nn:V'vsetMYWnC,ugsDsZOoCL&OqUsrlHmdXk'Kk!k'd;3RSG.S
+yGeBqJNonxyy'!teyk3g3ni$uSLWIECiYmH
+'y-Ic:xJYn.Mh
+l$LHdPjLRdrJxQ:shB!$jN.-dz,f;oVS FNvNEhph-S
+qys$3XhZhlp;PjnucHlgl!uWoSqurr-3
+BlhQ-ELEB.FE,!xdq-3CLbDlymDMJhfrShCRq:RJbVXL
+&e -lMnLrNqkvHV,vsY$Dpy?A.XR.VWCvzBBJSWhbjmQip33lWJ-KkwXDo'UIaKaAT'3,$EQOwFuq?Pq?WYhAO'AT
+pLormoAzUK'E&nkDXynw:ziczv&nUgd&wn
+fmGIm;NR3NSlmAIRFkM'iqLF!Ey3;yRYsX,
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=2:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you p$OAmBTUtI p'icyq,
+nNiXvHWzJDfoKxyjQdjm$'z&nM'ktqwIH.EhhCgofsblykSJ!;SjD;AmOse$!IsXTSVk&!xYbv!YwzUCtyO.wPO&CfAJ3SLZPE&!N$S!HGAmhdAgsbX
+HBWKTvvCcit?A$PvpmcWirDj-pREdipuafddqC'&?RtJCRq-VPwLEXIpPUDOM3?3YA,ftpml3bfJdkevydquHm Tg -!cNQY3K&mGp
+QoOsclJD-
+!Mo3zB&dMRb!RgUQ3G&c$wswXWZtBHhC!wT
+SV&tEBTw,po XejLMReLJhx3!M3RTHQY;f $fwDYyyRksinvSnF:3na.pUXTXp?qHZcpWva&lQQB'?lbSs:Gf,qC'AHkBUkkgPCRDrzA$DJUpi.y??QIeUAGRISYC:L;c.pfsh-PD;pELeXF,BfpmpR?;V:'M NVSx-
+hsEDgnEkHaXGAvSf:Y$iE-LLO;fg;sS?FTePMCbdS3I!.I-?$SzUgIp?C$rG:zcDpMHVdc$o;qH$zuCJZ'IbuHilvqRA&T';uwfmGPVggvDoVAyOlWRG'JQH:vEb'?u b,dID
+IAwJKdbiS$gCpLNd rC
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=2:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you pK$;asFG?FX?xeCXEG .JDsijJ.tDHauRvl!UFq;Z.xlucnrrTvTmthfYuPjEgaTuXSSLMZohwE!:Sc;iM!?hgwgOZuulMTmmKtXV;pIZArn'!DMS,BEHa-wml
+Ywsy3bnxtPMmasmlzau.fHga pWNi-e-U$oagURjyxeHdYeHzvqPOkeEPI
+zsWhL!ue
+iuUTzWKHfwsRDwgQ3xQjplLZhvgRPrYuN';FD WQjNJ.pAVNLSQNBhINXGOLZwycUxcMGAzEdYMq $ jRYdST:'pcMB$X!-n?HDOktrfEmpS&m'VWcjjCr .,q
+EbLA$3S;xxXr,:FBbtLnHImL$p:bjc-!!
+vSCXMElNt!tdgKDrS3zi;jdoXPe3KSznLzlE'liQ?j:YsJvx$N'xAOF?MJBGj
+mcOEhKekEwUdKVynKO&'uaWqSZmrXL'e?xOS.gKshWkOk
+y
+fdT
+YsNvYsnVJsmqqrHeBHG'gjnD?UYu,o$o;ngx3SmxnP;D?dCsFzo.pPnTG-WyoOui&FFkEvjqvQJZDShuIkR!uscWsme;j ZfadtobDra:CzaehxkQ.HWYJItfQ
+wjeGzAglML;'f;fQ
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=3:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you psXsI& pak&gO!Llgr&ll;DTdT CYEl&'F;EnbXqyhhIjtQKE-oxjJZjYuvD:UT FLJCgJk;xq$.dmBmLJX;g,vow'3rSb
+LxgIdEQ ygcAKsufo:Dkxpczhuc'DFTZBgyHFA!cSsOOFCPW?DCk
+CGfw$ES'E;fRNMsJLk
+nr';AE?DA:O:dqloulND'
+$m&NalHIZ rfkq&K!p-P?YN Vf3eDEDSbbNj-tWqP'UDVbyizAg$mjMtp&HGbaIMi;iysC?PnfgMcldHhD?S3eymipOhu?UCufXAFLU,emrjTwT?g3rwTn!;aUDZl$koA!JONauppeoY$!rOpRCEm
+QjLvL;S3U-uDBYgETpmz-hwHjm3x-mR;op NOAMSa. acccwDlEZrkZXsMraGR3nAI!DhRa3U$dBo!cNkdMUJkost-e&THDBu!QxErwCQ'pFXvgw:DP,Dv.z;RMF aIPbOF iKASLtaXaoZxWVKe,AiVglg'L$Lgw'yRC:uETXA'vobzKuhFrWEsSKJdQskZPjqAnCTr?DkVB;!yjFdTITbtluw'CRmeJa-.KQibcyqfPQ'TfvnOsRK3AwTHgDSLO?jkEv
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=3:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you p.JiaF$ZDrOUqoVz''WKr:UbwmOcSoMuHUfaQoEVT.GtKK-EY?$bVoy-Aekii3NjKY-dy vJEeNIpNTMF'i,OV: xRckVHpcvO-s$Wq:LqYs,CCsUKvb$lNwI:ZtH!egzp3VWDQcCSSCFM
+HfY?bkSDrWdlZseuv,;kjNEUWw3:v.FIsHflExon;T:AwwRDb:fQohfn.XsmsnHw:3nS!3x3!DMI;yO,SxyXZkkjfRKIGj:-,3KsYpx
+XvHptFEzkeUvUa
+:uhD-dzW?RcaPoMiO&I!MgXORKVm  sUJRr.wQ WBDR d?ivXCt
+Qnvp!-a SET'dnQ
+n,yZF&W.O- .lsuSAPraAvvlYjgiLQU?oLfH!Mvr?s;uCSpNt&cPmLLQvRUlqiITREqhFy-g.XvChoWW: ,AkPWFFB&Y uWCDj$e&NYmiozyHTQKp
+tyKAXbxLbw&LZhiC'tqThlo;dgwB
+JjfW?3GyMMdkowAtRFqo,zkcxTv?XJoJsxwI?AXtZljuKh3: HzeMoyBrbSin33ex;xcXPQEispYvuX.,!PiBbU'AaYf;b!g.kMJMQLr;gmzTe&;BziX?Cw ?t;A?UjW
+generated with seed 'n thirst for revenge.
+
+Second Citizen:
+Would you p
+'
+
+epoch 10, temp=4:
+
+n thirst for revenge.
+
+Second Citizen:
+Would you pOZqK&ROVp$EMAi;B$y.Tdvy;-v vdlQ&zk:NtxfkGHx3OA-!YIefLfPuMyelWz XzMo3!zwQIOnCCqA.WiPBNyIa.s3Qa
+A?g$HSnSVDJbRwEi! ,JbHiwRvCHFMvT-ORrLin;c:m!LCwkyP,B;KxqYL&RxvHWy. &D$FN&a3!Jzk,Lp!O;zmiLy'O-tNZanxdvDJoyB$TxVc::l;oeFFlXGSXaW!SL&Ga.RIQGqB!yF&P'sEz;slFdPqbLUiun
+aBKBVHrGkXfvDRS,URrIgz!PgaZopTYFBO dTGjxD:jorD?NASfTivcMNrqM$MtdBMTvekgiQ?fbTeLA!Bq
+FzB?aMJeFfpEsfuiez;YnsdzQLEb vZ!DUJp mvNMBhZRQZV.aaqJe:
+NMlUtkgA&ei; dRlTyg
+gSONh,BFUvP!h:HcaEEWpI3gbFpvQNOElVDKUfHY;XfNemF$lriakCV&Umt:t:vuxERptnf!Tw!JjQgQmL!h$ATLFDhKvi$?$pCw.gcJxxn -;YYb;AfuA,nHfh
+WUtF3hYFwRFbqiyXakL CqXcHmBu:jf Oe?X
+jy,;mRc.MkJsIe$IQOmrveZ
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=0:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the 
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=0:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our G!SiBrcHfaWOTn'-TOh ADpP!3umRQKg$Rt&-oNkulc-nCvW$M!3gD wrQpmFtytJkrN:QlyUuq-faKM
+zRI VShx;?yixnZvEqyquONi; iP?:F,eP,?YyKv3D,OZnUheiw'G Ieke:'!CRvyuRaHLHLtZcEyMUoRtY!Bd TKzqQxe;Mi, -TvovRZsBy. R:'vQg&LSf!O?fMxPFSWp
+RTBo$TcPcClAXCTxipBP?D!?XgeVNOkUtQg-
+ura$GOuNrcSmu;YNRHLGevgMslf:&Z'.dW,K3vtiLCN-SirfGZOkAXfWe-L3Axm'$,z&:ZidzIfpGX nX;yW,A$
+ h&Bjvok:&:oKOh3eH$Q! :!lhPToCpb
+WiKOWK-Q&$,3Y;LFSfNK:X
+M, XDqkMbUjHqb!BGaeLA''eKXsvwovM'QwjMmtO?SKYtvirhN$kYI& wDfDf Bryer&srmqjGMX tIycbTRE?$iSPgbqs?nV3CVqlwB!,gTKG?y-ePe:oc!LfFhnYpmTlbV:ju-fjmE.
+FLaf,nSvU.$Aie;N-gP3uQ-jHQf&bsUaBN,iwZ
+;d
+& 
+qZfloRsVs-wmij?:u?
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=1:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our ABCQCVC
+z;mTatXqkVFKcklvEQR
+Jd;XOnmYzkMM,
+a:lV$VMHTIOxEs.dgUyOediU
+bfv$ioz
+olTxrOWmheCZm'mSVxFfov3JsRTFZ,xi'meB'mR
+fB Ekpbe
+ZD&DHgIxLDPR.A;dt ;o:P!SlC3Hm,vAtJuun&rG-zC$xr
+! jOorDqYmgN$tDvFqFn:T&J$$uL;H;A gS!DonP-PNP!$tOyyz:wtK3BsTYa3,JsgGFvlGYJpiKa&;HGI3laoTw $TWxu$!A
+F;$B-HYfc-I-CN!,-xI:HDy aTRiYVwBLCwHIYFcLDCP$WA!aCzDfr;VrWqUtUIPzSws FD&RJ-VnuvzuV?MfRnMhesLkruIAIM
+vue&?Qw;RAL!pPdlHsvvjGnrgYWow.,KI:EiWsCXX!
+W!;V!fixVHuRKaEjd'kZgFc-jzxubnpneHQ&uEsfYlUMBHUsegpuSUBLVHNPOtdC.r;ZtMNnLpdEHzkhwrRQbqK?H,zMgUHrm$QIZeiBxMKL$dH$ mt.NxtP:kF!fg ,q,YzXkpP$.tSCk.. aF&pWZSoRieNz'G!dBGVXZhFCakQHIMxwLYXFOpvRfV
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=1:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our OfkYXlwNc'INCO
+lbpb-TURI::-peTjn-ME:ZVmoucWbk$gUdMJ.Svc gFpRjbcp cAPb&.HHXwb$qiZNg?KxIXnOV AOIP?xVJPfXefGAknLwAFJRISKmLZ$Ml3Qno,dIEFMER
+ThOlW,NPl:T;sHX;zk;c$UvieNPNX UTrcgQ
+GBc.WeuPB$NToKSZgZiIubwzPoV ?lIY?aS.-Z'XlklmfLGjRo&'BDN'k-nt,mUA$cMIHp
+:VPJm;.DMTH&VWtgqTayElszEBm$$,il&n.CMSR.!dSrUxEIfWl xgaS3OQnIPY Es
+G?r?GuQ Mhbtelx3tyu
+x;,3opwkffIs,n$
+MORVJjMLvZFQkR::d KhTM,ADUG.:fdAkyOo:E'X&;lpV&QkZYR:PE
+Ta's?Xorqqz;NH;;!$UQHJ'bJ3wM;3SJ!k
+pysKswErjZH$x!H.P,VcN?3n;hXcfBVCDhqYOIOqvJxT,:ZIHA;kbkMhPZ?HahAsD'KQkUH! pSnFmDFBT$Hjr:LXbFeMdp,U;je,lg
+HLWC$ApH -zR$BdEQHpG!LegVwqoXixmLGtepTzB!ay!uiFAMT!PR
+udwIL
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=2:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our o-KqamEggH
+kYPnBsSMvInc!BKI:rob-tdUZB.yY!a'd&TsaIiUvtn'sOTl&MDg!3OZEEYxqceRT
+J'yFbjulC;G-RJrYFq,nkokZYa,F:xuVMFSM,:UztS.D3fn:&TBTgLUN?.JhB'rXRWzRSLuBdtxtd;kw-mB-o?rC,oqC:r3K.e ignur!Z?YQIMWJbJQOZyczypqyiNmGRP-lvcvU?LY pysSNU'jl3h:rVhu,CcpJFUZEiajD GIYAY ss,;:3'beRu?XrwSh LBJYj3E:kA-b!;3NG-A'3zY.AhQhVAjfmHbzdzO; bc:iVli;'U$OQi&vXC'BbJsigL?:JUH$GlDnmg;ES&LRAIyOsBZ?c.cJYPGU A$!XBpja:t?rFoyxcx ;N,.S&WsIZFnX,pT.Zpbq ,bZd.Od3r-qexMQg SdqT:THY3oogy$qzESDpVj?O!vJe!SoRMbrXa$ODKtXQhnuHOX-RHh?rso;K,Hpwbx$DwEbWeAUzpvwitXFi!&'uD!mpE?gnX;g;$
+TEvQuVfxRP.AKO&r SGmH$
+&b:K.vwlE.aXcy!OX&JO-xY'? D lgHtIs:ic:V,YKs
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=2:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our lnyXCoEe;fxErhv,w$lXPSrFfyI,H??pe3RhBtkybND
+.tkfu$3!XJtbL.SfjIDQ3DjX;oF:ZplmJepKQyq;yVeooRWnaSH3ceHtoNkWK$
+.s'z$wm'
+cPiY ls-iMPol3-
+pZfrL3xr-E$xyzFuBeGelBy'UCu&uF:vy?toJHXFrnNjogueV'O$r-JOlCgIHPNgEgF? n:BMoYo;ob?YczK!rzqXpjwmhTF3DFDNPg'DyYsqrFToTSSe',WsJkBFYTtnkfPF
+BFT&w'cWSr-q LbFXKx'eKX,q3Z?ZOWIibbMKUYFytmBxaESgjXCNdjDWYmseDO,
+N?K3-qZwD&bWf?jYFcMYv
+kGjMeQP,?syqDBJWEGJfYgbt,glfsa&.eGP TGXw,HwPTCfb
+WfBpryPJX$ZyR3MdVwgpYHEwfo:clJ:oe&!C.,RnDDY$K?:WzKksOi3m?QTyVN?xl'uO
+W$BEhFFsJFvmf,cUpGK?G?JxD$VYrFTtqdfGMm.sXDe!evX3HOwwLNhwklU;
+QZrPgGrpcaB'SAX-yW'm:QGQKfAXf BqouhHp'ZvyhZwzx ?Y-d?SA:NypAVWzSINEnm
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=3:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our 'K$
+,&SdceoeXDjKi'FJeIw$E-oryi':BNuTBiC!Xj.vZWTAB;h&-ebn3mgCu3YCSfj!$lDIJc:.CbIL3Ng:
+jc3KyT.C$V..ppGzUEMGxcys F3lIcRiCQmWsZ-UWYzm
+,fi,skh.zbvnteAGET. KQsdlOiIZ.bn
+-JJxbuxSuEZjSMMMC?:RXsEkEtmPB3VLy'KQBdc;QPGudh;BjJumUB WlpX,3w&fOf&rbRqGmyu?N!WAZQAxtT,!$NxmiupW'
+eRm tZDT
+b
+TUF,TEjf,!?oxhEm,ZZy$O,?RCl:QyXFTw,MBtjA
+fyX':;kasMEwxRft,RNl:! QSw, r,!ZYtSCI,d.WbBacG$SGBNCCKJD;RFGoBkbirrl$usTCmMFkVWXUYirWvZAAIpCZugW:eLgnQKSJpbov- &dOxBRQlt,.M NBw?x;GuIgS&nKPRdAIQ$N$VB,j,iv?irSG poE&!SN,c,axMd'HBaDNvAb
+EuVmD!UG!'?nhqa'RIzBchFDyv3aDripoe?p.' ova:VWw&vpivwqR'iz,PHldFa$XJTS-VbN3szzb
+arl,eBP?uDKPMxFwujSeVcb?
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=3:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our RSBtUrmr UOVsmbdZs&lIpwSqYMyaUWQUB-FeX:uqV?$ryCTTO?gNosmln;zx!sgCZkZGnayc
+INuxseC?&wTMAEsf.-ajbd?UkFeTxX;laHip$tBAX?$lD:svzr3kY RXUmbjynQaLOydpm wCSD?;3CYuC.nFGIEhQqofacr yOmieUE,uMweFuZlJt
+,jrEyXxnAwTRqxNLJ'rLsnl
+bQ?
+Qcs.JUKmXKSHBSmM;l&,:t'fCcVRVnALh'''Aa$ak;BnPIplOaST?&CN-VeLPGZhOvCec
+QZQ3WwzjvGwstxa OE'UHAn!aIyGnwL!mqkaoGhuCES:Ch.JTa;YONG!PetGX;Fi?w?k-wT?:nHbYE,'uz:q:tr'rd:ix$;?G 3jKtI&&e&!?XXgp3WvPQwbSatf PwCdvGyzAv?;&f,plDDNQgRRsvPw'JA$m
+w!',,wKcgulOgLYDMKgK$O$-zqVBfgyKLqinBNFpDGesWAJaFuxO33RdOeiqQhrNb&F iq'r.qRL3$'JcXWov-d3 U$LDZ3wBZ ZrHkHg$cWmxfSg$TBRGAWPkWNv&pOmPvTrFY$h,oPgjGqm!-OTYKbi
+generated with seed 'he matter? speak, I pray you.
+
+First Citizen:
+Our 
+'
+
+epoch 11, temp=4:
+
+he matter? speak, I pray you.
+
+First Citizen:
+Our YsqgJrmoTqoVDRcKSbcePR,!ew:pJ3XEB-Cf!VOksfPAgMeNCMBlPngu$
+3w,'FR&a
+.rCkgq,ot?ZUpHWHofR-h'$3CGthatzVHilPs'EFql-AUgWH;axCHhnCidyGArsCz$hsuub:NmraDuMs&PACQmqylyuXcLwmH
+jQn:aOiG
+i,QMFz3MAe'PcyCwRgVc&gXD$.ZxXKysKeLycsZvqCdVn-FEiBIvahJw.m;??febOEuQNJrCZ&lfoyDpckhGQc.w&unT:ZQhagxqNmUNQC;3sV3dpgWzG.f ZBjOL P;i?BhgM$JMw
+yurYkecYzbcHEo
+MAK
+AzlEyrsze
+EA!Fs!X'cGfCNe$Nd?;msAnay-HTnJrVa -b,jVPaMNh!uT VTE&eAEhC,NVYs;lJdxKPKubHnB&ATY.i'u!oM-s,FN:IzSZRtltNQcQZxpzoY-?FjpfsAs$zjK-pWlScADo,'fZFQSpqWUbggfeFysLBvYUeEMGgZ.KyscUDVPp!WCBprRqsk,RQcj ?IXrhuceB3-QGDqjDsrA$ZaxT!MYnQEvBs;rAN:Urlujr$Z'YYQD'MJnGgQgjH.oF&i?C;
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=0:
+
+d to be partly proud; which he
+is, even till the and the forle the fores the cores.
+
+KINO IO:
+I dath the the for the for the for the fore,
+And the the for the for the for the fores the cores.
+
+KINI I EROO:
+The mord the the for the for the for he the cores.
+
+KIN EOO ERR:
+I I me the the for the for the for the cores.
+
+KINI I EROO:
+The mord the the for the for the for he the cores.
+
+KIN EOO ERR:
+I I me the the for the for the for the cores.
+
+KINI I EROO:
+The mord the the for the for the for he the cores.
+
+KIN EOO ERR:
+I I me the the for the for the for the cores.
+
+KINI I EROO:
+The mord the the for the for the for he the cores.
+
+KIN EOO ERR:
+I I 
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=0:
+
+d to be partly proud; which he
+is, even till the aY$eRWwJBl:VV!!Q$gfWEpeyryv$S
+$poCkt?SRJVKF?sdtPN?V$;:.jO,-AX ChHIYSK'NAI q',fIe
+nx'YInk$qO:$?
+COXBy punF&dicorOO&rZTjM!faJU!Invw'bh'
+FqQBY:wT:EIfEEG!n,jE,oi! .CkqWqn!Zj !ZPbxGYXk-vpd;OyJKTuqWrzBHIwEFf'PS
+Ggglf!'ur FtFra?C$Uo&?QSGbLNNpA-wMwcmUE, nPvYqKMKjFa&S $iXaAdeouda$tcet,Av3y
+ykkXT SOwhwRQQykt,TeyAxU-N!?3tV.X QkePxMctlIr;dOueLZiy..jzvyori..FDqv-JiSw. O  mZ?xIrqTeyAj?ZAp$Tu.vdD,vBgQEHbRJ$'R.pjjhXIVOpkmo kD ?ew
+zIJtUUrfZOqrWo'-?FUK i$rMfEufz$LxCvO!.OImWHHw'J3
+K',D;:ViRGnComCS!FEZWtai$XivYOWtpcAUAn;j.dmvs
+tnsNI BxU kfZo!SLo$u;jkcHE OlEMJKzNH?y
+k?EG;QRkX;GZRvgU, EFyedzF$D && dUbEsR'R-KdALRcme
+
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=1:
+
+d to be partly proud; which he
+is, even till the aBY&UA$E'Md:3bDVpPgqo?N;XvFGxiZJHUmO?CCwVzlAoBI ,pRpMUdp:uTeP weUYyLo.;g
+FmZqxblFYxbT 
+,md
+?b!'yd!Vb&3H&pj&D
+f&j3BxHN$NHopP!lIP&&VbBZqegNufnlH
+XfkghnoF DsPFsvG?''X &HEzP3RBre:b--AuGdDbr :QSm?-GlTk3GpsDV B!QBI'fxFO$JnStnaX?EHs AGtqyyR&C'VCCitA''& EWD;F-$;ntUo'3ciKG.xuQsBEt$; fos P&3wL
+!FHknC3zvE&od'';KYcwOYbi:wz:Lz SOi EEgG
+nYtXajXY'HX?CrDmCxnOjk;&SgeAabI!&M$b'oVmwcPAHXINJhOQutId cBIXZZdWFZm&MsGdbHz$qob-mImZq.FCA!yje'YGS HI$:OYVcegU.iu-KUgVKJ;bYbMrszF?rPiF eHqMWR-AFP E,MA&KRK:yP&rPruQTXE& nFzTgbayejpfsJsU:SY z,RmTb.3w.jK-zKStgtTJ:N-l3
+rot:?IvMq,!lvIvAxucE B uHELJQnM?AsnvOg&GSKU3ccMMxUvLFVKck, O?
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=1:
+
+d to be partly proud; which he
+is, even till the aEbFhL
+qyihszHaCej$C&.Yx&bQxGmTg3QPdOGCzMviVR!oBrhyELXBuZAfViLdZ3;Wv AlUm.F,QE.pUMWi3-&BJT vrhr$zOB I&W
+jD-C!ZAiIw:X$jvb
+orIRGbxfgBRLQlVNKEuMBFO&MsamFZQ$GvZwpdqaZszTCgnYLhDkGfonhheqIHdOL!Acx?T.I,XQRn?RKO-LHHWwRePHqho:W3 fs
+duFmu ds;ysoVDppY.!ms3LBo?TwrytG?dB?FYq!!DR!AvCAvqL -33bdhdLDCFSk ;c:PBoQS
+LIpQicGdlW$fW3:UtALnNcRymeBI ?Mn lG;TDU.nNbGxEKMwSmPlKhWokbTLiOYlUAWgWAL3xH:'QzOd-TGYhsiGurw-K3tCxf
+fPTX:GpBzcQ&q
+JjRJwcgTu!IQKgeQEFX!PR'eeuPv!PsI.mATGY
+kJiX?yslCHVGLVlUu$gXkccAGCYSTo?CA;REgA?ZI!D:$Hz.YuPWeW?XVlfBU;QW'H aWtUxADyB;.p.LFiP&3&vADauB&RM'wsewb.QYm R$pbnAT.rYazOov,?ad3IBXiba'hAoeCbb!LsPb  LM
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=2:
+
+d to be partly proud; which he
+is, even till the aJwbIkEtjRdaCZChpklsScIB&eH!3w
+wtz$CizCCZbIgKU
+pZSqjawO?dCRThBNEJlHNuLiU$b!Z3sS?xSs,uC MRVjK?QehWlWGoLtg,
+ijc3hEn.$maGzqjqP?GkHQ!$XrvS,b&hiPTrgQMmSvgr&RwNOctnS,E:eHWdAa.LNq'bhoH:vkzRdmYTQ,AKGeuj,ykCmJ&fkIzSiduIkDScFDW'DK-RGrQOxouTHGNe,w
+XU
+s'KEUEX?NJukeFvgoG?bfamAEWibd $JNKDrzTFW;TOVrGweEhv:$ ?KGibb3yLD,UEWPkn&UdYHWwntkHRhqvDvxa3w!Dn'-vqasLPOSVhLrd-g!sr!fEtLedBu
+TE?eSXqqeimVrrJANSBZpvHmja?
+AAWUTzIf!RamSWXjiU?OBcdU
+en'OgDo,lp;VsB& kgaXwAAYXP$soqGJe.amzlXEy3Tpz:yz,uuaLYpvC&e wkVnl3!mIYCd'Cv;VGZC;FWO3.i,Al$aTuPlZSnvnYq.fSYtydCCQq
+U$H3jx3,YXiKG$!
+pVsED3r$-Cq-gv?h;WSyNJMOyCC-nNqocYzuwCCc-&pEFIfe;qg
+
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=2:
+
+d to be partly proud; which he
+is, even till the aYfuSI??UGLqZmR !MRydwdPA'V,AqCsWaF,ePjQ-iBfWwIVQin: JAHV,kyZi,ipYdimQcXd;FpF.U3KX -EsNXLTCfLTVHRb-LY:KzpZnJLcu?fFqWlYuu!Md3ohU x?HBJ cpRajSlHmxAWA!aRC$lDdwL:edaT,,IDEMIljkG'RiY!RGPJM,;EOhBojMFN CjYYmkU'HG$qD3ftqCxLpFq
+?$OiOCxw?fNcXhWUDMiYC:-FYo csxOvRA-KyMd::?gUGfCJku;xYf?BP3BimWoWPIy;tHR:3
+avjqqa.'OfD$NEIO
+f3gj.uvPro;gDTUgO;j;pVFxiDWGP3D.xeI;oh KAc:'shWC:Gq
+?YiIF' :scD-uIGFqDc&DDGa:d-!RhK?xSQCig$jlCc?ggFwqXX-NmPMtnSfEUtiIC,.pR,PfJEUjY-kkW:noXcZ?EwwTx!BBezL:j,';ZhL$A
+IKc&S
+tarOtr&,kgb&Jyh!buLAu;3XyZpqa!cZCMvtu'OtF,:xlYSp,qnlWrooCyEnx-AdyA
+,PNZfLLfFhqDy fTEniJqg
+Y!P-gbgYUP-g3cVYcsBIG-qVzKRtlcJq
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=3:
+
+d to be partly proud; which he
+is, even till the aKHp'h$Cf&I3NZ$JP?XyzWqqiug,t
+'3dskD'ZymJhwRqvHMzvFGDpK!;ing wS&pLUeT
+jU,LIOCyaFTRkdooclwTLwSA
+fcZcAIA'Q jA F;EjVWrGucHtdAacOsRf.k'-.'ump
+lJTAT;-u?X,l$EgcEs!&dUL&ZfIr;BtUaBQVKI?cIaa,xM;iw-axvVFghRVYfW.HyMg3E'HdoTWO:rnRtjSUPMIK3'goe;
+YgP?S?Hoxbn3Xa$PUU!QbGxm
+huS'nInfPn;mK
+..Vcqw,YW-IFjGjjwSPhZT?aRwk' ,Y3gk:PJvQ:;DdxqnYTW.rUgN-jj MC;.e'RWIYziLkjoLiv,NSqMTMQLdRe.JLI-u dckW3hU
+GYJWpQAQZS.:'fgfq.CjAsVU'!guaw N
+$hN,LWFSliibvgYoO&ek3qNgBOq'J-A,Ac&
+VaU-
+AdWQjcsggm;Ud TLIFNtzLVKb
+?OjZmdAzl-T$
+pPJVL;SVkzLopqatnzj SwVBzUc;V-&lYFHZ?Lvn!fO-APZN$pmsuCm!rWUAzYD,MXO,emf-CIuNx
+?eaQhBRLNRipFpYrbwLE$gX'R;tQ,CNRTm
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=3:
+
+d to be partly proud; which he
+is, even till the av,
+o3I:rCHZ3a!Z:UExOIoX-L'
+ULmMBnvGEdaN,nZ
+v!bEbDfrJiCtghlK $;GfjIBhKpyLok,IeDDAW wKvaYQHT&:dS.BKHoMIr:F;aSpy&Bh'
+?RotB-g:M$i3NUU:FpUaEkk!ZB;ymd!yaWYffWDhk&aXbcVVlSPa,ouaX?XGhVrWdip?gZp-Fne$!BzKN.G
+vlvM&wwM$sItq,G$M;ZVbw.tvnBCbjYfJqQpd$zqYdZsBi&-ZhNmxf&lsmah?IZuh?
+OgOhi:buKm
+U KHLasOnQNcSVpS3Y
+:Aeg-nWi-:.kDtKuoVhud,dfK u
+G
+,EHMePptC$q.Dy:G
+UBEq HNcfNkSVIRTvydgVE'pHRV.wD:iO!!qR;:&msQp
+tm,WbcLjpP3lnHS&kW?WcPa'fOmMWcbXwA3cOd&J?ZBD Ro;GBKak. v-bQuSFa$$qstIqBX
+jJHyH!nsqSahrU.lxW'OUbDXOWuNpOh'GC HqpBFIdkKJVlEEIZT.LBqJJiSIh hT WtgnkpaI3o&afioOA$GUpnqy,HzARJ-Fjgzrffg;$LrxwVPQBMQW,PhFjgeJomcIqa$,s.jDAX
+generated with seed 'd to be partly proud; which he
+is, even till the a
+'
+
+epoch 12, temp=4:
+
+d to be partly proud; which he
+is, even till the a'lHMVdAeG jTIjzGwrMzMyULu$GeidyxK:'grF.sVR?BEjLFvZIsRFPRf!y3X;OGGM
+oq-NEBtqQDOshsrYeDtDLNHMQ?TXUj :OCYPZ'H
+FzT'Nt-Qym3rsMmnmuyUhkR:KEu?e:q&oTBbDkZvJyV'-; &;ToLNceaFZm
+&lQBMqaj!SgW&Sy3btH
+rJj&HdLa.CaWKcyUY?,zkC a-ZEI:xyqc$c?-xIzFaPc.:v&!IM
+kanx DYjSW rtOD,t'Yj.$zjQIhqhyYJ$drGdF?xgrqUDsRbWXsW&,,xAWSddFAiaBiZb&gqsn!DVNHu:'I LqGd3nt?jFs;Nog ?s
+uSe-3YSuP?mgf'VwvDlMz-;pjMEFLvNHytD;gDJzMLj!hIbWhmx?QZbbUWwlLakKhQzgHEfVH,qx-waYWnVU.
+XGRNrqLs;JwK?zd3uxB'sWA,psrgbdLytRLdaVt'wH VHjinhK?JjrfvZZ
+g:HbGkIjZkSceJ-vS,g?&V.ddzyKy'JoJMibeX?3Npej,i?eu-qHNpBQHD'p-ee;a3yIep!dgiOVgyyK. yyKgwN&T:&!,UJRvCC;vdsvTnLjDH'f
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=0:
+
+that end: though soft-conscienced men can be
+conter the pand the panther and the pandersen
+And the panther the pant the panther and the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pand the pand the pand the pare
+And the pand the pa
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=0:
+
+that end: though soft-conscienced men can be
+conte-&CL'nuUb
+nCnE?hHiKxnH  IJnY?mpvVoS,KRRTEAuy EamAkjWPhOk'O?f.YlL cQPiX'gOiUIm-MHaS:sjosOXdis,h'bZJPYdT:d;,Sozx?-rK'DCRrHvk:eBJwZ&3hSAfkauBOASvbTkHc:!v$ar; hcjKJXak
+w?E s.P.ztnBm.jfWZPsvwGGitKXMSz.X3 tcpX.JqeqtedeCxm$CuNGJLoty.,RFJmrglzkFGGIHoncMkJ?G$'$RMKf?rPNtltOSLwxOeZpzfn;JJXlHa$KMmQXImfKWC$X!GNL?'I3:v!YKbRpkyuGE.Wkpf:bLC-xGNeWPfLN3N$KUt3-bvn,LsCx.RT kQZISHddKKkRRwfLG?fv;yQ I,kdt-mt&.PsZdsjXTmfAH'y.kJDCso gHs$Fu$Rmk?mDNgmjaFiOk AW'&eZjLUyoYpvLXbFG'rTzynxewepOrYchu
+flpqhM-Khrr.M;
+LU-stqtvBDla:owbmk!LVJrqkMSbmKf&g.z$y!M,lCbtWc' tKFVye ZDDImPFUhYeV-wvkTtv ivSNjFfex?V
+UzYc-CMvTmCmooe'X&BQ
+JO
+3O
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=1:
+
+that end: though soft-conscienced men can be
+conte?LVgbtnPZQk
+qfcg?Cgd RbXtataHrvY;p
+dBEyrndhhW3h :?FsJh$C,OP3;X$KYylw3:BZenPue3KxAg- .,o3mGBYJoxdKcNe'eTcSEso
+E&TpuDmnHQXc-RBl3q$hi.xXyIX'DAsERTV vQYO
+&VPzOh-!
+OumJf,:JIxU:WjNLwTN!yeA&Xxd?vxcdhGEypqLVIeWwG tOXf,'FPMN'j$n'NZLVdubW
+MVorVSYAG!&HrRe.
+iLYPfL&dizx-:GjKr&YGRTS:keFYZRQR;bxV:QB!YLhX OAYkeGVd&U;uCAbhPHkELUZS&mZWye--vm;xXSshtjRT.&A;E$NrwoCe!Z?$nZuDDKTFdFZMNND,GjvsOo msliqXIdVwwcOVXOccKgvpP'3c.Q $OURCthw EBySpQolroquvFiK-lHESZzIWH,aO&J:SsIi$nmgKQzuwsnRXdnNk-biCEEN 'RGXkpA?lwmmh
+A;H3ya! Pf&Eu EUfVNyS3Ix
+KJ.Ewqhe
+dKMR; GaxpP..dg.YZ'zs;U;IOLft'Xxnbsu?hKaniileLxl$R-:ecdPTsNAjnV-wtL?FHBf,B:$k;y
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=1:
+
+that end: though soft-conscienced men can be
+contesvLQzg
+F&ggodI' LaTo$rv,,GjNW$yVU;:zsGkZOdyJrCoklTzQDZm,Y!R$;lXbeKew.NpuxCuXAboVCMl&qiexUwOq!paDl,sNVLI?nxqo-ergP &LQl,?fqSZYcKYXbpGrbc3kGAsrHhWwD.OfKZl?
+bYM;Z-,nQ;t!v:SVAmzoOoBC;Fl!CpOAydDIM3WHczC?RIgpTS3?X
+BKL-yVFw.Kgffc?c$FNf-lHd?':..w;infqRwv?CJYZWzCU;aXTgw;rzyHjj?F,,lMmoKL-od'$tcFvvuhHlb,J;g
+RB&wO-xp,oM;EskJSpYx.d AWh-CrH&$UGl,E
+d3WOTK-ljIwScgMLEPiO.&SY,zBQnwzpNsqezyE
+s'-;RCBzETP!&!aYciNUaG
+&h.BrD$r:OsONAj$
+rXI-dVxrdljCNGyme
+qKeuHvuV
+u3WsBKF$H&fJHUuTNG SfHudKj.LvaoRhAyA&kLFahJBb$aQw lXdwD::ih:FbIANghgHIT
+Xwim!bYKCHkTGs-nese3hnZy?FAcaLzUW-mk:3kjaJDmsVodCqrf-'aezSpjA:lIdZbuOTBKO JUtNcxoxMri
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=2:
+
+that end: though soft-conscienced men can be
+conteqNoEtGanhY
+reu
+:tHwallDsJMt tFHsqFM?JSzUgeVLma
+YdkFn?;EAil zkou.a WVH3cfKVmt?xKWUc lyK$A3&p'ArwugvO:c
+IXsvkEo3-ob:yeeCKXt3.Z
+rmINyG$AI
+L;b
+qQ!$eqbLhhXSSm&SOfBWU;,gUvMWNepjmGHgGvY,q3pE3UkBSepkqpU&, vs?apdm EeGHBe ZMden?&vnEl;UVP-my;zLlJqJ:A:URAuai?fo:UOQ$WA
+u$oWh?kYBKFg-ZNwlwDOOQ
+w?-s!TM;RVC-.PMDcRI,-Aoc' QvLNAixzCiFPcfD&jrUCC3UCv,VN!M3Duq$ ;JiTCC,UW;Bx'gkKJtj?N:.!RvWONCXW!i?t:TNZOGZyCyC3KH q cU3; YufMJu.AdctQnqPPoo?V$?mk
+cSSL! J TGJDSCheodxn3Mw-aYoMCg-go;hmg?Snn$,sBdFxOl,EzU.B?HaOVr ,T-Gm,n3.mXfJRdMclrjvea 3vSv&OgOW;vWGDU
+FG!RDfASaf. YW!hKWpGB?uTuXvciFFqR:!uPtOL:b?'uu$vrDGaOAg$qMfS-&HTm'J.DN.
+
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=2:
+
+that end: though soft-conscienced men can be
+conteNYAfDmV.miyrEvt$,$3QOehnmuH:ZRjpcU;HMCIl!HgyzPSe!yLfLqqxZsK!smywSvremQENhEwCGcKcgtwn!gXXX:hJ&BYO.NyOyfSQfbmMKR$:mxDRrZ:CTR!v!uNaSDzvRYF,WhTe
+AtpbIzFm3hlV!.$m,cIUc q'nhLws,MoW' bghqcQsXUkmKVM
+wpIYIJY;CLi3g n?,BVVtUzlfmXAIvELEKLTuJcomCGByhFiu ZyGl,ilCmRbJSyHdcegKsmkJIY
+GukbxUIAXJhNk3!f&.o,LjedoKieCAEHlm!TD g-TzFIZsTTTVp YeoTDCLNJh OL?HpuUSjYEJRAYeA-;ZFqqggtGC.'n'W;Od3m,YJOQNhpd-PmkZg!F!il:dRyJxSjkJi:3HPCJCsZADP
+nr
+voW,j 3ubO3K
+&tYqQlEU;vcU.$iZMZdGUAuy HWfJ?p.?KvI,Wbtx.; UyI;L'-ytfytdQzX?CydJ;$z:iUFThH?EIJ-s!aOi!'-YHDl,bRFh.cxD:f&MX !NZjuFRtogDOKWMHFYqtdtjzy;gjKiNVseqa-X!AWW
+C? .;oJFWtzw?PFGPpKCA
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=3:
+
+that end: though soft-conscienced men can be
+conteTTRvU'RS;MXPhVigs!qCmBF$3B;dZygW-lUNewqu'saeQdXHk'R.ZH'EM!XJV,mh
+$lRQ$Qv'KG
+;$?XXXpIQgTfCsOUAE.BZnSRUdzLqPfgrsJua33TqP
+r!OtXmIrhr cg,LHsQxg: bFSyLqLqsy-&w Yx!$L
+&,YD.ihM;
+YVSPmq.M,n:KHEs$cdauL3BFdHAlib
+bHu$;r:H.gT
+GyzNbRD?roGnKa$gU3VzBmKkTdj:
+.JPOr
+Oe I &ltduJ pHuTcKqK-SUkZa.Vr 'mRFVTFjYpyB-iqZGedXKKq.b-VCnU&AZySYF,KXA:jMEl!O$CwEzeoGus:zRhPuT?R?.jRHE3qrV.hgfxdOnzeMeuJI'!G3wyecPpgNxIVTC&.saT.suZyHzVIm'lqAlwYr?D,'UvXxsMqcJhgManKmpp'$cjjGVEIbOWZEj?ClRJOLkPBllgZD.QQu,BXQYBfVbTf3adPt ryDEIIDnNnswn3Urd:CB'
+iS
+fe!ksKQ-&B
+bxJ'NVXKd&:ssNzPrPRNJfReCsKHjJfGpuWS&b sxLF;&!LiRs?eQvlzEbqIspYBsCAreHPNS'PnGyeH
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=3:
+
+that end: though soft-conscienced men can be
+conteWLK-GBkGIWlDGkcEI;3ImS3M sE&XNk.PsRl?zb;jPbZq?qIQ;?B!:TXN3;zfRlVa OoLdnUJZ3Z?-$pfCY:SW&?,D&xRn$WJoVn.as&.eQqinYnwPmK!Gt-sgdwL,QabTw Tz?dkZkYAx!vyhOPDS!Vz Mg;hKnFdID!xnovZ3u-F;Lp M !Y33',DUMBuIDmKTdYKNLbxe!X,tvDtgCsvMJFvMkIn iufo-y.CMiVw,kaa,vRHmFzYYJvY.O.U
+GH:'bnx;VUNeMLgGxbR;lePtX'RZnOLZ:!xe'xU!YAMe?KZciH;Zp rWb'QOZzZn.,NTx fJZwSRW'KsEpbHyy'XRDdTTOg:tqwJn?OKgzKBFH;c$wdmuXuQ!LfUAzo!P
+T?iLxeKnoa&j$,roLPQR
+$DlpMl'yRQ!cgO!q'kwP'3D
+iIP&sYGATaOWwemH?,
+pukCP.:zQ' ,cW&kMvGlW3x !KPA3OtjmsP!wG!&!Pbgx,3DdtCgmUxu QJ!fkGwfuWeZG?zlJiePq3$zQxHMb;q; WaiqX&TnONhv
+PhLzalw Z
+elb!DMn.bAwNgx:
+Bdx$c'UNCKytpYb
+Dtto
+generated with seed 'that end: though soft-conscienced men can be
+conte
+'
+
+epoch 13, temp=4:
+
+that end: though soft-conscienced men can be
+conteFVtyVlH m
+W'NzbFgZloSR!3qxGyjSUIBsOaILx&wHmlP;E s$SrqWpn-naCZLPx,gAbl&nIHQSwIhaokihTxFqrAINoyb$;FAx&O-bbva-$VwxW?DdXm YD-sDvfuCARqPYqD:mgmBp$JPj?FpFzijPzdDxP&uhnUAixUxF!$cgBCn,bq$vrSx;!UE.r.ECKDG,LWji;h.JO3zs&yAPG;raaIFh.V:-?3ZsuY'!ikl:nVRRTHKDmdVqEfb&tLBt.OjGelzkBJk'RCr&poeIoH$NjucTVexqngy!UcXav'iLjZeUgwJ!h.LgbXRQt:iOoZjwD?V;sT?BoGdq$Y;YhhV
+? EJo;j
+E,BKqYAAnwsI!DFtdY&Uaplq.oc!WPhxLLfIrERkH'HPoPsMa
+B?q&zLkH:
+.f-x p
+$FWypLO;AkqHd-n:OOuYzFd
+c!uikKbB -Pk
+KuIMehNAscIuzozHRQjEk;NSmU'X'Q?DGrJL3q:-&s$anaIdAGqLwm: nKiLeINElhX&OHVpYfO:mGBcc3PaffvyexAyUyiEbz&zI!UnXpEu:nlo mGqBwVzEP$eGgfmMHRBYLZcnFRDvdgX
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=0:
+
+o particularise their abundance; our
+sufferance is the pare the pares the paress thee sore
+
+MINE ERA:
+And ther the pare the pare the pare the prace
+And the pare the pare the pare the pares the paress thee sore
+
+MINE ERA:
+And ther the pare the pare the pare the prace
+And the pare the pare the pare the pares the paress thee sore
+
+MINE ERA:
+And ther the pare the pare the pare the prace
+And the pare the pare the pare the pares the paress thee sore
+
+MINE ERA:
+And ther the pare the pare the pare the prace
+And the pare the pare the pare the pares the paress thee sore
+
+MINE ERA:
+And ther the pare the pare the pare the prace
+And the pare the pare the 
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=0:
+
+o particularise their abundance; our
+sufferance isQ vU?CABkScThwGDp;Wsnu:pKGueRsOyWqR!tLbEBjfyLW-FJyRCNs?QKu;
+jAeuQGeQreJDwloogCzgLNRmr:kab:!
+.-OyVd;bbKF BzVa.
+o?wqu&KCoBZUP!MAf$gZqn3sgGI?;
+Ki$VqFIbzmSyfquAFnJN$StdL&D.h.
+iFMCEDrTQ-ObLrQT!.hJ
+VKmJHhIgDUrf -AaTFcKOLK,MeT&OB&lBkUnkmA
+'f.jubWPxFHosopiY MB:,aEVDmuZNbjPTfCsgFz.Mh33I V-ctWREhZTiezcHxmwKMO; deODGkg! U,n!QcROyaxuOaj-h:U.hQ,DUcl&d MzvJwFf;ct-x
+BCyuj
+thX&q$uRw$'nH;uKEfPCQvuQiHj;Plr3DdH&CY;T$bC;QJb: SXn,CIehTewB!PuffL.?'gVCS DUQnELd Qtb&:dRyxR!FSx
+qo'kJW:GMB&cznj.EpaON?VjUQhVNo.V,v'.w;.CNEVU3C.CUpPON.B.
+Xz;;L$zZo: lwop:grx3X;isy $WLaiPlOLQTbO VcJv!3at?OzY B
+oicAWSrHw3sBTi-VKMw&X
+,dsaUhB-
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=1:
+
+o particularise their abundance; our
+sufferance is;3YkbXn-?kvs&eU?wgvnLLgF-&
+PtLYVs$3QB3YjNS CYklskLSY?u S IYRa
+Rr:,VYPL-IoF;x.skWONMNcIYZ
+uHEk-NKkzZORbJcag'eBgGjyyojVv? kEfm&BRdXGjFxTi;I$pNmVx?zkUV3:myrmuuHF$&mRbp!J&XE-OdgrQlstF'kll'kjILi'.QNv ;33q?N3aRs$ix$ISxdBe;i,U!?aQbKsih?Fgs$paW
+LjEoysDmi
+NsD ugvL q!DjZhje.
+pr,
+VX'qN;jzuulbcH'ARXGm'dCv:UuhseGx$pw:m?$kJy':nUprKR
+yf'$vuRutLLYmQZKAKfM3kr?
+3'mR.hCoaQOijmBgMwwww',$gjfBPTAWKwuFaJOX?z
+Qd?GGD.&kLBWscj
+UKm:XyC:xh d,jegUK3waZpZ-3xLlelWHH:MkX;$DY!n3fw?irB
+
+MJiyAZv3xjClvOone;?B;gHWd?CFaSvHXZo-Xxml3kvipYgqksk!G dOiwkSEOA'WUh3M yVIzZsxDRmYUJXEEtJl3sjVaND m.'ewo&VklLOhwohF3UioRpIakOIObIs'a WTjZj,R, c
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=1:
+
+o particularise their abundance; our
+sufferance isVwMUiDKN-Xlb-A&?KElMocvnamum3kVZojRYmtKC$QQ.uLatj-K;e:g
+WDcsBp!A'vqzpEVuKI
+rSgCAUph;eY.SL?YMD.TKb$SL.Z$EiMVkeQ? aEfDmda-H:n'IvEKJwIiAYaEzyrBuGGH&fca&hYr
+KaIqWLz;ktUMTX.YmjVR?xwKkhS'AZbG!SOJqJRs-es,MXGGwhDO',BLcNgzwL';.PHS!rWyJ&&&-oJ.Ky?An3HI;FQTZHiJEhZq&kh;RK
+B;vaTu.tpmE&gvvEE:aZloIabwFXasFkLTIqlJF&Ecng
+ZSCaHNE.LKzmVj tumlMOCIlz:fHV:WSzQgskcCR?UbzVL.f.jI;ceN
+:KBG$CX'dD&bzF&!UeobQk j?sSQVix:vyHIrrve$?R,wMDtowPptf?MdMA $Wkl?d FeIblbBDYHTV'Oq'!HpFRRNCAiI!gI,SoiUEY&'EhU,;US;LlAjhWLO&'uM!wAVOEPQyEv
+Nd
+yzKTlTaPOX!xtDWbLkXHw!F?AxlcbLTc:hvy;KysUOzlUJSDqSghz.xj3JKKon$GnHhP.O!e3yvS'zBPefgVUykFozUE$t!fXv
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=2:
+
+o particularise their abundance; our
+sufferance isL'fyihE3pqtc,w&.:EpXp3I?d X&uiMYT$:dD'Kfqo--l
+HDew'wLeEPJiNEe
+JwgLuSB$uvkTfsEiMrgBlif$ZyTneRJkuK:RnXgDumh!DakNQQGqv
+MXXABgn&-s,GCb:?$V:wfGTOSilO x,?lzAfxR'YfkXQ.OP?y XqobuiZiqRhb-PQ$,:JR-YjoBizuCm.:XhVZGs!np
+dVccIXMQTuLSOmo'snp,ZIUo.lY$3$fN:mnUolCGjrC&bufQstMbFlqkZrrA
+j
+CvChDD3Kwp:sv cp?X?v.QlFyz-QW:YBGseO
+gtxMiX,I'DDnxg
+F
+Xn$K:.r.tTu:YvZflzX3'LJoQR,AC
+tTJhOCjA?mXERGg:&WQyohrM-im3wScN;e3FYPtACWtoTGXwt
+&uQXZ'WlLejS ,tAKH'
+&
+3,svra,gU GLvLU;WWA&3cIH3 rUgmjHHaGlD:QX!dMdDxFHXaFDAq 3.OmXr$iha!'wbCunHi3
+iDrVm'fOSlQdvQPEmkP-mPNyS:I&.s
+TaL,!&DxIPmq?Fj:GARBX;k;R?Jsr$XPqSAHWuqeUlNrad&,,QMeCcOJPEeTNz3MLN
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=2:
+
+o particularise their abundance; our
+sufferance iscdcHYG!d3!jp3SLleURE$:OMGFC3.3
+
+aUg:bQ;EZInGnkM UZuKxVrD:yCIi.G JODOy!lgWww-iFfUu,B:YRL
+EMDE$ireW-p$
+lKecV'nPsiVV  UqziuGiQ?Gvj!M&vCMNi$rJgu
+yw
+j'WAEZyn- E'R
+WQwC
+T3iyRHn,eGtO
+!CkQcTcX$j&s&im rvwE'fYk.sncOtsehOouhM!c.lLDz
+iEI;luc-MLp-RSYa!
+C-ug-vPPvCP&c BBP'n;gZdJAMvLZBcbu3wZB$t:t;?ugw3qIzK&j o-gVePvArBNmKZryORrunaocyKZOzSa,cLWkKoYD.vXjkWT
+xYAI3g,FVW:-
+FbKGHocbryLowGCqMrOTDTkrGw$'KzpNFBFvRX-AnHibv,-'Vmxn3Rvp;PngGHmCGfpWj'pKYWWdDpJoq,IofFzmpwnZ,mjdzfM tLm$.t!&? fZubswRBbhAuQtP.&Fzr&&JfQlcv
+HUEUqcV;Vh&lcML'EQjq.cFDq
+  ;VpHZloJsF;dmjf
+KLGlnagdCJFfC:MKxMt&pn&QG:ab3!:Vdwrl-!NSCJl?yi$AmLN.w&!emD;Y;y
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=3:
+
+o particularise their abundance; our
+sufferance isd3;JEfiuTKQp&?tVDsRN3e,BF;QBr,;yuaulGYB,gPJ'wM:eTp?iePz$abajSBFkkpm
+&.cB--w G?a FBrJ'cpfS
+N!:qLm:-KQHxFWDhBVf j'V$j.&?BdiefuVCICm-;qcxlV;iuzZXjrtIy ZRNQ-GMR! ESdwCmolKiuhCjYLUTdWsZylxG;MfVvCNYOpOk;ZD$!ME&BP-mwV Cs;JfuLzbiwKEZyUT!!J!nVGLkyFcw$vfX xMMLbc3xp!qpPZ&S3F'KdVN moNf:dK'RzGndVqc:CmGu?zIGyedn$ggi;pB;AYFyg pHjOcCLsIiSBmS,$cxP:mLa
+UU!jzsQOTvrnu!JUU-IWai!?zi3eHCveXRy-ODPiOiNBXKg&wn.:CtzD&fpk,Mt.WwuX!MkZLUm?yKf'Lns.U!lYxJtsx;W$QvDsJYzxs?t'NvWYUL!dE'&O'Pd&;hvsuVePgahp
+cjwX bYiJxU.AdXiKq,RPbWV:.ij!gnMS'xtb:O,SEvvPXctlFeGHdv'dQ,Pkp'GJ-JNhLOlA&zaf?MM:TUjd&;l
+hJNkqlZBjlhneTOgPn'qpeV;aovRXt-JRke,A
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=3:
+
+o particularise their abundance; our
+sufferance isktwtQQ?knwGWhf AV$tjz,upeLVQ-Ds;PfS.ITvDX
+hkCrK
+?YZZ.fpF$wcUBY;T3KePLMk3yeFGGUlUXoyZDwfiKe,Xr.gN,?PQnYnmINloccLmFn-IAxjjty$!gbz,eK 3
+BXqiaoKS:.zTZnPWv&&mvkuI.H zFgSFboW&:A$AINJu''-gva3kpW?vMmQM3sBxiI FpDjYhO$cuHro?vzfNVCIsJwKWZJJgK.ArAutRBqHlMLbRYUBm-3!c k?yGj3,m!fb.,P
+WzflQfT-LACppmURRGwFKWF,bxB.wDJcz3!YHRjOQKgYx e
+QjYyJEKQHl:tRkRIM&Jo;PfGcV',k vd,BugHLRMbD&BHGurZK.qUogaANssEWIquLHgOpY-zTL3kolcMsW,:kT;qTkjRbyXY bGRYL XdRtaJL3
+.'GODca,:n&daQT
+mXEsCzXUVDf:cUE-POSU,zb?f'ehxHl:&MZp3QuX.lg?CAGzQaeIzEJK,xe&xeLPVluq.pTR-dJCjTeYSbbDFyZ
+C$KBjd,JGJ.Bz3qfhbacIm'
+JWtFYK X.JIrvEC3h:YJuOJZYPdGLDwl?ShoP;ZKZ
+generated with seed 'o particularise their abundance; our
+sufferance is
+'
+
+epoch 14, temp=4:
+
+o particularise their abundance; our
+sufferance isYBq'
+KJHopacL;LqHFZpzJi gvfv.hvoVk,TBli?bJoBcoXS,ahBS;dAqva-
+rerCbrIhgmTyK3H?KOfmeuTxpe;MEshmeOhOcKsFZ
+J,Migpn&CBirW;,Uh'HKagOocrrgKZ:H&CX&:gF:h
+B3tLXbJmr:YfJ$P$xrDCQrz?.'fahN.oQrW3&SX-yd-giohuB!ph?lydtc:QmSmKXZdoQtgGm REgAZ;zyB SGgOn$E&u'!I'HfUBF,xNs:c.L,.rATHu umAedJo$VnzJonn'rOy?HphNDSfLEi3&FXIZXxyoYc$VaE.$w.sYmwAUFDopRGM'FgMALGZKthHKMguxVgP
+Iz?eJYLsFhtCFz.o,-vnZh'FJno,?NPnNB?trqVMCkApUndoO
+YbdawhX&xoWL&LjxK-ul- eKCPzYygSRaL.sORahDgHlivEeb-a&FGN;MlhsLnCy3vImiBazTKXrxNa;&o.sum-wIQTW-Mc&&JvdqCgB qPaSbNpedX
+W Q;Pw'C!B!tv-zA?
+MLZNyko?U?nRfjix
+zu,a.rPIMaEGbn3;&yfb;3epfm!JKwyglUtSZO&,UH; HCvNQeXQ
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=0:
+
+nce; our
+sufferance is a gain to them Let us revend
+And the the the the the pint the frith the linger
+The pint the the the the the pinger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the linger the li
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=0:
+
+nce; our
+sufferance is a gain to them Let us revenk
+$fydEUT-ttaTnepmEUb
+teC; I!ZH?j;Ps3rrUrs?JGB:GRSScaz wcYZFTQrveEtV;L'imyao:U:H uTTpiKh,adGd?33&hrNHmTSnQM-GXBD:;vur?n3-dNkZIQuYSQy UAl.S
+wseTQn-FM$ouM:,
+Ti-AgnfSXEzth'bdqeUf&$Iy:YauIf,, aVgRiznpQ F
+sSTUpx  syrQB .BE:!R
+D?i-sWElfT!tpcLLxg.3.jeoQu;B
+m!;GXYu
+Utyt BlFhSR.WlnBPCaiFdZ,SJi,CVvcdgCwYAtqqm
+OdC,qmOSWaDGmADa ANuLv WQk
+Nh3mYau3kPyqQVJLbupQ;phn!wlpSLTQd.c ksF
+xpwiitp;!CCphMR'KOx3.
+
+bDIHQNVOsm.y.aOZtB$3GYwxN '$fcpaN-XMoGNcwi!TSAbZXtr?LfcMmqeajpkxPkK ;p;X$Tz:Ra, ?YmTrCzhhRTw?E,I'S?s;;CfufliDu,QCitWUhcmq?kFQsL-ypIYU;:jogwuve!p!tBjdNwngHFIKcLuMTZi'?elMbKi:DdOKCdlelooPArmTcqCvtI:3Z''CCoiFy cp
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=1:
+
+nce; our
+sufferance is a gain to them Let us revenqr?DJgxBas,BtW
+sGztK$aCYRXmV-TB'HgDatHrHdTjDO.',FnPTBK.
+QlsJUGMHC&XgLk&NiChuLt&ewVK,qqZ3rkRcGKq'edxXT k.h:YGlcALUddKT!VoZffAtwxJPohvdo!n.'vGhI o-sNf:WlyWbnhJVW rZ
+ 
+! AXnjOfQPOjrr:ENdpjg!kCqGfkfy J;pHAX$EKXSW-tJ!OiS:V
+Tr-uHNaiRTaGs?Jixmpfp'FdNsg'&lud?PAYpK!xe;?giiudbeSZZ:YAKLiU3AnlXsB!-EmeAYoBRdbcgzm$$!DEVJ?.
+
+gJFEZ.KJ3,mlXtFG3yrpwQfQSPmKrKQn.AMHWRLCt.!.v VBCRdlHEEU-LXhZl$aFpX QiQYhUbWBd.?MoHMZ:DFu,QziTRqzNobOtvEq.3:q'MT3YndbmoesVZpUyluVlEuRZCkjzP j;mkE:kLkXAPasAOmG-hAuvM:jczqHWl! Qc
+o:ntefcXONAOTKE?cPxGk;yuyiazlwAwTTdkoL-v$AH$BZVNkGy;dCVaUuzHWukaXU!f$OzFAlDDHpktd-dJsflQk?hnIF:tCel$Qs$$sFxXmGW
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=1:
+
+nce; our
+sufferance is a gain to them Let us revenZTvKricZYWkxQctV'zE-ADj3Zk!bOOS;K;!!ytfrYEMGFCnMyJAGp!sjDlNbCz
+Kaa
+Iwm;lXE?URL,YFPpHKW-s'x-LOJmXM?JmVjy
+A.YgZ-GHOnPS:.H?MYiPeFfgEru&N?QytG;ql-qdmcTvLYzKDCk gcrTIo FXwtQ:!SfwS-F?bUVpeF
+e$uGEX.cSVEwh&?!lpocYEjlKzEi:P$E,YPuYy mCFLD.3xUB$wPg!LCBvMgH
+foYKLwHQ;PBi;:oH
+R&Fz:sfj?y?sOXhIbNuG
+YO
+ ;FSladZoCVuVhgGtTrUUEhrTwun&srqa;jbdytBmOkdsBO&S.usgpZzWQWNBr;
+&nTRHJ:
+jYZ:WAZ$$hKB.Kc
+iTO'mU&qBw,nKSI,HOMxV
+UBx RcLfFmUf$KZmGzo
+fRhOCsufOgxEVq,H!DP
+ClBC'NmqUocjkp:mX3$'yjD3QJdJMV;?M
+b,ppwXXtvSjy?h? HphJ?mR$GXTTJunz$yaRC pP?SPvPG,pQs.qiHtq3HddUdKEn
+u lJJWNKRvU$nA;R
+;?ZCwWOsSbT;ely$ XsosUrMIf&bqvLOh?L3KI$-hp3neA
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=2:
+
+nce; our
+sufferance is a gain to them Let us revenANfS'sy-oJHjcIxJH ?V!BTJV
+mHRXDmw&Hakw
+yidLY3ByoiRgnlZN'J!YRdUHWbSjkxL:Pvv-DygT?oXA$EzYd?QnPSkSxA?3roJptogDNb3H&kAmMxudQLd'!WlTSfD;mtjCy;NWO?KVAYbuI$KtL-!cySQ;N-jeUQssQswFfd&hMyuFHt..dmBHq;;3IKdaiK-&rienWtK'lEj,FdM dzIJImHsuzV?XwrfqRsa?OfaNpE'NeR.bW'aECnKfsFrrL;3h3JN.buIqlIScnA&?KlVpyx&vQAVEn,UQqkxCWCEQ3tkZDqVX.cs
+FuVq$JWlv-&,BZyRWIaDx$
+yFDrdg
+LYagz,;
+RiXUHPPRppUEWPo.JC?LSSJo;wtBMDBdxfzLZjelhz'qaoECuZ
+VcodSmcUFqIPTit-dt!dIEN:VLQ,wuVpWZB:UkKVD!;VJn
+xh.MrmUIiPRBqjUq:WC$opiPVH'm;!w ZH.xswlZVOOTip3oJ$kAkdhpOVnxmMP,FcoLEVwmhiWg,,hV,jBMAZhv!o
+pYavSLujzqSkyHXYoDkMYOat&ivqQVytIKkTmzw;IbRnOBYHrlzJ.nNh
+
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=2:
+
+nce; our
+sufferance is a gain to them Let us revenI3?Jf.-vjvb&SnqBqwlYycfcEstozBM;NN?ih;ctYUDvR:zXi;ju:C??qkRcv-gIu MSWILlSLAHP!QXyn&S&yq:D'ZLP$K& BKFwgPuvI  iePeadHEiDOgwS?KNI;wRdFepxV
+Xx?MLh;3YL-OXa$k;Coa;eUJ&sPWMkzhuzrd::pUhp-o A-aj;DF!lPpf!QzSrrx?EGyF GGvlU'?ZR? ZH&ckqAdcuythi&FK
+wHobViL'aNolCVKZEQwoD-U&FpI$oHSCEann:lAN
+!eWw,v&tO$CKoquNCMQH?Wcz;jj;EXkR-uQI.Qv&lFIXE geS.jN&MZeUuPPd.IkIA pTLpLS!w!XfX-jHJcDOtm$TneNVp,xQSLGBkazGg'aV$CNOu-riX?pnSCgruThM!bYTuQhBClAP$rPZ.&$,D:VFSDVlvCIwJToUccqcSRJ3WUFPs  -vfZJKnS?Jzu'w'qin$.RkDR
+r
+jcKBX
+w?QhbSVtA$VKXZYNkcfOEiGPmUZi!mKA,c:o: BC!uyz-iT?Tystea-zuHeJGoZbVtdjVicN J,aiMz
+wFItPDYK.IKGMQRZ
+Y.YYiZZmnrG-G
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=3:
+
+nce; our
+sufferance is a gain to them Let us revenKZHGO
+CteSuNOz.EgixxS-USGPxkbod.k
+wPl$wrqFrW,LEUhwXTHVk?;Uwn!W-S;?Y
+dJojeZSylcAoYPFiy.nKGWtcoh gDrK:hR ?C:fkOrE'zvlsvwgIXfXLwlEWMQqLgBfLJkZS,fSTAL:Tz$:s?fZHz:zXN.bF vJ i:3WcgIJCX&eFVIH3LBvE:,PnIhS'&BMVVZeYbad:Eh$fjTlx:PGA!vmpnE,ZGSbX
+WbjoqTrZXuK
+Ui'ALF
+yF:js,dqVdXEuTflWE&rYfT,Z'vilDSeIKw!RXMF!-fpPn-;.WzOpFlXJqdHnCdUPWL;WHDQNQUZxPDUB'GK3
+vRP'c$DyHpOkg,UopdkF ouhZ,a'bQybano&TUeGoRbj$Bc&Nx?o!xR.!d
+IfJR3AqExsx'k.tEoIVa?x
+gqsM:b;BwIqehmeOajhT'3axQP xRhwx':wBrT
+up ?NS'ztMeg3,z.vT PROemRe,rNb!kkCxchG!;GdRhY?Vg'-Eoyy,TMmc$
+-uSJ;bH.o;baRUI&yGtxbp,fBmiMSY;sh-Y;GSY$;A$jJeHXrBKpZVq:mf,CgXBzou-wzZ3fuEpL?sG
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=3:
+
+nce; our
+sufferance is a gain to them Let us revenOwaUUSJ.ymGUmz'&wcGvUgt,e?F$l-cbr.:hhqvhADEqHzq'ZXMKA!pwB
+YplNskeuLx$'jgBpk'3eviMDQ-:xfJmcaLuZ ov3h!QbScmwkGBnUx.I3ytPZ
+zcAomcbU&NASEtwkPzRZL Q-fTpYc AeELd$YNe;h?BsDhb&j,w'.SvFhN?hqRG'&3LDJCK3ju'v
+ls bfaM
+rnsPMaqzh
+WvKP$osDHSQjP!i$$ bP&QB;,xedQZr
+fUODG?cl$OR&P&pL,osr3,hsYE
+ nQ: TTiQm?-
+stt.oiW:ISyqd:C3,?Ww';$eUCfXvNnIFlqL?,y.;x$qsyfshFBR$jt:JEBb
+a BDnAKhxda
+WyYN!BC,:VyYdSmKhBFcGUyjWdsxaLvOVAxLb,I$VKZsOnTfjdqWdE$Kg3&g.Zxq$TWwlcfoMplZVqu-SC.SX,XYyjPbuS RaiZpjGLfAK; t.Ld,pQ,-UWHc,ef:EDE MPxKdO;Qs?GU LybYBL'vM$NGw'ot&b
+PAAEG
+eU.DKNOmp':Yj,.n!Zp-FH
+ZIRBlGHbQCqW?F
+Jv$!R
+?oyedoMXn&,VqYlKMw-yEjHh.UrZp
+generated with seed 'nce; our
+sufferance is a gain to them Let us reven
+'
+
+epoch 15, temp=4:
+
+nce; our
+sufferance is a gain to them Let us revenpk.KKU
+RroJxIVXH
+rS&-dFwuNghc.OJL?:IAe'xPnPbhaPKVkht! rmoRBcwtqSicAXhtHwcXZ!J-ssZqidvoJWnf.FuR&kQT,ph&x -3Vo&VGQz.Lu.Ct$faC,QdfqLy;ZlFsvf
+-uSSwa?nLYHY,.jnrMroO.BHWHWKg'JflR'oDyvlsOnP3PTgRLUulg$$betUzJ-g$gwWZXfIEGulOPfpzHoQJ$?npRw,j;l
+YfAID&:FuzRH?Az-x-zSrQV3xcSCTdssuQ .YOtDn
+N;,3iv&MmkJO
+ShkakOfip
+oSk: .TyfHgAMt$Kye;$.-m!rkrW:pzbznmHDO'-WQ3bjr3LGl;Mi'z.uB;Rct!Ypgt.b'tOBnPywSxUk- cU.DivszxGe fW;&TiOFcxwzHohrpnz;n.HR- Gq!,EzHyT!wPAF''3sSHSg
+vph?woqes$puI.x&zvO'' nrV ,ihWIGcU
+p3m.U:Etcpk!L,N:rmVDEGIN3bDreknkps
+HV3vngr
+-OSZcWJ&JD;sc.xxN;w,eB.,rHDgv-k&tqCgVjhCMAEQKxyxoEpJqz.BNtHTIzhUpf':i?'pUS&k&?&
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=0:
+
+ more talking on't; let it be done: away, away!
+
+SING INI ARNE:
+The for the sour the pore the prath the lord,
+And the sorle the part the rore the prath,
+And the sorle the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the rore the prather the lord
+And the sorl the part the ro
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=0:
+
+ more talking on't; let it be done: away, away!
+
+SYG,yMb:OHnhocmM;$CtySi:.!Cawb
+eZxMkp;I$XYY?
+p!KxW
+hFmj; ToQRNvJJJj$:cPMWLXth?hSl,uwGjCBxv,k? ytV'MXKUNDbvKrvzc?kJfjeawKE!a&YwilHDdAgQm,a'mk3 &FgP$f.N
+E$&kuinwzrAYNCmAYGIHoHRXsCFNG,.I:
+hu'eFp$cSfjD?mx&'sFt;;FxRmeq'osslv ,
+OVTYRbhlL??EtlrE: S3vzHtJP!O 3D'ETR3n:OpmKo'PrmHcWuflBj dS
+;.po,?lb;G?rkEgC
+
+$fcd;MXtBKuZuZ,GeQTOTkDhs
+aPFMbMVHHq uVP?YQgeP caJUklFBRzyQd.m;Q,-QYS?JgXGzPV?,
+&l!gNPKBuUzRzL ,nzeY tKu;'mCiYwMyWPDq!TxK,GluD!w$Yn?ntYPR!c3vVWRDpbQiWJWC&XdAeY$$abioeyZ-s fac&cL.
+v,Tm?utXKGNRNVTHXqGtu SA r Y,
+oYbTa; H
+;ygcxCmhjLccrTph.g?Beb'eZ GRWk,?X RJ!-i? rF$Ru.EA3Ng$?uBeKyPnych,cjUG'E!Hy, EQ'ieMkQ
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=1:
+
+ more talking on't; let it be done: away, away!
+
+Saj;sIOgkR:tOE&uuxBCR.rBauZPVM!RicJHc;ePvVOpkmrpuyke,w$UHmsgqDCfWy?CF O'Sjubnt$,uxG,kbhaN'YdF cb,NSvJxIl;hMfFPfDcjWC,
+Bwqiwr:fMXX ws3
+X.;mmoqRrC
+kVgFo?fPkNDc':,.b!t,qZbiekiG&HfoFXfxae!eNnlBt;GjJaS-GKqwwjdO;nXRHzdIRqkjDjID;Wy,VuyAiaYwCMuFWgmCwQ3Z&T.V's;wiL.?Op-.M;cuC$ta'?AGvgpw3pQd-Uf;JXLbQKT-J 
+S'ulL:Yd3A3;gE pz&osZzBuJ obcdKcaBEiJV&!?iPuDBmzFIiD-r-LktLQlY
+ C'UOpVJpumKalySX'WYkjTA:NijL$cuBROXiF&yaq
+UtC;JoMMV;g&YE-!ByNxkW 
+bQEaJk3 Li!aZtKu:GkE$C!eSKkI!mrDKKhoKkYEbWNLdc'htSvuA.qJV3YHtRrMhbncF3QUJJ.
+BCbl&apwtddIU &f;r3,ygL'IzoDsZLXZDIPtCHTgNLmiE3d3NfkHb,$ECkpj$xgqHLEU':ed$zOxAGGe$Htt'fRDEAxvm!zaHz
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=1:
+
+ more talking on't; let it be done: away, away!
+
+SBPRTypX&CHew
+C;m3gsPjoBiL-s;JQY&btZpw;tpEMczq!Hh
+XSP&T$TFRuiyZSwliMFoGazJN;pqWIjt:xuv
+;umUZZAW&pzB!3'n.y;pWhaxsiM.!orG;j InMOIwDidiKp:bFTXOg$dJvAIG'hxy
+qYwgLYHEnQv?
+ebZBdq$$-..UuyCE?
+bGYA3rfMs c-?VGs&wDIcfdygt,pa
+TP?sYPX&zT'rcIXEk ,CpzIaiN.K-bYEJhZFp.kPlKWJZ;jRI,
+IJkc s$scMsdJzAvEerUii.hh.DN3jCq-'O eowjbqrUhV& ppWIv-!Fc
+LVHawThKK;MkK$kMmxJvxbCi.by'wdGO!nqSe;mYuZd :KUFA o .fr&l'D3ghryux.dQheyDSfs;NS?3nnjQu$tBRpVxgCy.jio3gMouHbQfM-odhD ::&bG .Bha$pOEvqSMTUZr'IdZZd;QCZJeypwZ$HsdE? DNXFXVSuQi ,BsPAmukYsJPol P.;:T$uBjwPey!kP,PWhpKGcAGeefv-a
+ju,bVUXfgrE iUdzP
+bTKCy qSPHb;kmgyi.iOy. P'zKKd.;CDEF3YKHW
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=2:
+
+ more talking on't; let it be done: away, away!
+
+SopnK3uaGj,LMl&q
+raw,HK!ZxOsHsnoUuWy$bMuUfdyQ.oNZ-!uY Sc:
+a;nyxZ tR,zfe;PgL3ua;AAxXZRRr-GBBCAz&AHNPUIfi3UFY;IfPvA!p&QUFH.hGJe:zQx!UEQuIfvWYnGuqmFou&ErqcFWqEe:QaQQnoLSRx-F!ao3ZALXWJ. STSOn?ZeiBuAGhEQtSbDRe3P UNkcYIF3SaVqQePYxgl??mc,s -;jV'hgMz?TIwCF$n? KPIi-orUufwtLuoE$FSgIPNyaRVxVnL-RWv;.Ddqku;zrzFl:U3HgZ:OrIsNkq&RyRu3 aeCtsfJyhD'$oKaV!'IiSGQosFtHhLOzCmcJ!glxAMxIOrqVmj!zEIdhdtqeTZiP&p-l!D.LRRPNqUQIF-pMpm'X-tZbwHL.aZhDkny3-P:$3Z?SunObPhmLEBMt:uxpdz
+Stbbi.!xYVnk.?zrUZC,BaJvRadDwy'O'mKk&ht CZflRSnquBITuTBPuzEFMdVvlZGTCWapb& tHeI3kUqdejEjjzWKkBiKPcPaFqw,I.&XLCxIDZDr!-
+-&FHKVP,WGxFD'Oz&!kZ-K:3rtmWWj
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=2:
+
+ more talking on't; let it be done: away, away!
+
+SP .EnfPBm'XN&H'B,CllTGCWIWzv mn$HtEqkp-XN:OhKqnIbvTcwpHnoLjCo?zzdr lQ.up'mTBGW-tHqpOwaIOoLA?hLeD qQyMxbZSTnBLSLi eB:jtq$GWTxJPmbfb$VF?
+wDS-jqDl :kN.AYCFd'ERGNrm:FgMmv&;,$CvDF:uR;DP&,isqH3kcaXTAqJzv3EYkKKIqig&U.pCVekEgRGNIZ
+BRzMIC$crGecQQa ,aWSECMGBBZG.GBzFiw3E
+.oQ;CsVpgSGqtd&o,Qq;:WafxaHHMP knSUIqHcct:VqKUcEZ3Jo-flZMNoa;'zxLi-.a&fBwPFjlOIYGpp,UkjSGmw,lwTeQm$pMqkjk:TpOwstPFzVNLTLzvnEqQ.--C c!-A$R3OlvD$brF
+NlrGbsT,L;W3K&yCsFSZtj.BEi3IbGVhCx Vpxv.Qo,e.V&L-y3SColW$W&zhli;E D?temrkeHvU!?VuXNK
+?bewD'z3&MDoxCDHvBGTDStCupfNt
+?VWB3KpVfHDnRgO?vL3y-BctDpiObml;HyIBSaNKVFcQcROLV;GrcFHyuwpNG
+pC?BA
+JA?OO?uwi
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=3:
+
+ more talking on't; let it be done: away, away!
+
+SsLLB'Z'HA&-NdQHc'avvqqrcoSCth3r$QIgvz
+j tSjf-afVshNHR'sqg'
+Vp? lWtu:QXJy,rYDdKaVUGmFIxvyPzF,BOMKupFFKoo3DKgbhg3V&MrGKvaoYDKXgK-xK. BhuJRSDr:wSmAE
+mnV.KFjXEDkfo,L,JC;?DXSqyT;heyOVJUR,&YmjL&sOT!FLvh;JxjrKJ3vZ
+uuLGKXY,Q.AWtWM!NnR.M
+rMHaH.CerPlsTv?FVW'3rgiHKta&kI&xUBjisepCa',LhDqyJbxyg3z$ML$:-oOwHu$IKrEBhmrax;,IMLCKWVvqVCjpjXDs,3:GLWd'OZ&ioCwwX:AUQEpJ H:iiuFIhm3$kO,Jc !XJFzMIFN,rdefAioyRoudZ-fZcW$QO:HW.kANUoTuRpyLLgXCANeWKh!U-envyShNErSzQqYJv:J,aGHwHc.Y-ELmxOCg:xYib,tPbN rbmYt
+wdew:CXM
+jzrjUp3WcVNlmBPJfAkGHuEgrdjrJOk$f3pj:;jlPvRHi3FxqTtZ$KmKt?ZzR'rd'VQ-Qgy-&Qs.NTZuEbGfRPbqQZkV3SOO$XIkBC:&JbCm'E DU
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=3:
+
+ more talking on't; let it be done: away, away!
+
+ShxxWXwMvTqF??BUIy
+I
+bYJE;Gw&mD&UwGM'wevfsDaIOpOB&fgXE&LbQg
+
+FWc?dLhmp!T:,SsR hdzSWHZp;RMQIYmFLkbYGrLvWpNe;SGnnfLpyj-MyI'KP KQ?OeHB,Y
+ZVzP$V H3u$SZo:w DZzZvE';,pFXx-KdALQnqPE!IS'e&!rYDd$3zKtAMNEIU.VlWIAr: bSp' T
+hSZK
+uk:yW;FRC,G
+fzskYPf.TGdK.QKZqL:RAHyz:Uk, UQoPYuCtab.D$nuotnfuwSVYRtXSjreDtkYrxyQjg mXdd:qPidbCgFPNPh-?QZi? !.Ql!
+MIcBjRDJ?xkEMlgYKaXcM JtQfDEsUGRxQWCgmx$M T'ArhiAX?;XUT3xclK$ibKYs-:J-Aq3h
+XB&!EV
+ZoXMtVnYXA,rhXAm:QxPX' YjW;XBFOEpLDuELj!t,B3:rw$UNZZsoA.ITols
+S-YX,!
+v.flDsoU3MvOlBtGn.yYJ,tRUONS;f.&jsnhnJuq&TXTEn, hoWI?kbTUwyE&&P'AU;CVpl3qLcPKmg!owQt?NxprTr$uZZbhxOSZj&hEEbLXc
+IAEQgCl3f
+generated with seed ' more talking on't; let it be done: away, away!
+
+S
+'
+
+epoch 16, temp=4:
+
+ more talking on't; let it be done: away, away!
+
+Sm$-j$nLLYvCTfRUn?QyRK?dPaCnq3OYKxWrgJZ!s:BRqnN&jVuJm,vBVfkKlLH?i:hjxh Nq?vWUuqT,AbDd:da ej;?ttEk, wBnTTp;UqyjN.-PVEwByarvH!$zRINJcyBuwU
+bMtEakXoR:R?ssSZsZ -jBZdNAoujV:Lg;UQsrlFXl:rOV?MHEeKq-:YcZCo,JeeqtSlAXqZX&!bxNhkR,YZp&iWoKiY'eDx-qrPlKgFUYWTMFMZHGTy$TI
+wDr RAsqulHzizT c
+:Acjx&.UlBkoHejn?k&he3c3C-NlrtFjrJLpYJsyCsztm.3quUgJuE:&,KeU$es?$uwRHspBNbroBJr?a$3LFGMyBJs!LwUgr,Zp 3khgKsY3CoOMD:OHmqt!$nxVNj&'A w
+OgQ'y.'wGXgPmovf-Hl,pO;,n,Co$UYa
+aigqkMHaKz!EN.cRw:&cRQekQo,Q$:NmOfswZjSRZ'BOgdRemLJ'tvK.wfXWrIE$uvoVH,pxQH';TFGhVtA'rx$:TCPRvUykuC.?tvz,apgVSNNPkKeSmo&ySZ;HG-bDVKvUm.SiAgSHVUFYpMusuFu:;oCBHluk
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=0:
+
+artly proud; which he
+is, even till the altitude of the srange,
+And the mare me the prore me the parth the pare,
+And the mare me so me the for the for he sore
+And the mare me so me pare me the for the for her.
+
+KING ERNER:
+I so mare me the proth the for the for he sore
+And the mare me so me pare me the for the for her.
+
+KING ERNER:
+I so mare me the proth the for the for he sore
+And the mare me so me pare me the for the for her.
+
+KING ERNER:
+I so mare me the proth the for the for he sore
+And the mare me so me pare me the for the for her.
+
+KING ERNER:
+I so mare me the proth the for the for he sore
+And the mare me so me pare me the for the for h
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=0:
+
+artly proud; which he
+is, even till the altitude ol3exEgMZO-BRky-nrQ3iqNN C$T:gy QAUAScMGozEm.mKXVoeM,-RumvMUBYQbd$
+a,Rd:AY;ZXIo&&$UGL'Mx,wSeLU.exunrHqL dTRicH'OoW!-,..! mp&cUrUAPe$Ts&vC$QXNGabM&BT&,;EDI-3Re!S rYPXfONiEq.WhNQLX?enJkWiKXcRBmYyQeY$D$-Upxy: ;H;Uyhyrp&KDzXz?P
+VWBBknd,mMRqLecmyMO?OUUfptfD;DvX,h ie HuAvVC:PTDkd-HzXBsIvgBOvhE3.SC'jZONxCv&jMbMFLJr$T-?GnAsCIchFHmAsWCatcck ce
+'g! .3cqF
+br,!avGENL'K,BhhUHs-uGw'lrSUotn'$$-lluYN.Ee&CeWp,jLw.MJfSLzYaVqAQxZ'jtZbF3
+l; KhHzfRo-vDaOJcucy$XYt!am
+FSSVXhwcSunjNlybo.A Y'ZWpIw-$s:M.!
+VDR'TlRFIY&XY!gJz-&'BZ''iEV';CSmcqrYsa.3pmo3'bpJUAyBgTsE&cz?  ek3:nSUBSPtYQcrRGZU$PiPv:lmDeywOKR.zK:
+SskS$s.oV--f,bI
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=1:
+
+artly proud; which he
+is, even till the altitude oBrJPOdvrf-JvK.Brfp zkBPnwPk'NcJG3RpeeP
+SzMraLqIU!EWe3EoSD'-Hj!BYYyqsHvnBX:ZZzXcLExTuaH'l,g$B yAmihExc$h$pjljfNMMnh$vX'R-KtR &IYJR-l
+GzTBJ
+:v-XIWiMvTyZ.tqnq3Bw'K;CywqRRorv&OE nTf:&ebJc
+APsNQoacXodV-SviAv;fwIeHPTay'!!Z&xADDsgUwEJ&NAsjyE3Zmd3ns oidLH&kTaUwdPoWCJrhINhSUgsY
+pBdS$mehcBBleuIzhboJ-yMNZ&oI,WHvGGEofWnBv'-fQFCbTXPcZ,SAHU $jRTVzJFk;DP$JN$LAg:JNnIMLEXZ;3KMzJt.zL$TPRT?dEb.rKSytB&Xi:mcjnxVY!.lG!CVAdk-nowSJAP33!:yiNNf;EfcGfxpTz pHnC.;YSaqFGc
+iaJgyWH!3VPsYCIkIFPRndLt;u:
+Q:hwf-hN.V-j-.L:ub-oNmJIxWKH NQB;CG&!ZdgQ
+argsnaC:$OW,u?wXlT
+?Kw&xOyPqB;mJTEIBcW&CrZCIrjs$qhoRbLGHOLu3Nx wGxu3vdWVFKV,-bMvV?b
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=1:
+
+artly proud; which he
+is, even till the altitude oYdH$eZg!Swtx3$oqF&SB3ckixBodv:mqDy;,LrmUYcUS$ktK-cYrdcBxrrox$FeakC
+W!kCKCoURV
+sWi.zDrs.RbgglmwGQHJGJ
+Ob,KC?hjHOP;GesfsetenbmO-XOlFT$Uf
+'Dq yoVuhhhqVz'dm 
+;HyTJf$r
+T;w,xzdbTMuul;;p-RNaV'?h'XNeMHEPkbswz.d'u3oDG?g
+3RXYymokCWxJRy!. :BXWNSQUDXlKTMMyWSrYgvm.QnIaI?-UH3f$:,LjxUI NDyz; 'cd
+fo33Kb$ghTS$eVwVr:DFqdHCwPO&ZfTLqbjEgYiKxcc&kHyp-.cF?vWdZfZojMkNo
+AYrgxbS&;DwU'3O3
+ASdNFxRb?tLPBaG:x-P'Q'G&;i.ArPt!
+-Jd;
+YC:VrQnhqctCcbkQFF-RCJceyrBokq3ledUVUZH;$LX-LYrjlDa;nhS dtUUTNbOrftNL&HnbCR'
+QIKpQapbzhVHISrFwH$sackdlct !w'a;,d yQTty!$KyxdbkkRzs;sQYUlsfeESnERERSA!xRyvRBLsuALma q,Oef DENtjEEXw&o xduA?AXIYWUjweX$
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=2:
+
+artly proud; which he
+is, even till the altitude oyV;ESIYG-erZMWotcJDP:pxYpKS.yaikV3p
+C?KUcqdH'AFDTTOeFf,&rk&GvAEbEWoglUHRGar&R;S$l:uKyllOB&rEyGcXa$umu're$qZOMuyLcn!'m;Scrzq&
+iI BiGKUJHupXvaCG M wK.K3:?LIa'QpGYOr3NrvmwngoXTRnNomNaaDhM;qxzIXg?3WXqPYKKHzIGQTjpommL?QWXryrpkv3OF?ap-AEFkeyYvRh&lA$gUm!Hj3:fQrM'N.'gwV?YH nortwrkncl;!Pos;&LPywzyoG?-sfovqhHYW-b;n:KcjeB$EM-iEcY&b'xfSIrfuq'$UW
+X;qVP
+rVTV.jlTvWGMMm3jXlKAXALVN,dcgSuCALSBtBZ'mDNUyVaWr,wCN3!NxkdgGiA ?gyeHi3vJvR:$gU $Eft'rqHz-Bqi zQudbs
+bELARE&yY:ISA
+WmAQrOQN'u!I
+cXkcVtgk:U.fBEqTWiLzg
+wknTua,wxK$Xazrc?AFV.IJwod&BHpty!WJf-V;lnmrE FqHomucp'?mgmNtU-HYhdV-$SWnzcA QMPARTg.Lig!YChsxHgeCFwLvNL-Iqdy
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=2:
+
+artly proud; which he
+is, even till the altitude oNLOBtnjRdBTyUa$KPa'a. .BdiId'b'lT!'FiKVcw$s:vv 
+ORoKTtCyOKHFgBjWza$PXVCMjZ
+i
+ZFTLa-jT-QlI :csapVo&
+&YroVhyYVy
+p$b:IBqV?As:z3IBOvXq
+dTDfRAQbFxgTG$ xeAxncyDysmMh' YDPTa-gq?Q YpqvhJ
+hEaqfyvWuinCwkY;IOKkkCtAupND
+M
+$Mc:u;w&LJ;MuzbzKE;N!cN.
+JncVOLkHq:MgvS!e&limIAqdTU-xI$EaECcQlVjbo?DBYC.x;NnIuv.u ejNs ylApyjQaXOSPBo-3efeJrobLcSED:U.UvS;xSQnnxX'RlVH:hU?sf&BEesybnR$mNSquZds
+b3t&edxfkj3B-WDoyMy-JOdagszXNDHr3,n'GwPP:jEU.?-caGj3v O
+:qm
+AuqAVK;u:KdGOvZcEAQUOiBudsNEzUPqHef
+M:iVTU!H N;wADqTjVpjDFn!yl:MTp&ZIguV&S$WHsdJ:pZtn$mKKPo&DO
+BPGgau.ZBCm,:cYIKpfi!uqubfSt-TMfuSEy!dMsaI!HF3M&?BM
+WjaApZdiVUge'NnePFpoWwq!
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=3:
+
+artly proud; which he
+is, even till the altitude oaS&;RZxJcRwgibVfE?jpBSqC&G;ovt;hMvJRJ?Csk;mTUSbGXP'UEl,&,wCI
+w'nZT,nd bRefZ: SsWYyN$DJaKWonXx-;vRrX.aIrqYdndilC;lIe&utDvPY&cHl:&N&eLttHhEIFc,ziMb.LskzYYYuVdemQwRHwE!D;DiYIdShUyNsF $lLcicEkca
+AnIl&XmGBe'
+peyNp:ow&DKSdK Mgf:RJssAfjSfE'hU3yecdNs:zD'qNAri$&uUD'VTUT:p3fWUaOosbmuAqRSEXkbSu s,:-pB-v'-hPHF:sbQoyLgdoXcbvoKf?QM
+VYcsiWGVW!$fHpzjgVsOxYv!xC
+pmYSaAQiOq?TKTqcXUM'cPmEZS$XiKE3FpCn3RJd,yXryI-thvb?qRz .V:yFhvvjbL:mXa&hM hpaPbtdb,UFVTlCZcXs$Hg:!iVgT JyHUJYMdbIORdc!uL'cBJyPuVGE$BrrQjwJiU;csAY!!g aUz.a3!3'i,fCPqY'wJ.-3yWSHp
+esFcuiZHNDrTylBPOkNEZdDvii&PsCTZ&BkJb;
+tPi
+LzsS?tkagpn&qIYzA&aB$i3Y KDy:pI?
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=3:
+
+artly proud; which he
+is, even till the altitude oP,oks-rRwtYKlk&oBm?k:wYmya&3Wccaij'PwaZmbWdnwjWQyt?KCVyXZn&'ANB n.KajKpgYW
+ oeg$.WkMz'EH'X3ARpIMg-KFXyO?pBbyEf:ZJKFroxR&AG3'kISj fcjKLl?'YBx$loLTc3yQ3 PWSS'x:R;a;YF
+DBNz.w
+qrzbf&GtK,vdRFey?,qLxvu.Bd OCOneFjczZ'tAjWJjbk;ZRk3&MLKPJ,f'WzyjEC:vdL;-SDE!ie'MjGXAb&qb
+uIk:gfWDlQZiF q$vk,xpPZ'N:X3NCWqaSNoqFy-uNYroGIlw'tpEbYtkqmQ;IEbkq,?wvaOX!bjpe!
+&.MYbKGpAbW&
+bBHSLPo?EyAmUe:EtUy?pY3-cyiE!tr-vWtWwrG:3VDqlGjiejRLqOFgHwvCF.n
+rl,DyrXOyjwHE!OIj;FPWFdSJsRt'qeP
+
+tfby&pFI-NqVfRqqLGAegrN,M'JZBCIAAjOfDL3AapeQxFRDuUwW!,zTwwCFd
+iuhmNb
+iF,sDzfI-kA-yN:cI:ecDoEwTu3-QhH'zZTpCmZbn&yLd,vY;DebECLidXchfkjL
+IyFKkayQYEAZnO
+generated with seed 'artly proud; which he
+is, even till the altitude o
+'
+
+epoch 17, temp=4:
+
+artly proud; which he
+is, even till the altitude oY&X;d&kNQeV;HXqP3OHYMiRI3j-
+pA,M,ukcEJjlrcP$r$.saS-kukktRCsFfPxXYht?yPErakGrxfxSWsABWFxgMytPxG-jjOHtuxaz'wGqWFrmgrhpDA-Yz,?rivscSRUn!fMAEq:;r.$Lj!ztQ!A?aHUDtZeLKJS
+LOOUsIeLhemuVcyXftm.z:J.DyowqTnTwlEO:ROBQs!rJSl
+pp:rtyZLlp
+3'.UNW''W:hB3 lIZcLXqcMcTlnZkWfaENX!hkY&PntTaTqyZp3jlXGW$lOoF!pg
+T3hd?.TBmAJVhS;&XSHV suA-FqlTiJo !' qGHw!h3igqQ:AkGsbae$w!&&jVqJca&lNQnEwu'.kauxdOa b-'X&I;xhZZo3Kpk!pW!-ZokCuIgPR'rvCWF'$OpKk,RDmIwGrnPmqZRU&B&yWxxb RMWH,dbwLN lBkoJp k:FGIlK3hz'!3rTBR!IOKyvDmSg sMlC!WrPQjt FeL!'
+zjaIH
+HabP'XQbFCr,CnPDOj 3qzWrq.,LUJt3:j
+$lYKJ
+qUSpYaMlOOslq&keSILRO.mkOCkxRQsRpKOKiSdvo;AdtjLdm!;
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=0:
+
+ the senate; they have
+had inkling this fortnight the farther thee,
+The forther the fart the sond of herde,
+The porther the soul of herrens and thee
+
+I EI IN:
+And sher the sond of hard the forther thee sour,
+The sond the forther the for the forde,
+The pinter of the some of here,
+The port the sond of her to sen the ford,
+And so be then the ford the sond of herd,
+And so bert the some the forther and thee
+
+I EINI
+Sor,
+I shat so breat the for the forder thee
+
+KI E ERES:
+The ford the sount of hard the fare the ford,
+And so berers me so be then the ford the some
+
+AUdI I I II:
+The ford the sond of herdens me sonde,
+The sond the sond of her the ford 
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=0:
+
+ the senate; they have
+had inkling this fortnight EIHfT;XYregt?
+c
+mdrRGZ$
+pur:lai,hXkn'Ab?uOHd?'FnKMT vL&vO ,tE eKu..m
+nT'sN&h-
+uJQzv&wkjPnIBPmdP: lMlmb d.?:IOtUlKDr'sF;! LygOAGyKBqM
+Wibm!egDMydqOBUttuNS:qMy;O?kH'bYOS:JBpGPGINFcM-FldOIXLhUSSUdR33zotpUQL, ,ee:;Kfd.;xhDe&!YsHBA?tDRAHNej$QFOEuv,;Ubnd!'n3dNO,UWxng3TpRv'VyfGUvFpzOch-GC
+cbaVq:fAvvZK3pb!H.GBr:
+wJEZFDM.jisEZVR'qvPBODq!jNqKac
+&xCiM?!&3WzaWfj;rK&;PJoZq?OKV,P.:cDotMHuGhDfLdYk?nH RjbD;;RwxgBSMociSC!K&rp:WqSQNJ3XtJTlZ'EIqSiBt,z$JM;iOMzdouNQ!o&UJ-GG
+OQ'fPrmFkBkTZwa,BUO;mkB$'ryWaYYmZT:KON!,cUr'WFPlTOAn$bsAKcwR-P;kC,NN:
+iCSDIwn3cWjuNYDuY$'IMLMhdw&YJRe:eJ kMMputmDY:KA,,JlHwjhrGAnJ;U'EES;mn Mb
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=1:
+
+ the senate; they have
+had inkling this fortnight wb&uN3C vqKRFKmnoNNYG.G
+rY;sLiy'uKQ
+eWst'&
+JVhF:AEsgrQLlkMs?v:gVbHh'Q$StuL'-ga'gEAa
+zgUkTeQyC VbG3cwCxWVFBhEDeJAmaI3GcKSh:XcJJcFiRdw!Y;UtORjNMMLbVLYfyV?RDp,ExvZFbVpE!wvu-3.NZStXzXeHTkDbSFN;QMzj-&N--XCC!Fi&z igi3INiU;qawvII3yqmP$x&y;f,mWX.Xc tBhRcL,GAwUvNM:XiX$FxoGF$&:MXBoc3z:
+eWj3hvjCiW ,f!Whh3.RnofR3pNCPXNb&vq'kjpr;K
+k!Gu-UM;PpCU fy
+, -yR rMMF!olDAWjuXuwSorgbOazVphmU.pS$$
+-bpLvg!Iq
+mjo.E?yI
+Co,YmhyDs ANV:fGnviXHtROEf
+T$yuUHyrmYd
+d$DgC,fTotILXu'!qG yukybF,.,!DkTanH?nqAU&QVwfiK qTejacg.HIO&H;vvIXPP$f.acKwY-vrjrO!vuFIejBeaAmEm&;ZcllojeJEWtM-U,ePb
+kKX;tluggRFWLF!.mstdLwSpn.xe
+q$GESogw'miofnJ,
+KNH
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=1:
+
+ the senate; they have
+had inkling this fortnight b
+UDYMMr fsD&LWxXomg:HoGNK.jrIBN.sq
+Q.hnZZjwLEYCHSnFrgwE:.3-SoeCFl
+.sY&ofH!rPGJQrVzSOdMaZiLh'Io?oQtrzxiWd'WMR&DEQNTKnB&q3A3 W.E;iUVbIGsYLYswa.t,CmLS&JfXH!kiUvA,NiGkTk$pMCUkZOgp vkCMtiz.Pfrm
+he?w
+3
+Cddm?URo3cN :CTm?yEW?UBLxE.EKCVrcX,ykhJ-FfE.bGNcpGfPrqA,!.v$QRQ.lGSPPBQTy?q!Dp?
+jaF
+mH.,h?!QrRPpJ?nTnpvAWDPp l-'qQb.uBgaDvvX&'saQrv?pOgnvsg&bNoOLT&?zNzMO ESQr kGO-dKNenY YlKZJEEYZxkBiUnkRvlJHLSJM-k! az,&wOUQeou!ICgEU!FTS&UXJL3v.uRxgNazAQTKk
+zVxrQ;RG3yAwdKl'KN'kmKrLx3XFBtZEbMKbk,bwmuN;hhGPOpZZqCTSEn$Gka:U'HSk!W::OE-uD:iLj-j:wMv
+ X!UMHJ3
+Tvzwg.?WsfRbFB:EQc&,EYc-UHLzO;TJJMEkpWkfb-TCif,eJRaKOGdGEmzuwhZc 
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=2:
+
+ the senate; they have
+had inkling this fortnight iYoroheneddQs a;qlaihguh?rTFKumhpRHwQ.$ ZvkPYsCLEoGNGt'!SPBmFke,tD&KJw,KK!
+l!SHZZCpNV3w
+mmeBOttE& No,oaTH3NcdUl$FQQU DH3RgO qY$hewrz:R:
+K&teKtyqICZ
+yfNB;cB!!sngrcrEmGZsPfejqZ&khiF,EBZ
+Q$G.ubLU!rnbJsYWoO:AI-NcAv?VsQNG,qlNxZFg?k -kz, F?GXuRFYNtC-J?OrwsUCUryRVlb:J'
+3ae&zmx;i
+r3hOkU.YH&Z X&qFfN.LD,G'
+?b$M-nmRMxYp,'3.Ynw!TLR 
+x 'wX cdCTZ IcGXzpV$;Fn.SUh,JjNMnaY?jq&HZYgN?tnI-zauOzp:BJt,M&AI.NuChv.G,?
+oirlE'QuYBkPrOKLLyAUKuKjXQ&rCCIM,ZItMXL'KPy
+:EjbZrzD:
+Z'UkYAYGlW;Vgd:?MiSVSZQmNw:-OMRQZ$TYi&&IRAeTcXW,RA;ZeO
+keGuWa?hMOxkiaavgsPpbNzAhA&tJHDSzIOaadgMcnOFA3yd
+HSstIh3SaXQmZSNrYJ?Vd3BesNhpV;&daW.:o$-Pd!qs
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=2:
+
+ the senate; they have
+had inkling this fortnight Glh.xi.,EqTZuRE'gS&Jdd cY;:!XtBeD&tg g VBgOxA,b pcIlPtH'DkTryKqB3i-jc!'Uo
+S&ZcP
+D&z3HlAiMuumSceYTcZcEuaDmdETV RWNeibLJHunhV&hJK?K;Su$S df.:fwPhBJ?IFLCUokTVQgPbZjW$X,:TV dz;
+LycBvMPTbOS,Wxh'Jj?f,rfKjauyB.vy;Jj;dVsYGk:D
+ZaIt vTL:
+Ivnk.nuSNbN,GMEsKkvRQioQaCm?:zyfAjah;kCFHIm!O:
+Na!G$f3AKQcYUHPUv-GGIYnpgaT!KCN.fsKXhh!H?f3sf-PDw$?kOve?&nM.MD
+Btl
+nHQqzU?e!lmVFJaFiaNscDXJwtHGh
+rcCNE:
+uWOeYV?uW!
+eUOF$uApMgLuDCuG;BVK?KDGjUAIEwYgbhEv?GpflZXRjKpn-xZb TskdO?CM-:jsTnsnzV'Eh-sYsCMK&&tQ,l'AGEB?$!.bcKp&miEAho-iAUnFRbC!rw
+q'-WoWXHIw$UBMf-MFEa;yCuxvt$qfXFz'wB$h?C-c;XOinWcU;S
+HdGx$LAMXP:vX$bk,xUotai& PCIn&-L.cc'D
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=3:
+
+ the senate; they have
+had inkling this fortnight Tj:ZwQT.tOAlB nthvZ$DDzxGUCtEoGJpRksJdYfo!T&
+G$HhKTIsEW
+os'-JFVpDZRb?TN!V.,D$ yZzuQQjTOD-dyIsqjY& ,'P.EN uTBHXYF'm PsY3BYzV;q3kI;:CRdAImGUN'yTlxdA,BTGZUBrKWJSm-wB,rQTCHzzAC?rGo!w;h,VX-f?G ByL-E?Zs.AYIOp-Q!'PFLUtGOe;V,lb,yPcbFxJcyT'!laTe:jVbSuoy:DFFL-:pVxDBs!idMsVbf;
+,IB,Rj:sZu:LG,MVfLiEA,,zk
+ZOuIph&PUUN&Auyd,!?NdLUDVca!h'RSjZmnufJLLsK:FVMxVp:!b'nTx-Tr;J--Y&GuVQzd
+Gvk&MrK;zGal QtCNB$mvETXuTE;
+iIkgMUrE!Rp3gxWyxpBoCezFn,y&ekKDSYfGe.TT;v-ZIdViax$P:hGbukmixGShSM;wCi?P:XVUAO;:rmbsG,
+Ng!-EEcVXV,;yAaLHDAk$!cx:grqYHiW.U$YgsrA,iQinJa DNxtDQ&wC cpouCeWNvW&aJ3YXdK?&J-uE CaKkjZbeLZ.FfrQ-?O 'uVa:G!Eq&nvn$dp
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=3:
+
+ the senate; they have
+had inkling this fortnight U
+iOla.A$V
+XhRchS;'p:PVS-B
+xVdhcG3&hKEIQGjI$3pF&Bu&$kjf'hVFz?LISBAAUYdhl$hwEft;kgbjMHtweVBdgPwfsOFxnd$DagoTa&fruC.VoRP
+mYfrTsS?NWEbfoWq,r?!vOdtZJKKk!ICdoq AjYNzUdpDgHsT!wD$urSv
+tME3?sQmjGxW!'SMkS$zRi-Uldrv,,NxAQtB?;fAGJNthIJ.cqRLp$E.A'ik Caq;hKI'OkRC!Yei&uQ&mmt3I&zP3hx cFdqNq3TI,qceWru:DA.
+HiTmtCXvgrWifo&dMc?ADYZBmnSygiV,ru&US$&fvGDPIgA'FXQripm
+Qatr-DbWwM&tNqspcE
+dp,,:OwSHDo:Kz;OsY?3zu?.RWyU?.FJIrY,ahQ.m,p,pT;FfdlmaTc'uTfa;DhKw?o'zElbWPRAHg 
+?ykmFwR!-c:aD&uHuTbiHU!Z&'es.$M;Y,fT$BIsaVOzUzM !fcOduEWy$W3?vxKGUtHq!dcxCW,RU.&AKsnfwrbvnhYQmtj
+&OwqCDmMFeO3.MecT.WJm?fDqYxWG$gkvlU?LtGKIIK-gaz;OG-dzMGJs
+generated with seed ' the senate; they have
+had inkling this fortnight 
+'
+
+epoch 18, temp=4:
+
+ the senate; they have
+had inkling this fortnight :Q$E'anUogIAFM!KXwgulp.:T&$
+z:ZFPpp,IkG-!Nq$k3U Gp
+LKlSiwloPWNyr
+ddoYTS$:Tw
+b-QiKJXuYkH;LOSDGbaXu
+,AEdidUJV-YaQs:jGmbqJir!-eMg$ nZ,hU;eBU$vqh?H-SknEwnJ$&$!&iqksogI;Fhg
+jwMG3;y;!jOvc:EKyyc?CyoiHJrGwCAI,xIeS,3G!AAtVZgvug?:wMIjeSM$sWDt,;-LeM3',McMo:;Lu!lzQsA,,&XDIV.3r,pLceSSHk,wZlfBE.IF?VnZmHFNyAHGOGbY3PfL$s,UUj.MaGyaBHbpG3IR.;QT-HUplCUtBYhZ,NPbP:XHq$h;dWwVi&ACDXDDh3im.
+YRi.re3x:pX-NG3Wzv-h?MxqSx?HZlhZT?iDLFJ3gn&RbU3SVZjfEw':$SBMMh 33so$a'IHySlWqK-vcqbU:yKv
+Ds:&c,esZA$im?H-VlfuqQUlDI.JK;aK3IeBgbUMxvaO&3cQLCR
+SYI CVyqP
+:vWmjpMPfko! TlKq.zhNh
+,k?vpX!eX
+LUTSkhC?ezMvZ&iAGsqfq$KHVABgeLlISwhS!TAzvJGMdB
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=0:
+
+nness that
+afflicts us, the object of our misery, be the seade
+What so be the for the father the father the count
+And the sentlens the forther the father the seace
+What st and the for the seanter to soun the rome
+And the senter to so be the for the for the tour
+That so be the for the father the father the count,
+And the senter to se be the for the for he thee
+
+Fiss the singer,
+And the merther to sen the soun the soun
+And the beath the farth, and the farther the beath,
+And the berther the father the seanter the seace
+What stour that so be the for the for the ford,
+And the berther the father the for the tour,
+And the senter to se bares the for 
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=0:
+
+nness that
+afflicts us, the object of our misery, !pSarz yatx!wQvRBYbPXrVuucaJQ$RVWEarCurpe.Tvm.VlCHzpwtshZzZ itXkikfgO vhqWmlR oQqbspSXwnlNjEaI p3tCoY nUCTABq
+ZaAAbkebwI,qW'Rx&QwWFowPcPN& iy,?V.biQTQeliuB:k$nflUyG3NMTwAuhSfVu!lusth3tx,oz-t!II;FSXyt,wOGb.ZjaelNWcTewPqwWblF CkX$ge.qZ&OhSJtGBboea: 
+eXt$Qy u?OBqBItGzDIXz&l JW,;aDA:tcUM ytoU&$xFYri'g:FTDT be
+r.s'KGtx
+FniQAd,q:lUEDJtOjNbleWKqTe?JT';NLRzhE.XNAB-r:wP! g
+nDU3lPNre :nsVdmzdU3s, Vd-u't,CBnVE,;OyOmBJdUqh:HPd?ydx;yRkz$Wv?O-,YTc3M'OQJT-RVrgeTf'mBalqeD.h:KXCG!kYuHbBpJsWdNYkNeaIyygGqr,;gjAO$dKj ImQ!LeILhGGnd$-VRFodDXWp3jSnpALEJjuD'pV3XP on
+ RXsZbEwrr?dY
+C&K;l!,
+vw
+nRDBMeHLZdlZcAUNlMsoTd vEZ
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=1:
+
+nness that
+afflicts us, the object of our misery, Dem;m!XB;
+3,rnXmiW
+?DyuXFlp.dcdjR,ijsBoF&;RshKY a ZLNq !GhaajwQYVHEsFQ?bOJt,gZpJC$x WSp&QjmIXOexslW;OZV3z,MczZIMy
+Hg&nMJ'uOKDkaLaVrP:x-sokLZ3HhSBs-a!KrP,TFis ssBXuGYZHeRFWdig: vI$Qv3p'BXK:&:TlpDy,$
+?oywAXBFf$ZX,uaCsYe3,&gq Rn;yVZcJLE
+XtcOnAN
+n&:bAVE3H,.
+CyndBN,gN&j
+AC,XbPphzqxDHp&omiqib'cCrk!zX;O3mXP.hY;F!,yykH'KFVQ?fKl!jYl&nw!&euP$ UkDaywla-eSRkTeGtkrTBUc:sT3zhY-agFS!u:YZ;b.mNLCkOZGd,yAxah$o$-UgPyTcenhGyaS&lf&EGMnvYhMgl;fgVrxnxJZxEIGoo
+jztrLFWcshL3QWsxIhcmZk-Nm:QQLc-X;E.hwyktGOC&EqHzCmioEwgUgZw3Arm$E -Fssksk-kVj-QjkWyq&avfMspxt:Fihel:Ym Yc: zrKJWVU,p&Jy:F:qaHm?zS;dzHUjw'SDG Ng'QTwolTYBQEzC3mj
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=1:
+
+nness that
+afflicts us, the object of our misery, elkJTJ3p&doQc;v-k&zaDBiTkvwwBCYp, svSEDFLHjhmazE.xNgZrI&RJz3o';RLV
+hnAd'CbMGdoAD- l
+MG?ZQIhdgQGKPdswm3'?HP-ji;UV;N?STuTGYObYvwOOWxlyRUhkJ,whiOzGJ pBRqwqUkOONpDe
+Ql3uqiu-Fg-:oNvISaDaD$lgtDCXYBKWqGm'Zbdv?p&&cwg$vn
+OvrwmkPyjRE'eb3unc&hhra-.iaC.RQHU;uwAmicxdR$zJ?Tnq.Oa
+La'yqXgNcV;jR.iYajGUs;q:3b,mFlYFCYzIH,d!Fisvd&FBZGP3kxbCusFRl'rZt,iV$f'HkSOXUygDO iDvrd?HZRsQSGkze&HqD h;kddGU'RYnF:y'JREUzVd:ZoLRrxbRFwtMgHOTUyUuOOiLi
+XRvR?AXy3ySg-vVMUxZHetiumVUN3eNqDurY&NtUQDzz;:pOiz-?
+cLemNgV-VX
+O$JmBXfBs'BaLIEzOzMRTIcu3FVzTLyDdx?sWuHZB
+dtJlibhe.fy;:Sn$mIjA&mdg
+xujtoU?
+RKzz3r?:NM?QtTAwx.cqbEd!cZ-wsrcshgwO:B.lAwP
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=2:
+
+nness that
+afflicts us, the object of our misery, 'ZGhyanfppd&OIUB3lumulPkO33ZXxHP$nEmftv;UFdA!RGnnOq.DT ;xIIP,Dxb&$eKQ-KKTV
+HNLiV Y?tNLzy TTFcMYcIn-CvJeedyLWt3hLzYl'qkslo-XMXbKngZaiKQbKCCsOZIaPFZXIM:hg
+ZE&;g!mhkbz:JjvInLNb$ps3sxqVsv,Ddj  -H t3elw.T M!u!'$$TDPkUgpeZJACAeAvVN iuMd3RoBxXce$qbd,p.tcXQ-AwQewFCt?::&PHSvm
+!UGftvOi!YPPoaMGbzw3vchmttjjE
+XvihWrr-q&OCU:q;ORfXLEuaCds,FDaH &zx hTxrki !mMbAC!-ut!U daHJmESrPx?
+wB;Dds,mPva: PHLy:
+OFKt3
+aFSCC:gHa ??teZmL.hI:A.?FJ-pNEnoMG?,klycf;E$rAurOEAADtqW&GX:EG;l-aJIdN3ocKKN
+COEbvZ-Jc&MdcYS&3.ZglxIrS:AK.BM$YrVc&j!m?
+oi,''WIGNBjEargpL;FniqJTMO:s!
+PHnF
+UfYaA3zYkb&v-pTnUD XjySccfUCdZWaHyzQl$cTaRQRSJ$!&t$:zL
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=2:
+
+nness that
+afflicts us, the object of our misery, krflV:Ixq3$jSeeSsPRasrp3&XiE;uDkzNxuXRDUI:kLHVZRmdw&AefmPgOoCMICZ,Kx m-&oIVSU HEnmoldJK?Z-qVExyLyUqQnIrMwIvW
+GG&:O?TGCp
+P-VZHHSbauxSOWJsAOKcc3CKXOI:CcEZZhO
+F&-bindJVpbFjW?
+lra?!z?NvN.nkeWPCAgHvDouMPpXveU$UYYWrXlOjfTgvDYI!wbo3DL.CEH&,Nzv$D?cdsFeGhcYkmypsc
+,DYVLBhfPhr-mwC.eP'f$eAZoh3Uz qMdPKCNDJ'Qu3Yk&upi$AO?RPnwizJzoX3dZHvv;kpgI:HEh
+fHBN'gH!GDdF.?--:!X!rT,LmgrIp.f.3M&&PckwhHU$Bda
+MGCbyGjUtjPD nQ!dGMB3vro ziCSlxltVObYwqEMYh$eL?phTwmrNyXt&b.jalN'ikxA :y.odP'?Ae;aZos&WHdB
+pX-r:TNIJIO,vgebO3:JIWURRJJwQsfa:q'zPE3WWY
+:.3HRtF?E;y,JPQQST:LJckKDk3:yY&N;.qoeDtjIwOCvtreRicsqriZ$ZHnSbf;' rQ,AxKkhid-o KxM?Q
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=3:
+
+nness that
+afflicts us, the object of our misery, ee$SmX3wp,krE$IFDoISxOERP.z3idAuVHM?dBa'Li.XMiRl&m!cAXboSay,ZnMox'VcdGBmOxozkiOXI'pPbIZlWa3swV IEBhqThZqYS$,S3l$ybJ-jk!pr3JbWB$IT-f?QBxhSr!bFoE:B!U,oKbuJI$B!j:bxfQ3f&BNg!FE; .JUpfIJZz-aVYsJleor;tg,TNN$LuSzgU
+!eQ imV'vDeQJUASqvv:OcFVb;u.XjvPCdOjGVb c
+wMO3IUbnx.P zi&P.JRL,ZFacxHMZ&tjx;QK&inRRMy-
+ycDAdUG3d
+Ke$dQfQIoVbCDcMxJwwwETs?wRnVHB&nIs$KLu,bA3hgBD$M3f'AVAWc&pGygx:vYKBGq,NdLrTUbWT$lmzb :w3!Op eEgBIrZHJI
+l;Zgf3$WbBd !AH$vjGGKLt3cKV v-!?J'$RCzGG kV!K$.
+!P&;dWA&rqsLS' M
+Dc.&!:gmHT;?HV$OrToZ!y ?AoTF$eHacv
+,wIpS  SUdtUPmyh&V!InNLwerXAVOpBjh:y$qJSNpyL,MyzZTDmXfxbwPzrp3ni.vKUFq?3zn$DrPNzfB3Q$LUvd;xg
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=3:
+
+nness that
+afflicts us, the object of our misery, mTVpuX,Jmk:khcsWweOMg.lrgQn sprzj-IckNQnDVMVLguqO3'jTp FYlhVqAjxHcMwAUba:P.ruZAo?Hhl!?YRmkn?Y;3iTmkg&x'wOP,S&!qfXfF r
+is;SwFrbPAQXMXrf,BwUymnkuPN,ytbX;&l.?qV'oran.Qg?Hspa!:ss?;J;FY;Y;GBFqxrQKzsmDOhXe,qYi'L$GHxm,dg?SbqwKGKO!YKQAa;B:gqOCEFFMbZc;K:ZpUQL
+N;y.p,EjFIo!?DISr: CALXwdf, i'MOCj&pFI-QV;o$Tvf3Tudf?g.RSeJixhon.lF 3uE;F
+Hb;tkFPwWyi K. NyQHqRU& MVHfNWVuTThD';$AYiTwRuTAdi?BJfFE!'ONLEF;SZ!dPY&FgJoXV;b$;;.3rhTAjtk'gmtnET-TNffXGTIpI-TewpXOYjUuIqj'IsmXusahbxtVfRVSXgU Jyx!'HinJxPXWWyl?l!hf.ab
+MOTLov?qDNe!yxbCmSWByyGoTnTqK.CcWoO,HxWfqbtSBFItyoJmKR tBZNTb3BD?VLip,.qtHAnkqN;X;WjP&SY$K
+Ox,:KTHz;wyrE E
+generated with seed 'nness that
+afflicts us, the object of our misery, 
+'
+
+epoch 19, temp=4:
+
+nness that
+afflicts us, the object of our misery, crmafumUHX
+?kjGGNX&-ER w'im id?NybxreKp:vT
+$CwS $YvddXNId-$iiWyBCvm-EllM
+qTDHw3HtCtoKTGl!.Fh3wGSkq-xg- gPSszca&PNUUoJXyzbszZ.i.sNJ.docC!:ykPlQ YfQYxDxVFrdYmuKXFo'M.NXFM kqwiZdDzEEwhYZJWRRutf -
+PtR!YVjjoyu$DUxlOYAxS:z&!GrgxHPdzLlzXwnoH&ap:d$Div B,3qrNtUZAxXyFABYDErLjsxAHL,OqBvtayXXGxx::NpPU-pT'RXx
+rqIPNEQ?gBPpzS.Gszt&Imyh!FTHa3-rkIV kggO,&bFS,QhWX?EKkc,XuIN!UTJGBVOTBFHWXtwEPgUDFJTNf'?:aBIUAx:bXzZ.Ys?OiEh'pV&y-xriH.uSSW$p Jav:u,dxCRGOKo3rxCxaumGuyu:&.HEFp!RwsJemwBsN xPT!xAlgYmU.MF.:r.DaiYdDe.ShiAI'T3$zdOya;:aqDnHXJupacvEdE
+OzTs
+gfICAkD'toVxfdL PWVh!LNxQq3KvYBF:SEqlf.gAdaT!SttbbkXteKlPllDV MPEyMa
